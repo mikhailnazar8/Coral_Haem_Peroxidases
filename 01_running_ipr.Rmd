@@ -1,0 +1,11 @@
+---
+title: "01_running_ipr"
+author: "Mikhail Nazareth"
+date: "2024-10-15"
+output: html_document
+---
+To annotate the protein files from all the genomes (look at Suplementary Table 1) with the domains present in each of the protein sequences 
+̛
+```{bash, eval=FALSE}
+ interproscan.sh -i proteins.fasta  --disable-precalc -f tsv -goterms -cpu 12
+```
