@@ -1,6 +1,5 @@
 Running interproscan
 ================
-Mikhail Nazareth
 
 To annotate the protein files from all the genomes (look at
 Supplementary Table 1) with the domains present in each of the protein
@@ -32,5 +31,24 @@ haem peroxidaase domains from the protein sequences (look at
 ipr2fasta.py for more details)
 
 ``` bash
-python3 ipr2fasta.py ${species}_interproscan.tsv ${species}_prot.fasta
+python3 ipr2fasta.py ${species}_interproscan.tsv ${species}_prot.fasta >${species}_hp_domains.fasta
+```
+
+All the domain files had their sequence IDs edited to provide
+information on genome of origin for each protein sequence
+
+``` bash
+sed -i 's/^>/>A_cerv_/' acrop_cerv_hp_domains.fasta
+sed -i 's/^>/>A_digi_/' acrop_digi_hp_domains.fasta
+sed -i 's/^>/>A_mill_/' acrop_mill_hp_domains.fasta
+sed -i 's/^>/>A_tumida_/' aethi_tumi_hp_domains.fasta
+sed -i 's/^>/>C_virg_/' cras_virg_hp_domains.fasta
+sed -i 's/^>/>N_vect_/' nema_vect_hp_domains.fasta
+sed -i 's/^>/>D_pert_/' des_pert_hp_domains.fasta
+sed -i 's/^>/>O_fave_/' orbi_fave_hp_domains.fasta
+sed -i 's/^>/>P_dami_/' poci_dami_hp_domains.fasta
+sed -i 's/^>/>P_ever_/' pori_ever_hp_domains.fasta
+sed -i 's/^>/>S_pist_/' stylo_pist_hp_domains.fasta
+sed -i 's/^>/>S_cili_/' syco_cili_hp_domains.fasta
+sed -i 's/^>/>Xenia_sp_/' xenia_sp_hp_domains.fasta
 ```
