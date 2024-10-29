@@ -23,7 +23,133 @@ sed -i '' '/XP_/ s/^/O_fave_/' orbi_fave_ipr.tsv
 ...
 ```
 
-```{r}
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+t1 <- read_tsv("data_files/acrop_cerv_ipr.tsv") %>% mutate(species = "A.cervicornis")
+t2 <- read_tsv("data_files/acrop_digi2_ipr.tsv") %>% mutate(species = "A.digitifera")
+t3 <- read_tsv("data_files/acrop_mill_ipr.tsv") %>% mutate(species = "A.millepora")
+t4 <- read_tsv("data_files/des_pert_ipr.tsv") %>% mutate(species = "D.pertusum")
+t5 <- read_tsv("data_files/orbi_fave_ipr.tsv") %>% mutate(species = "O.faveolata")
+t6 <- read_tsv("data_files/poci_dami_ipr.tsv") %>% mutate(species = "P.damicornis")
+t7 <- read_tsv("data_files/pori_ever_ipr.tsv") %>% mutate(species = "P.evermanni")
+t8 <- read_tsv("data_files/stylo_pist_ipr.tsv") %>% mutate(species = "S.pistillata")
+t9 <- read_tsv("data_files/aethi_tumi_ipr.tsv") %>% mutate(species = "A.tumida")
+t10 <- read_tsv("data_files/cras_virg_ipr.tsv") %>% mutate(species = "C.virginica")
+t11 <- read_tsv("data_files/nema_vect_ipr.tsv") %>% mutate(species = "N.vectensis")
+t12 <- read_tsv("data_files/syco_cili_ipr.tsv") %>% mutate(species = "S.ciliatum")
+t13 <- read_tsv("data_files/xenia_sp_ipr.tsv") %>% mutate(species = "Xenia spp")
+
+prot_table <- rbind(t1, t2, t3 , t4 , t5 , t6 , t7 , t8, t9,t10,t11,t12,t13)%>% select(id, analysis, sig_acc, sig_desc, length, ipr_acc, ipr_desc, goterm, species)
+
+distinct_prot <- prot_table %>%   distinct(id,sig_acc, .keep_all = TRUE)
+
+prot_list <- prot_table %>% select(sig_acc,sig_desc, ipr_acc, ipr_desc) %>% distinct(sig_acc, .keep_all = T)
+
+t1_nohp <- read_tsv("data_files/no_hp/acrop_cerv_ipr.tsv") %>% mutate(species = "A.cervicornis")
+t2_nohp <- read_tsv("data_files/no_hp/acrop_digi2_ipr.tsv") %>% mutate(species = "A.digitifera")
+t3_nohp <- read_tsv("data_files/no_hp/acrop_mill_ipr.tsv") %>% mutate(species = "A.millepora")
+t4_nohp <- read_tsv("data_files/no_hp/des_pert_ipr.tsv") %>% mutate(species = "D.pertusum")
+t5_nohp <- read_tsv("data_files/no_hp/orbi_fave_ipr.tsv") %>% mutate(species = "O.faveolata")
+t6_nohp <- read_tsv("data_files/no_hp/poci_dami_ipr.tsv") %>% mutate(species = "P.damicornis")
+t7_nohp <- read_tsv("data_files/no_hp/pori_ever_ipr.tsv") %>% mutate(species = "P.evermanni")
+t8_nohp <- read_tsv("data_files/no_hp/stylo_pist_ipr.tsv") %>% mutate(species = "S.pistillata")
+t9_nohp <- read_tsv("data_files/no_hp/aethi_tumi_ipr.tsv") %>% mutate(species = "A.tumida")
+t10_nohp <- read_tsv("data_files/no_hp/cras_virg_ipr.tsv") %>% mutate(species = "C.virginica")
+t11_nohp <- read_tsv("data_files/no_hp/nema_vect_ipr.tsv") %>% mutate(species = "N.vectensis")
+t12_nohp <- read_tsv("data_files/no_hp/syco_cili_ipr.tsv") %>% mutate(species = "S.ciliatum")
+t13_nohp <- read_tsv("data_files/no_hp/xenia_sp_ipr.tsv") %>% mutate(species = "Xenia spp")
+
+prot_table_nohp <- rbind(t1_nohp, t2_nohp, t3_nohp , t4_nohp , t5_nohp , t6_nohp , t7_nohp , t8_nohp, t9_nohp,t10_nohp,t11_nohp,t12_nohp,t13_nohp)%>% select(id, analysis, sig_acc, sig_desc, length, ipr_acc, ipr_desc, goterm, species)
+
+prot_linked <- c("DR987689.1_ORF1" ,"evm.model.Chr11.917" ,  "evm.model.Chr11.924"  , "evm.model.Chr2.1139" , "evm.model.Chr3.1092"  , "evm.model.Chr4.151"  ,  "Novel02572"      ,      "Novel02575"   ,        
+ "Novel03871"        ,    "paus_s0281.g3.t1_ORF2" ,"paus_s0281.g5.t1_ORF2" ,"paus_s0281.g6.t1_ORF1",
+ "XP_022794431.1" )
+
+drop_all <- c("S_cili_XP_065197397.1", "S_cili_XP_065197398.1", "S_cili_XP_065197396.1", "S_cili_XP_065197398.1", "S_cili_XP_065197396.1", "D_pert_KAJ7394159.1"  , "O_fave_XP_020616189.1", "O_fave_XP_020616187.1",
+ "P_ever_CAH3196444.1"  , "P_ever_CAH3195852.1"  , "P_dami_XP_027039809.1", "S_pist_XP_022784016.1",
+ "A_mill_XP_029203804.2" ,"A_cerv_KAK2563915.1_2", "adig_s0028.g73.t1"   ,  "A_cerv_KAK2563915.1_2",
+ "adig_s0028.g73.t1"  ,   "N_vect_XP_048577051.1" ,"A_cerv_KAK2563915.1" )
+
+
+
+distinct_prot_nohp <- prot_table_nohp %>% distinct(id,sig_acc, .keep_all = TRUE)
+
+prot_list_no_hp <- distinct_prot_nohp%>% select(sig_acc,sig_desc, ipr_acc, ipr_desc) %>% distinct(sig_acc, .keep_all = T)
+
+prot_list_nohp <- prot_table_nohp %>% select(sig_acc,sig_desc, ipr_acc, ipr_desc) %>% distinct(sig_acc, .keep_all = T)
+```
+
+We visualized the tree using a heat map to see, which domains were present in which protein sequences (look at supplementary data from the paper for a more detailed version of the heat map)
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+tree2 <- read.tree("data_files/run1.contree")
+
+ggtree_data <- ggtree(tree2)$data
+  
+  tree2_tibble <-tree2 %>%  as_tibble()  %>%
+  mutate(prot_accession = ifelse(grepl("_[1-3]$", label) & grepl("[A-Za-z]", label),
+                                 sub("_[1-3]$", "", label),
+                                 label))%>%
+  left_join(ggtree_data %>% select(node, isTip), by = c("node")) %>%
+  mutate(node_number = ifelse(!isTip, node, NA))
+
+
+signal_accessions <- unique(prot_table$sig_acc)
+
+# Initialize play_tree2
+play_tree2 <- tree2_tibble
+
+# Iterate over each unique signal accession
+for (sig in signal_accessions) {
+  # Filter prot_table for the current signal accession
+  temp_group <- prot_table %>% filter(sig_acc == sig)
+  
+  # Create a new column in play_tree2 for the current signal accession
+  play_tree2 <- play_tree2 %>%
+    mutate(!!sig := ifelse(prot_accession %in% temp_group$id, "yes", "no"))
+}
+
+# Select only necessary columns
+play_tree2 <- as.data.frame(play_tree2)
+
+# Ensure unique row names
+tree2_heatmap <- play_tree2%>%
+  mutate(label = make.unique(as.character(label))) %>%
+  column_to_rownames(var = "label") %>% 
+  select(!parent:node_number)
+
+
+
+# Ensure no duplicated row names
+rownames(tree2_heatmap) <- make.unique(rownames(tree2_heatmap))
+
+phylo_tree <- as.phylo(tree2_tibble) %>% 
+  drop.tip(drop_all)
+
+p2 <- ggtree(phylo_tree) %<+% play_tree2 +
+  geom_tiplab(align = TRUE, linetype = 'dashed', linesize = 0.05, size =0.3) +
+  geom_nodelab(hjust = 1,nudge_x = 0.2, size =1)+
+  #geom_text2(aes(label = node_number), hjust = -0.3, size = 2, na.rm = TRUE) +
+  geom_tippoint(size = 0.5)
+
+# Add heatmap
+gheatmap(p2, data = tree2_heatmap, colnames = TRUE, offset = 0.1 , width = 1, font.size = 1, colnames_angle = 90, legend_title = "present", hjust = 0)
+
+
+```
+
+This heatmap was then divided into clades based on different domain architecture and taxonomic exclusivity into 9 clades
+
+```{r,echo=FALSE, message=FALSE, warning=FALSE}
+p2 %>% 
+  collapse(426,'max',fill="black") %>% 
+  collapse(559,'max',fill="black") %>% 
+  collapse(386,'max',fill="black") %>% 
+  collapse(371,'max',fill="black") %>% 
+  collapse(406,'max',fill="black") %>% 
+  collapse(619,'max',fill="black") %>% 
+  collapse(656,'max',fill="black") %>%   
+  collapse(347,'max',fill="black") %>% 
+  collapse(681,'max',fill="black")
 
 ```
 
