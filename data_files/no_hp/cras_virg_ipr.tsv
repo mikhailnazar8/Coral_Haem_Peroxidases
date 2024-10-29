@@ -1,0 +1,504 @@
+id	start	end	score	md5	length	analysis	sig_acc	sig_desc	status	ipr_acc	ipr_desc	goterm
+C_virg_XP_022289630.1	766	798	-	c1f4a30c876ea47cbcdfd07260cdb430	825	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022289630.1	70	90	-	c1f4a30c876ea47cbcdfd07260cdb430	825	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022291683.1	73	93	-	edc9bbda6336936303f6897f31d4ad60	837	Coils	Coil	Coil	T	-	-	nan
+C_virg_XP_022293504.1	805	844	-	98620c5583426380195b46cc6bbf7395	844	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022293504.1	741	767	-	98620c5583426380195b46cc6bbf7395	844	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022293504.1	789	804	-	98620c5583426380195b46cc6bbf7395	844	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022293504.1	743	757	-	98620c5583426380195b46cc6bbf7395	844	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022293504.1	780	844	-	98620c5583426380195b46cc6bbf7395	844	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022293705.1	26	59	-	d0fed6a6744bebc5c8c9d37d247ff5d9	840	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022293705.1	32	59	-	d0fed6a6744bebc5c8c9d37d247ff5d9	840	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022293705.1	69	89	-	d0fed6a6744bebc5c8c9d37d247ff5d9	840	Coils	Coil	Coil	T	-	-	nan
+C_virg_XP_022314516.1	1377	1433	1.2E-6	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00214	vwc	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022314516.1	394	480	14.201181	422a3d86a15ef1462013206cbbe3ea38	1433	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+C_virg_XP_022314516.1	210	297	9.73E-19	422a3d86a15ef1462013206cbbe3ea38	1433	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022314516.1	302	391	8.5E-22	422a3d86a15ef1462013206cbbe3ea38	1433	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022314516.1	22	209	3.2E-49	422a3d86a15ef1462013206cbbe3ea38	1433	Gene3D	G3DSA:3.80.10.10	Ribonuclease Inhibitor	T	IPR032675	Leucine-rich repeat domain superfamily	-
+C_virg_XP_022314516.1	54	112	5.9E-14	422a3d86a15ef1462013206cbbe3ea38	1433	Pfam	PF13855	Leucine rich repeat	T	IPR001611	Leucine-rich repeat	GO:0005515
+C_virg_XP_022314516.1	101	122	7.819765	422a3d86a15ef1462013206cbbe3ea38	1433	ProSiteProfiles	PS51450	Leucine-rich repeat profile.	T	IPR001611	Leucine-rich repeat	GO:0005515
+C_virg_XP_022314516.1	1369	1433	3.0E-8	422a3d86a15ef1462013206cbbe3ea38	1433	Gene3D	G3DSA:6.20.200.20	-	T	-	-	nan
+C_virg_XP_022314516.1	210	302	2.4E-21	422a3d86a15ef1462013206cbbe3ea38	1433	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022314516.1	1375	1433	3.56E-10	422a3d86a15ef1462013206cbbe3ea38	1433	SUPERFAMILY	SSF57603	FnI-like domain	T	-	-	nan
+C_virg_XP_022314516.1	400	482	4.7E-13	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+C_virg_XP_022314516.1	309	390	3.9E-14	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+C_virg_XP_022314516.1	492	572	0.0095	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+C_virg_XP_022314516.1	216	299	1.5E-7	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+C_virg_XP_022314516.1	1396	1433	-	422a3d86a15ef1462013206cbbe3ea38	1433	ProSitePatterns	PS01208	VWFC domain signature.	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022314516.1	494	573	4.54E-13	422a3d86a15ef1462013206cbbe3ea38	1433	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022314516.1	158	208	2.1E-6	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00082	lrrct1	T	IPR000483	Cysteine-rich flanking region, C-terminal	-
+C_virg_XP_022314516.1	487	554	9.191864	422a3d86a15ef1462013206cbbe3ea38	1433	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+C_virg_XP_022314516.1	75	98	0.28	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+C_virg_XP_022314516.1	123	146	0.033	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+C_virg_XP_022314516.1	99	122	0.0034	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+C_virg_XP_022314516.1	55	74	9.2	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+C_virg_XP_022314516.1	1301	1323	-	422a3d86a15ef1462013206cbbe3ea38	1433	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022314516.1	495	558	3.7E-7	422a3d86a15ef1462013206cbbe3ea38	1433	Pfam	PF13927	Immunoglobulin domain	T	-	-	nan
+C_virg_XP_022314516.1	303	389	7.7E-17	422a3d86a15ef1462013206cbbe3ea38	1433	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+C_virg_XP_022314516.1	210	296	6.8E-14	422a3d86a15ef1462013206cbbe3ea38	1433	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+C_virg_XP_022314516.1	394	481	1.5E-21	422a3d86a15ef1462013206cbbe3ea38	1433	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+C_virg_XP_022314516.1	50	185	4.25E-35	422a3d86a15ef1462013206cbbe3ea38	1433	SUPERFAMILY	SSF52058	L domain-like	T	-	-	nan
+C_virg_XP_022314516.1	392	485	3.4E-21	422a3d86a15ef1462013206cbbe3ea38	1433	FunFam	G3DSA:2.60.40.10:FF:000425	Myosin light chain kinase	T	-	-	nan
+C_virg_XP_022314516.1	393	483	8.45E-23	422a3d86a15ef1462013206cbbe3ea38	1433	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022314516.1	391	486	1.4E-25	422a3d86a15ef1462013206cbbe3ea38	1433	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022314516.1	125	146	7.627247	422a3d86a15ef1462013206cbbe3ea38	1433	ProSiteProfiles	PS51450	Leucine-rich repeat profile.	T	IPR001611	Leucine-rich repeat	GO:0005515
+C_virg_XP_022314516.1	303	388	14.092283	422a3d86a15ef1462013206cbbe3ea38	1433	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+C_virg_XP_022314516.1	299	391	3.9E-17	422a3d86a15ef1462013206cbbe3ea38	1433	FunFam	G3DSA:2.60.40.10:FF:000032	palladin isoform X1	T	-	-	nan
+C_virg_XP_022314516.1	487	571	9.3E-12	422a3d86a15ef1462013206cbbe3ea38	1433	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022314516.1	320	386	1.52206E-14	422a3d86a15ef1462013206cbbe3ea38	1433	CDD	cd00096	Ig	T	-	-	nan
+C_virg_XP_022314516.1	303	390	8.1E-22	422a3d86a15ef1462013206cbbe3ea38	1433	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022314516.1	315	379	1.5E-13	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+C_virg_XP_022314516.1	222	287	6.4E-9	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+C_virg_XP_022314516.1	498	561	5.8E-6	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+C_virg_XP_022314516.1	406	471	2.6E-14	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+C_virg_XP_022314516.1	1381	1433	7.5E-8	422a3d86a15ef1462013206cbbe3ea38	1433	Pfam	PF00093	von Willebrand factor type C domain	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022314516.1	210	297	12.967001	422a3d86a15ef1462013206cbbe3ea38	1433	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+C_virg_XP_022314516.1	123	144	87.0	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00365	LRR sd22 2	T	-	-	nan
+C_virg_XP_022314516.1	99	120	0.72	422a3d86a15ef1462013206cbbe3ea38	1433	SMART	SM00365	LRR sd22 2	T	-	-	nan
+C_virg_XP_022314516.1	1375	1433	11.4179	422a3d86a15ef1462013206cbbe3ea38	1433	ProSiteProfiles	PS50184	VWFC domain profile.	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022314517.1	368	461	3.3E-21	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	FunFam	G3DSA:2.60.40.10:FF:000425	Myosin light chain kinase	T	-	-	nan
+C_virg_XP_022314517.1	370	456	14.201181	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+C_virg_XP_022314517.1	101	122	7.819765	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	ProSiteProfiles	PS51450	Leucine-rich repeat profile.	T	IPR001611	Leucine-rich repeat	GO:0005515
+C_virg_XP_022314517.1	186	273	12.967001	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+C_virg_XP_022314517.1	1353	1409	1.2E-6	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SMART	SM00214	vwc	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022314517.1	78	136	6.4E-14	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	Pfam	PF13855	Leucine rich repeat	T	IPR001611	Leucine-rich repeat	GO:0005515
+C_virg_XP_022314517.1	1372	1409	-	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	ProSitePatterns	PS01208	VWFC domain signature.	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022314517.1	186	273	9.59E-19	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022314517.1	75	98	0.28	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+C_virg_XP_022314517.1	99	122	0.0034	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+C_virg_XP_022314517.1	55	74	9.2	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+C_virg_XP_022314517.1	187	277	8.3E-21	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022314517.1	1351	1409	3.45E-10	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SUPERFAMILY	SSF57603	FnI-like domain	T	-	-	nan
+C_virg_XP_022314517.1	275	367	3.8E-17	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	FunFam	G3DSA:2.60.40.10:FF:000032	palladin isoform X1	T	-	-	nan
+C_virg_XP_022314517.1	468	548	0.0095	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+C_virg_XP_022314517.1	192	275	1.5E-7	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+C_virg_XP_022314517.1	376	458	4.7E-13	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+C_virg_XP_022314517.1	285	366	3.9E-14	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+C_virg_XP_022314517.1	279	365	7.6E-17	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+C_virg_XP_022314517.1	186	272	6.7E-14	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+C_virg_XP_022314517.1	370	457	1.4E-21	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+C_virg_XP_022314517.1	134	184	2.1E-6	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SMART	SM00082	lrrct1	T	IPR000483	Cysteine-rich flanking region, C-terminal	-
+C_virg_XP_022314517.1	1277	1299	-	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022314517.1	369	459	8.17E-23	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022314517.1	35	161	3.34E-29	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SUPERFAMILY	SSF52058	L domain-like	T	-	-	nan
+C_virg_XP_022314517.1	1351	1409	11.4179	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	ProSiteProfiles	PS50184	VWFC domain profile.	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022314517.1	278	367	8.36E-22	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022314517.1	1345	1409	3.0E-8	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	Gene3D	G3DSA:6.20.200.20	-	T	-	-	nan
+C_virg_XP_022314517.1	1357	1409	7.3E-8	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	Pfam	PF00093	von Willebrand factor type C domain	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022314517.1	296	362	1.63356E-14	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	CDD	cd00096	Ig	T	-	-	nan
+C_virg_XP_022314517.1	23	186	2.9E-43	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	Gene3D	G3DSA:3.80.10.10	Ribonuclease Inhibitor	T	IPR032675	Leucine-rich repeat domain superfamily	-
+C_virg_XP_022314517.1	382	447	2.6E-14	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+C_virg_XP_022314517.1	291	355	1.5E-13	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+C_virg_XP_022314517.1	474	537	5.8E-6	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+C_virg_XP_022314517.1	198	263	6.4E-9	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+C_virg_XP_022314517.1	471	534	3.6E-7	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	Pfam	PF13927	Immunoglobulin domain	T	-	-	nan
+C_virg_XP_022314517.1	463	547	9.1E-12	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022314517.1	367	462	1.4E-25	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022314517.1	463	530	9.191864	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+C_virg_XP_022314517.1	470	549	4.52E-13	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022314517.1	278	366	7.9E-22	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022314517.1	279	364	14.092283	9aaa61eb4bdc8cec6d9492d4cc753fa9	1409	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+C_virg_XP_022314518.1	1152	1189	-	5633b368d9fcf5f09eb61176288b06e4	1189	ProSitePatterns	PS01208	VWFC domain signature.	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022314518.1	1125	1189	2.4E-8	5633b368d9fcf5f09eb61176288b06e4	1189	Gene3D	G3DSA:6.20.200.20	-	T	-	-	nan
+C_virg_XP_022314518.1	243	310	9.191864	5633b368d9fcf5f09eb61176288b06e4	1189	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+C_virg_XP_022314518.1	148	241	2.7E-21	5633b368d9fcf5f09eb61176288b06e4	1189	FunFam	G3DSA:2.60.40.10:FF:000425	Myosin light chain kinase	T	-	-	nan
+C_virg_XP_022314518.1	59	144	14.092283	5633b368d9fcf5f09eb61176288b06e4	1189	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+C_virg_XP_022314518.1	1137	1189	6.0E-8	5633b368d9fcf5f09eb61176288b06e4	1189	Pfam	PF00093	von Willebrand factor type C domain	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022314518.1	58	147	6.69E-22	5633b368d9fcf5f09eb61176288b06e4	1189	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022314518.1	1131	1189	2.82E-10	5633b368d9fcf5f09eb61176288b06e4	1189	SUPERFAMILY	SSF57603	FnI-like domain	T	-	-	nan
+C_virg_XP_022314518.1	55	147	3.1E-17	5633b368d9fcf5f09eb61176288b06e4	1189	FunFam	G3DSA:2.60.40.10:FF:000032	palladin isoform X1	T	-	-	nan
+C_virg_XP_022314518.1	250	329	3.48E-13	5633b368d9fcf5f09eb61176288b06e4	1189	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022314518.1	2	57	5.7E-7	5633b368d9fcf5f09eb61176288b06e4	1189	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022314518.1	1133	1189	1.2E-6	5633b368d9fcf5f09eb61176288b06e4	1189	SMART	SM00214	vwc	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022314518.1	1057	1079	-	5633b368d9fcf5f09eb61176288b06e4	1189	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022314518.1	1131	1189	11.4179	5633b368d9fcf5f09eb61176288b06e4	1189	ProSiteProfiles	PS50184	VWFC domain profile.	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022314518.1	251	314	2.9E-7	5633b368d9fcf5f09eb61176288b06e4	1189	Pfam	PF13927	Immunoglobulin domain	T	-	-	nan
+C_virg_XP_022314518.1	162	227	2.6E-14	5633b368d9fcf5f09eb61176288b06e4	1189	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+C_virg_XP_022314518.1	254	317	5.8E-6	5633b368d9fcf5f09eb61176288b06e4	1189	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+C_virg_XP_022314518.1	71	135	1.5E-13	5633b368d9fcf5f09eb61176288b06e4	1189	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+C_virg_XP_022314518.1	76	142	1.16469E-14	5633b368d9fcf5f09eb61176288b06e4	1189	CDD	cd00096	Ig	T	-	-	nan
+C_virg_XP_022314518.1	59	145	6.1E-17	5633b368d9fcf5f09eb61176288b06e4	1189	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+C_virg_XP_022314518.1	150	237	1.2E-21	5633b368d9fcf5f09eb61176288b06e4	1189	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+C_virg_XP_022314518.1	149	239	6.65E-23	5633b368d9fcf5f09eb61176288b06e4	1189	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022314518.1	150	236	14.201181	5633b368d9fcf5f09eb61176288b06e4	1189	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+C_virg_XP_022314518.1	147	241	1.1E-25	5633b368d9fcf5f09eb61176288b06e4	1189	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022314518.1	58	146	6.4E-22	5633b368d9fcf5f09eb61176288b06e4	1189	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022314518.1	8	53	2.47E-7	5633b368d9fcf5f09eb61176288b06e4	1189	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022314518.1	242	327	7.4E-12	5633b368d9fcf5f09eb61176288b06e4	1189	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022314518.1	65	146	3.9E-14	5633b368d9fcf5f09eb61176288b06e4	1189	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+C_virg_XP_022314518.1	156	238	4.7E-13	5633b368d9fcf5f09eb61176288b06e4	1189	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+C_virg_XP_022314518.1	248	328	0.0095	5633b368d9fcf5f09eb61176288b06e4	1189	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+C_virg_XP_022319818.1	392	485	3.4E-21	f37f97a469249ca6e1268b892087e82c	1433	FunFam	G3DSA:2.60.40.10:FF:000425	Myosin light chain kinase	T	-	-	nan
+C_virg_XP_022319818.1	1377	1433	1.2E-6	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00214	vwc	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022319818.1	394	480	14.201181	f37f97a469249ca6e1268b892087e82c	1433	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+C_virg_XP_022319818.1	210	297	9.73E-19	f37f97a469249ca6e1268b892087e82c	1433	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022319818.1	22	209	3.2E-49	f37f97a469249ca6e1268b892087e82c	1433	Gene3D	G3DSA:3.80.10.10	Ribonuclease Inhibitor	T	IPR032675	Leucine-rich repeat domain superfamily	-
+C_virg_XP_022319818.1	101	122	7.819765	f37f97a469249ca6e1268b892087e82c	1433	ProSiteProfiles	PS51450	Leucine-rich repeat profile.	T	IPR001611	Leucine-rich repeat	GO:0005515
+C_virg_XP_022319818.1	222	287	6.4E-9	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+C_virg_XP_022319818.1	315	379	3.1E-14	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+C_virg_XP_022319818.1	498	561	5.8E-6	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+C_virg_XP_022319818.1	406	471	2.6E-14	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+C_virg_XP_022319818.1	210	299	2.4E-21	f37f97a469249ca6e1268b892087e82c	1433	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022319818.1	1369	1433	3.0E-8	f37f97a469249ca6e1268b892087e82c	1433	Gene3D	G3DSA:6.20.200.20	-	T	-	-	nan
+C_virg_XP_022319818.1	302	391	2.09E-21	f37f97a469249ca6e1268b892087e82c	1433	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022319818.1	495	558	3.7E-7	f37f97a469249ca6e1268b892087e82c	1433	Pfam	PF13927	Immunoglobulin domain	T	-	-	nan
+C_virg_XP_022319818.1	1301	1322	-	f37f97a469249ca6e1268b892087e82c	1433	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022319818.1	1375	1433	3.35E-10	f37f97a469249ca6e1268b892087e82c	1433	SUPERFAMILY	SSF57603	FnI-like domain	T	-	-	nan
+C_virg_XP_022319818.1	299	391	2.6E-16	f37f97a469249ca6e1268b892087e82c	1433	FunFam	G3DSA:2.60.40.10:FF:000032	palladin isoform X1	T	-	-	nan
+C_virg_XP_022319818.1	303	388	14.128582	f37f97a469249ca6e1268b892087e82c	1433	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+C_virg_XP_022319818.1	393	486	1.4E-25	f37f97a469249ca6e1268b892087e82c	1433	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022319818.1	300	392	3.1E-21	f37f97a469249ca6e1268b892087e82c	1433	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022319818.1	494	573	4.54E-13	f37f97a469249ca6e1268b892087e82c	1433	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022319818.1	158	208	2.1E-6	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00082	lrrct1	T	IPR000483	Cysteine-rich flanking region, C-terminal	-
+C_virg_XP_022319818.1	1396	1433	-	f37f97a469249ca6e1268b892087e82c	1433	ProSitePatterns	PS01208	VWFC domain signature.	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022319818.1	487	554	9.191864	f37f97a469249ca6e1268b892087e82c	1433	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+C_virg_XP_022319818.1	400	482	4.7E-13	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+C_virg_XP_022319818.1	309	390	1.4E-13	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+C_virg_XP_022319818.1	492	572	0.0095	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+C_virg_XP_022319818.1	216	299	1.5E-7	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+C_virg_XP_022319818.1	75	98	0.28	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+C_virg_XP_022319818.1	123	146	0.033	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+C_virg_XP_022319818.1	99	122	0.0034	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+C_virg_XP_022319818.1	55	74	9.2	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+C_virg_XP_022319818.1	54	112	5.9E-14	f37f97a469249ca6e1268b892087e82c	1433	Pfam	PF13855	Leucine rich repeat	T	IPR001611	Leucine-rich repeat	GO:0005515
+C_virg_XP_022319818.1	487	571	9.3E-12	f37f97a469249ca6e1268b892087e82c	1433	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+C_virg_XP_022319818.1	50	185	4.25E-35	f37f97a469249ca6e1268b892087e82c	1433	SUPERFAMILY	SSF52058	L domain-like	T	-	-	nan
+C_virg_XP_022319818.1	393	483	8.45E-23	f37f97a469249ca6e1268b892087e82c	1433	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+C_virg_XP_022319818.1	125	146	7.627247	f37f97a469249ca6e1268b892087e82c	1433	ProSiteProfiles	PS51450	Leucine-rich repeat profile.	T	IPR001611	Leucine-rich repeat	GO:0005515
+C_virg_XP_022319818.1	1348	1375	-	f37f97a469249ca6e1268b892087e82c	1433	Coils	Coil	Coil	T	-	-	nan
+C_virg_XP_022319818.1	320	386	9.16369E-15	f37f97a469249ca6e1268b892087e82c	1433	CDD	cd00096	Ig	T	-	-	nan
+C_virg_XP_022319818.1	303	389	2.6E-16	f37f97a469249ca6e1268b892087e82c	1433	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+C_virg_XP_022319818.1	210	296	6.8E-14	f37f97a469249ca6e1268b892087e82c	1433	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+C_virg_XP_022319818.1	394	481	1.5E-21	f37f97a469249ca6e1268b892087e82c	1433	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+C_virg_XP_022319818.1	1381	1433	7.5E-8	f37f97a469249ca6e1268b892087e82c	1433	Pfam	PF00093	von Willebrand factor type C domain	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022319818.1	210	297	12.967001	f37f97a469249ca6e1268b892087e82c	1433	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+C_virg_XP_022319818.1	123	144	87.0	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00365	LRR sd22 2	T	-	-	nan
+C_virg_XP_022319818.1	99	120	0.72	f37f97a469249ca6e1268b892087e82c	1433	SMART	SM00365	LRR sd22 2	T	-	-	nan
+C_virg_XP_022319818.1	1375	1433	11.4179	f37f97a469249ca6e1268b892087e82c	1433	ProSiteProfiles	PS50184	VWFC domain profile.	T	IPR001007	VWFC domain	GO:0005515
+C_virg_XP_022320278.1	63	83	-	e9a313cf69ab3a438d9d18e98749d353	790	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022320278.1	41	83	-	e9a313cf69ab3a438d9d18e98749d353	790	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022321866.1	43	78	3.11839E-6	7206f9ba5481f29cc4b1ea7aa146fdb6	608	CDD	cd00054	EGF CA	T	-	-	nan
+C_virg_XP_022321866.1	41	79	7.0E-9	7206f9ba5481f29cc4b1ea7aa146fdb6	608	Gene3D	G3DSA:2.10.25.10	Laminin	T	-	-	nan
+C_virg_XP_022321866.1	206	221	1.5E-50	7206f9ba5481f29cc4b1ea7aa146fdb6	608	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321866.1	566	580	1.5E-50	7206f9ba5481f29cc4b1ea7aa146fdb6	608	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321866.1	159	170	1.5E-50	7206f9ba5481f29cc4b1ea7aa146fdb6	608	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321866.1	43	79	1.06E-5	7206f9ba5481f29cc4b1ea7aa146fdb6	608	SUPERFAMILY	SSF57196	EGF/Laminin	T	-	-	nan
+C_virg_XP_022321866.1	41	78	13.213886	7206f9ba5481f29cc4b1ea7aa146fdb6	608	ProSiteProfiles	PS50026	EGF-like domain profile.	T	IPR000742	EGF-like domain	-
+C_virg_XP_022321867.1	23	58	3.67082E-6	7217bae9b8748e16cd022635702d1704	588	CDD	cd00054	EGF CA	T	-	-	nan
+C_virg_XP_022321867.1	21	58	13.213886	7217bae9b8748e16cd022635702d1704	588	ProSiteProfiles	PS50026	EGF-like domain profile.	T	IPR000742	EGF-like domain	-
+C_virg_XP_022321867.1	23	59	1.01E-5	7217bae9b8748e16cd022635702d1704	588	SUPERFAMILY	SSF57196	EGF/Laminin	T	-	-	nan
+C_virg_XP_022321867.1	21	59	6.7E-9	7217bae9b8748e16cd022635702d1704	588	Gene3D	G3DSA:2.10.25.10	Laminin	T	-	-	nan
+C_virg_XP_022321867.1	186	201	1.1E-50	7217bae9b8748e16cd022635702d1704	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321867.1	546	560	1.1E-50	7217bae9b8748e16cd022635702d1704	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321867.1	139	150	1.1E-50	7217bae9b8748e16cd022635702d1704	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321868.1	23	58	3.67082E-6	7217bae9b8748e16cd022635702d1704	588	CDD	cd00054	EGF CA	T	-	-	nan
+C_virg_XP_022321868.1	21	58	13.213886	7217bae9b8748e16cd022635702d1704	588	ProSiteProfiles	PS50026	EGF-like domain profile.	T	IPR000742	EGF-like domain	-
+C_virg_XP_022321868.1	23	59	1.01E-5	7217bae9b8748e16cd022635702d1704	588	SUPERFAMILY	SSF57196	EGF/Laminin	T	-	-	nan
+C_virg_XP_022321868.1	21	59	6.7E-9	7217bae9b8748e16cd022635702d1704	588	Gene3D	G3DSA:2.10.25.10	Laminin	T	-	-	nan
+C_virg_XP_022321868.1	186	201	1.1E-50	7217bae9b8748e16cd022635702d1704	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321868.1	546	560	1.1E-50	7217bae9b8748e16cd022635702d1704	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321868.1	139	150	1.1E-50	7217bae9b8748e16cd022635702d1704	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321869.1	23	58	3.67082E-6	7217bae9b8748e16cd022635702d1704	588	CDD	cd00054	EGF CA	T	-	-	nan
+C_virg_XP_022321869.1	21	58	13.213886	7217bae9b8748e16cd022635702d1704	588	ProSiteProfiles	PS50026	EGF-like domain profile.	T	IPR000742	EGF-like domain	-
+C_virg_XP_022321869.1	23	59	1.01E-5	7217bae9b8748e16cd022635702d1704	588	SUPERFAMILY	SSF57196	EGF/Laminin	T	-	-	nan
+C_virg_XP_022321869.1	21	59	6.7E-9	7217bae9b8748e16cd022635702d1704	588	Gene3D	G3DSA:2.10.25.10	Laminin	T	-	-	nan
+C_virg_XP_022321869.1	186	201	1.1E-50	7217bae9b8748e16cd022635702d1704	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321869.1	546	560	1.1E-50	7217bae9b8748e16cd022635702d1704	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321869.1	139	150	1.1E-50	7217bae9b8748e16cd022635702d1704	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321870.1	23	58	3.67082E-6	7217bae9b8748e16cd022635702d1704	588	CDD	cd00054	EGF CA	T	-	-	nan
+C_virg_XP_022321870.1	21	58	13.213886	7217bae9b8748e16cd022635702d1704	588	ProSiteProfiles	PS50026	EGF-like domain profile.	T	IPR000742	EGF-like domain	-
+C_virg_XP_022321870.1	23	59	1.01E-5	7217bae9b8748e16cd022635702d1704	588	SUPERFAMILY	SSF57196	EGF/Laminin	T	-	-	nan
+C_virg_XP_022321870.1	21	59	6.7E-9	7217bae9b8748e16cd022635702d1704	588	Gene3D	G3DSA:2.10.25.10	Laminin	T	-	-	nan
+C_virg_XP_022321870.1	186	201	1.1E-50	7217bae9b8748e16cd022635702d1704	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321870.1	546	560	1.1E-50	7217bae9b8748e16cd022635702d1704	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321870.1	139	150	1.1E-50	7217bae9b8748e16cd022635702d1704	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321871.1	23	58	3.67082E-6	7217bae9b8748e16cd022635702d1704	588	CDD	cd00054	EGF CA	T	-	-	nan
+C_virg_XP_022321871.1	21	58	13.213886	7217bae9b8748e16cd022635702d1704	588	ProSiteProfiles	PS50026	EGF-like domain profile.	T	IPR000742	EGF-like domain	-
+C_virg_XP_022321871.1	23	59	1.01E-5	7217bae9b8748e16cd022635702d1704	588	SUPERFAMILY	SSF57196	EGF/Laminin	T	-	-	nan
+C_virg_XP_022321871.1	21	59	6.7E-9	7217bae9b8748e16cd022635702d1704	588	Gene3D	G3DSA:2.10.25.10	Laminin	T	-	-	nan
+C_virg_XP_022321871.1	186	201	1.1E-50	7217bae9b8748e16cd022635702d1704	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321871.1	546	560	1.1E-50	7217bae9b8748e16cd022635702d1704	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022321871.1	139	150	1.1E-50	7217bae9b8748e16cd022635702d1704	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022322131.1	117	137	-	e298c1d9085b82bfe687d544179cfc6b	721	Coils	Coil	Coil	T	-	-	nan
+C_virg_XP_022325444.1	117	137	-	4dc4aafff6ace47e7e89b189ca6e93e6	720	Coils	Coil	Coil	T	-	-	nan
+C_virg_XP_022328617.1	43	78	1.81746E-6	f09056dbb0bac6a5988ec1e9dedb6ce7	608	CDD	cd00054	EGF CA	T	-	-	nan
+C_virg_XP_022328617.1	206	221	1.5E-50	f09056dbb0bac6a5988ec1e9dedb6ce7	608	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022328617.1	566	580	1.5E-50	f09056dbb0bac6a5988ec1e9dedb6ce7	608	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022328617.1	159	170	1.5E-50	f09056dbb0bac6a5988ec1e9dedb6ce7	608	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022328617.1	41	78	13.182812	f09056dbb0bac6a5988ec1e9dedb6ce7	608	ProSiteProfiles	PS50026	EGF-like domain profile.	T	IPR000742	EGF-like domain	-
+C_virg_XP_022328617.1	41	79	5.1E-9	f09056dbb0bac6a5988ec1e9dedb6ce7	608	Gene3D	G3DSA:2.10.25.10	Laminin	T	-	-	nan
+C_virg_XP_022328617.1	43	79	1.19E-5	f09056dbb0bac6a5988ec1e9dedb6ce7	608	SUPERFAMILY	SSF57196	EGF/Laminin	T	-	-	nan
+C_virg_XP_022328618.1	23	58	2.09775E-6	570f310951a5bc1115b7058c1abad18b	588	CDD	cd00054	EGF CA	T	-	-	nan
+C_virg_XP_022328618.1	21	58	13.182812	570f310951a5bc1115b7058c1abad18b	588	ProSiteProfiles	PS50026	EGF-like domain profile.	T	IPR000742	EGF-like domain	-
+C_virg_XP_022328618.1	186	201	1.1E-50	570f310951a5bc1115b7058c1abad18b	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022328618.1	546	560	1.1E-50	570f310951a5bc1115b7058c1abad18b	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022328618.1	139	150	1.1E-50	570f310951a5bc1115b7058c1abad18b	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022328618.1	21	59	4.9E-9	570f310951a5bc1115b7058c1abad18b	588	Gene3D	G3DSA:2.10.25.10	Laminin	T	-	-	nan
+C_virg_XP_022328618.1	23	59	1.15E-5	570f310951a5bc1115b7058c1abad18b	588	SUPERFAMILY	SSF57196	EGF/Laminin	T	-	-	nan
+C_virg_XP_022328619.1	23	58	2.09775E-6	570f310951a5bc1115b7058c1abad18b	588	CDD	cd00054	EGF CA	T	-	-	nan
+C_virg_XP_022328619.1	21	58	13.182812	570f310951a5bc1115b7058c1abad18b	588	ProSiteProfiles	PS50026	EGF-like domain profile.	T	IPR000742	EGF-like domain	-
+C_virg_XP_022328619.1	186	201	1.1E-50	570f310951a5bc1115b7058c1abad18b	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022328619.1	546	560	1.1E-50	570f310951a5bc1115b7058c1abad18b	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022328619.1	139	150	1.1E-50	570f310951a5bc1115b7058c1abad18b	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022328619.1	21	59	4.9E-9	570f310951a5bc1115b7058c1abad18b	588	Gene3D	G3DSA:2.10.25.10	Laminin	T	-	-	nan
+C_virg_XP_022328619.1	23	59	1.15E-5	570f310951a5bc1115b7058c1abad18b	588	SUPERFAMILY	SSF57196	EGF/Laminin	T	-	-	nan
+C_virg_XP_022328620.1	23	58	2.09775E-6	570f310951a5bc1115b7058c1abad18b	588	CDD	cd00054	EGF CA	T	-	-	nan
+C_virg_XP_022328620.1	21	58	13.182812	570f310951a5bc1115b7058c1abad18b	588	ProSiteProfiles	PS50026	EGF-like domain profile.	T	IPR000742	EGF-like domain	-
+C_virg_XP_022328620.1	186	201	1.1E-50	570f310951a5bc1115b7058c1abad18b	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022328620.1	546	560	1.1E-50	570f310951a5bc1115b7058c1abad18b	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022328620.1	139	150	1.1E-50	570f310951a5bc1115b7058c1abad18b	588	PRINTS	PR00457	Animal haem peroxidase signature	T	IPR019791	Haem peroxidase, animal-type	-
+C_virg_XP_022328620.1	21	59	4.9E-9	570f310951a5bc1115b7058c1abad18b	588	Gene3D	G3DSA:2.10.25.10	Laminin	T	-	-	nan
+C_virg_XP_022328620.1	23	59	1.15E-5	570f310951a5bc1115b7058c1abad18b	588	SUPERFAMILY	SSF57196	EGF/Laminin	T	-	-	nan
+C_virg_XP_022329590.1	870	905	12.895472	ef733b94346bf3f7e255415c42801b01	1580	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329590.1	1302	1401	3.21E-15	ef733b94346bf3f7e255415c42801b01	1580	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+C_virg_XP_022329590.1	1303	1400	1.8E-19	ef733b94346bf3f7e255415c42801b01	1580	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+C_virg_XP_022329590.1	875	899	4.1E-6	ef733b94346bf3f7e255415c42801b01	1580	Pfam	PF00036	EF hand	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329590.1	1411	1562	1.3E-28	ef733b94346bf3f7e255415c42801b01	1580	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+C_virg_XP_022329590.1	1	21	6.0	ef733b94346bf3f7e255415c42801b01	1580	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	T	-	-	nan
+C_virg_XP_022329590.1	906	941	11.02648	ef733b94346bf3f7e255415c42801b01	1580	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329590.1	1123	1264	4.0E-13	ef733b94346bf3f7e255415c42801b01	1580	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+C_virg_XP_022329590.1	1298	1404	14.285016	ef733b94346bf3f7e255415c42801b01	1580	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+C_virg_XP_022329590.1	856	982	7.11E-22	ef733b94346bf3f7e255415c42801b01	1580	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+C_virg_XP_022329590.1	874	1580	9.6E-142	ef733b94346bf3f7e255415c42801b01	1580	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+C_virg_XP_022329590.1	801	996	6.1E-22	ef733b94346bf3f7e255415c42801b01	1580	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+C_virg_XP_022329590.1	1072	1577	0.0	ef733b94346bf3f7e255415c42801b01	1580	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	T	-	-	nan
+C_virg_XP_022329590.1	875	936	1.66794E-9	ef733b94346bf3f7e255415c42801b01	1580	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329590.1	1401	1580	1.7E-89	ef733b94346bf3f7e255415c42801b01	1580	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+C_virg_XP_022329590.1	1401	1580	1.1E-50	ef733b94346bf3f7e255415c42801b01	1580	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022329590.1	1305	1580	1.87652E-50	ef733b94346bf3f7e255415c42801b01	1580	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+C_virg_XP_022329590.1	910	938	9.9	ef733b94346bf3f7e255415c42801b01	1580	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329590.1	874	902	8.6E-5	ef733b94346bf3f7e255415c42801b01	1580	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329590.1	1301	1400	5.3E-40	ef733b94346bf3f7e255415c42801b01	1580	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+C_virg_XP_022329590.1	1300	1400	1.2E-11	ef733b94346bf3f7e255415c42801b01	1580	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+C_virg_XP_022329590.1	1411	1567	4.06E-14	ef733b94346bf3f7e255415c42801b01	1580	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022329590.1	1072	1577	0.0	ef733b94346bf3f7e255415c42801b01	1580	SFLD	SFLDS00052	Ferric Reductase Domain	T	-	-	nan
+C_virg_XP_022329590.1	883	895	-	ef733b94346bf3f7e255415c42801b01	1580	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+C_virg_XP_022329591.1	875	899	4.1E-6	044e2729fb5ef299ba8c4db4a516f080	1575	Pfam	PF00036	EF hand	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329591.1	870	905	12.895472	044e2729fb5ef299ba8c4db4a516f080	1575	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329591.1	1118	1259	4.0E-13	044e2729fb5ef299ba8c4db4a516f080	1575	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+C_virg_XP_022329591.1	856	982	7.06E-22	044e2729fb5ef299ba8c4db4a516f080	1575	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+C_virg_XP_022329591.1	1	21	6.0	044e2729fb5ef299ba8c4db4a516f080	1575	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	T	-	-	nan
+C_virg_XP_022329591.1	1396	1575	1.1E-50	044e2729fb5ef299ba8c4db4a516f080	1575	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022329591.1	1396	1575	1.7E-89	044e2729fb5ef299ba8c4db4a516f080	1575	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+C_virg_XP_022329591.1	1067	1572	0.0	044e2729fb5ef299ba8c4db4a516f080	1575	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	T	-	-	nan
+C_virg_XP_022329591.1	906	941	11.02648	044e2729fb5ef299ba8c4db4a516f080	1575	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329591.1	1295	1395	1.2E-11	044e2729fb5ef299ba8c4db4a516f080	1575	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+C_virg_XP_022329591.1	1067	1572	0.0	044e2729fb5ef299ba8c4db4a516f080	1575	SFLD	SFLDS00052	Ferric Reductase Domain	T	-	-	nan
+C_virg_XP_022329591.1	875	936	1.58321E-9	044e2729fb5ef299ba8c4db4a516f080	1575	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329591.1	1296	1395	5.3E-40	044e2729fb5ef299ba8c4db4a516f080	1575	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+C_virg_XP_022329591.1	1298	1395	1.8E-19	044e2729fb5ef299ba8c4db4a516f080	1575	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+C_virg_XP_022329591.1	801	1026	3.1E-22	044e2729fb5ef299ba8c4db4a516f080	1575	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+C_virg_XP_022329591.1	874	1575	1.2E-141	044e2729fb5ef299ba8c4db4a516f080	1575	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+C_virg_XP_022329591.1	1406	1557	1.3E-28	044e2729fb5ef299ba8c4db4a516f080	1575	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+C_virg_XP_022329591.1	1293	1399	14.285016	044e2729fb5ef299ba8c4db4a516f080	1575	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+C_virg_XP_022329591.1	1297	1396	3.21E-15	044e2729fb5ef299ba8c4db4a516f080	1575	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+C_virg_XP_022329591.1	910	938	9.9	044e2729fb5ef299ba8c4db4a516f080	1575	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329591.1	874	902	8.6E-5	044e2729fb5ef299ba8c4db4a516f080	1575	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329591.1	1406	1562	4.06E-14	044e2729fb5ef299ba8c4db4a516f080	1575	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022329591.1	1300	1575	2.03985E-50	044e2729fb5ef299ba8c4db4a516f080	1575	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+C_virg_XP_022329591.1	883	895	-	044e2729fb5ef299ba8c4db4a516f080	1575	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+C_virg_XP_022329592.1	1293	1393	1.2E-11	4b8af5d15b79f2795d226507f0836f86	1573	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+C_virg_XP_022329592.1	875	899	4.1E-6	4b8af5d15b79f2795d226507f0836f86	1573	Pfam	PF00036	EF hand	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329592.1	1394	1573	1.1E-50	4b8af5d15b79f2795d226507f0836f86	1573	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022329592.1	1291	1397	14.285016	4b8af5d15b79f2795d226507f0836f86	1573	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+C_virg_XP_022329592.1	1065	1570	0.0	4b8af5d15b79f2795d226507f0836f86	1573	SFLD	SFLDS00052	Ferric Reductase Domain	T	-	-	nan
+C_virg_XP_022329592.1	870	905	12.895472	4b8af5d15b79f2795d226507f0836f86	1573	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329592.1	1394	1573	1.7E-89	4b8af5d15b79f2795d226507f0836f86	1573	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+C_virg_XP_022329592.1	1294	1393	5.3E-40	4b8af5d15b79f2795d226507f0836f86	1573	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+C_virg_XP_022329592.1	1296	1393	1.8E-19	4b8af5d15b79f2795d226507f0836f86	1573	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+C_virg_XP_022329592.1	1	21	6.0	4b8af5d15b79f2795d226507f0836f86	1573	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	T	-	-	nan
+C_virg_XP_022329592.1	906	941	11.02648	4b8af5d15b79f2795d226507f0836f86	1573	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329592.1	856	982	7.11E-22	4b8af5d15b79f2795d226507f0836f86	1573	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+C_virg_XP_022329592.1	1116	1257	3.9E-13	4b8af5d15b79f2795d226507f0836f86	1573	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+C_virg_XP_022329592.1	874	1573	1.5E-141	4b8af5d15b79f2795d226507f0836f86	1573	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+C_virg_XP_022329592.1	1404	1555	1.3E-28	4b8af5d15b79f2795d226507f0836f86	1573	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+C_virg_XP_022329592.1	875	936	1.59673E-9	4b8af5d15b79f2795d226507f0836f86	1573	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329592.1	1298	1573	2.1795E-50	4b8af5d15b79f2795d226507f0836f86	1573	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+C_virg_XP_022329592.1	801	993	7.2E-22	4b8af5d15b79f2795d226507f0836f86	1573	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+C_virg_XP_022329592.1	1295	1394	3.21E-15	4b8af5d15b79f2795d226507f0836f86	1573	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+C_virg_XP_022329592.1	1065	1570	0.0	4b8af5d15b79f2795d226507f0836f86	1573	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	T	-	-	nan
+C_virg_XP_022329592.1	910	938	9.9	4b8af5d15b79f2795d226507f0836f86	1573	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329592.1	874	902	8.6E-5	4b8af5d15b79f2795d226507f0836f86	1573	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329592.1	883	895	-	4b8af5d15b79f2795d226507f0836f86	1573	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+C_virg_XP_022329592.1	1404	1560	4.06E-14	4b8af5d15b79f2795d226507f0836f86	1573	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022329593.1	1290	1389	3.21E-15	dcf2d6589787096e02555d8f9e7c1fd1	1568	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+C_virg_XP_022329593.1	875	899	4.1E-6	dcf2d6589787096e02555d8f9e7c1fd1	1568	Pfam	PF00036	EF hand	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329593.1	1060	1565	0.0	dcf2d6589787096e02555d8f9e7c1fd1	1568	SFLD	SFLDS00052	Ferric Reductase Domain	T	-	-	nan
+C_virg_XP_022329593.1	870	905	12.895472	dcf2d6589787096e02555d8f9e7c1fd1	1568	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329593.1	1288	1388	1.2E-11	dcf2d6589787096e02555d8f9e7c1fd1	1568	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+C_virg_XP_022329593.1	856	982	7.97E-22	dcf2d6589787096e02555d8f9e7c1fd1	1568	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+C_virg_XP_022329593.1	1291	1388	1.8E-19	dcf2d6589787096e02555d8f9e7c1fd1	1568	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+C_virg_XP_022329593.1	1286	1392	14.285016	dcf2d6589787096e02555d8f9e7c1fd1	1568	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+C_virg_XP_022329593.1	1	21	6.0	dcf2d6589787096e02555d8f9e7c1fd1	1568	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	T	-	-	nan
+C_virg_XP_022329593.1	1293	1568	2.43881E-50	dcf2d6589787096e02555d8f9e7c1fd1	1568	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+C_virg_XP_022329593.1	1111	1252	3.9E-13	dcf2d6589787096e02555d8f9e7c1fd1	1568	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+C_virg_XP_022329593.1	906	941	11.02648	dcf2d6589787096e02555d8f9e7c1fd1	1568	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329593.1	1289	1388	5.3E-40	dcf2d6589787096e02555d8f9e7c1fd1	1568	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+C_virg_XP_022329593.1	874	1568	2.2E-141	dcf2d6589787096e02555d8f9e7c1fd1	1568	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+C_virg_XP_022329593.1	1389	1568	1.7E-89	dcf2d6589787096e02555d8f9e7c1fd1	1568	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+C_virg_XP_022329593.1	1060	1565	0.0	dcf2d6589787096e02555d8f9e7c1fd1	1568	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	T	-	-	nan
+C_virg_XP_022329593.1	875	936	1.54555E-9	dcf2d6589787096e02555d8f9e7c1fd1	1568	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329593.1	1389	1568	1.1E-50	dcf2d6589787096e02555d8f9e7c1fd1	1568	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022329593.1	1399	1555	4.06E-14	dcf2d6589787096e02555d8f9e7c1fd1	1568	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022329593.1	910	938	9.9	dcf2d6589787096e02555d8f9e7c1fd1	1568	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329593.1	874	902	8.6E-5	dcf2d6589787096e02555d8f9e7c1fd1	1568	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022329593.1	801	992	7.9E-22	dcf2d6589787096e02555d8f9e7c1fd1	1568	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+C_virg_XP_022329593.1	1399	1550	1.3E-28	dcf2d6589787096e02555d8f9e7c1fd1	1568	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+C_virg_XP_022329593.1	883	895	-	dcf2d6589787096e02555d8f9e7c1fd1	1568	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+C_virg_XP_022330080.1	806	930	5.27E-23	b61d8adca219cbde44537561cc5d2ce2	1541	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+C_virg_XP_022330080.1	1360	1541	2.5E-79	b61d8adca219cbde44537561cc5d2ce2	1541	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+C_virg_XP_022330080.1	950	969	-	b61d8adca219cbde44537561cc5d2ce2	1541	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022330080.1	1356	1541	2.5E-46	b61d8adca219cbde44537561cc5d2ce2	1541	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022330080.1	833	845	-	b61d8adca219cbde44537561cc5d2ce2	1541	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+C_virg_XP_022330080.1	1261	1359	4.73E-15	b61d8adca219cbde44537561cc5d2ce2	1541	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+C_virg_XP_022330080.1	825	886	9.6724E-7	b61d8adca219cbde44537561cc5d2ce2	1541	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022330080.1	824	1541	5.1E-137	b61d8adca219cbde44537561cc5d2ce2	1541	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+C_virg_XP_022330080.1	1261	1359	5.8E-40	b61d8adca219cbde44537561cc5d2ce2	1541	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+C_virg_XP_022330080.1	820	855	12.477041	b61d8adca219cbde44537561cc5d2ce2	1541	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022330080.1	749	941	2.4E-23	b61d8adca219cbde44537561cc5d2ce2	1541	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+C_virg_XP_022330080.1	1367	1535	5.14E-9	b61d8adca219cbde44537561cc5d2ce2	1541	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022330080.1	807	849	2.0E-5	b61d8adca219cbde44537561cc5d2ce2	1541	Pfam	PF13833	EF-hand domain pair	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022330080.1	1367	1523	1.7E-26	b61d8adca219cbde44537561cc5d2ce2	1541	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+C_virg_XP_022330080.1	1258	1363	13.836111	b61d8adca219cbde44537561cc5d2ce2	1541	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+C_virg_XP_022330080.1	860	888	8.7	b61d8adca219cbde44537561cc5d2ce2	1541	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022330080.1	824	852	0.0017	b61d8adca219cbde44537561cc5d2ce2	1541	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022330080.1	1080	1223	6.8E-16	b61d8adca219cbde44537561cc5d2ce2	1541	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+C_virg_XP_022330080.1	1265	1359	4.4E-17	b61d8adca219cbde44537561cc5d2ce2	1541	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+C_virg_XP_022330080.1	1260	1355	3.7E-10	b61d8adca219cbde44537561cc5d2ce2	1541	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+C_virg_XP_022330080.1	1265	1447	3.94462E-47	b61d8adca219cbde44537561cc5d2ce2	1541	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+C_virg_XP_022330086.1	821	1538	5.8E-137	1c73e9f4463d7f392bc1926e54cf1704	1538	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+C_virg_XP_022330086.1	1255	1360	13.836111	1c73e9f4463d7f392bc1926e54cf1704	1538	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+C_virg_XP_022330086.1	747	938	1.7E-23	1c73e9f4463d7f392bc1926e54cf1704	1538	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+C_virg_XP_022330086.1	1357	1538	2.5E-79	1c73e9f4463d7f392bc1926e54cf1704	1538	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+C_virg_XP_022330086.1	1353	1538	2.5E-46	1c73e9f4463d7f392bc1926e54cf1704	1538	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022330086.1	817	852	12.477041	1c73e9f4463d7f392bc1926e54cf1704	1538	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022330086.1	803	927	4.78E-23	1c73e9f4463d7f392bc1926e54cf1704	1538	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+C_virg_XP_022330086.1	1364	1532	5.14E-9	1c73e9f4463d7f392bc1926e54cf1704	1538	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022330086.1	1258	1356	5.8E-40	1c73e9f4463d7f392bc1926e54cf1704	1538	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+C_virg_XP_022330086.1	804	846	2.0E-5	1c73e9f4463d7f392bc1926e54cf1704	1538	Pfam	PF13833	EF-hand domain pair	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022330086.1	947	966	-	1c73e9f4463d7f392bc1926e54cf1704	1538	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022330086.1	1257	1352	3.7E-10	1c73e9f4463d7f392bc1926e54cf1704	1538	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+C_virg_XP_022330086.1	1364	1520	1.7E-26	1c73e9f4463d7f392bc1926e54cf1704	1538	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+C_virg_XP_022330086.1	822	883	9.01275E-7	1c73e9f4463d7f392bc1926e54cf1704	1538	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022330086.1	1077	1220	6.8E-16	1c73e9f4463d7f392bc1926e54cf1704	1538	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+C_virg_XP_022330086.1	1258	1356	4.73E-15	1c73e9f4463d7f392bc1926e54cf1704	1538	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+C_virg_XP_022330086.1	830	842	-	1c73e9f4463d7f392bc1926e54cf1704	1538	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+C_virg_XP_022330086.1	1262	1444	4.09118E-47	1c73e9f4463d7f392bc1926e54cf1704	1538	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+C_virg_XP_022330086.1	1262	1356	4.4E-17	1c73e9f4463d7f392bc1926e54cf1704	1538	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+C_virg_XP_022330086.1	857	885	8.7	1c73e9f4463d7f392bc1926e54cf1704	1538	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022330086.1	821	849	0.0017	1c73e9f4463d7f392bc1926e54cf1704	1538	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332271.1	924	1629	5.9E-138	fb53a0d5f1d11179c187d624541be430	1629	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+C_virg_XP_022332271.1	907	951	0.0056	fb53a0d5f1d11179c187d624541be430	1629	Pfam	PF13833	EF-hand domain pair	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332271.1	716	736	-	fb53a0d5f1d11179c187d624541be430	1629	Coils	Coil	Coil	T	-	-	nan
+C_virg_XP_022332271.1	1174	1312	7.8E-13	fb53a0d5f1d11179c187d624541be430	1629	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+C_virg_XP_022332271.1	1348	1445	1.8E-13	fb53a0d5f1d11179c187d624541be430	1629	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+C_virg_XP_022332271.1	921	956	11.640179	fb53a0d5f1d11179c187d624541be430	1629	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332271.1	1350	1449	9.0E-39	fb53a0d5f1d11179c187d624541be430	1629	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+C_virg_XP_022332271.1	925	953	0.0097	fb53a0d5f1d11179c187d624541be430	1629	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332271.1	961	989	2.4	fb53a0d5f1d11179c187d624541be430	1629	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332271.1	1457	1611	1.0E-28	fb53a0d5f1d11179c187d624541be430	1629	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+C_virg_XP_022332271.1	957	992	9.603815	fb53a0d5f1d11179c187d624541be430	1629	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332271.1	1109	1629	0.0	fb53a0d5f1d11179c187d624541be430	1629	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	T	-	-	nan
+C_virg_XP_022332271.1	1457	1629	1.96E-13	fb53a0d5f1d11179c187d624541be430	1629	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022332271.1	1627	1629	-	fb53a0d5f1d11179c187d624541be430	1629	Coils	Coil	Coil	T	-	-	nan
+C_virg_XP_022332271.1	907	1033	7.93E-23	fb53a0d5f1d11179c187d624541be430	1629	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+C_virg_XP_022332271.1	1446	1629	1.1E-51	fb53a0d5f1d11179c187d624541be430	1629	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022332271.1	926	987	1.60628E-9	fb53a0d5f1d11179c187d624541be430	1629	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332271.1	934	946	-	fb53a0d5f1d11179c187d624541be430	1629	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+C_virg_XP_022332271.1	1354	1629	2.51165E-52	fb53a0d5f1d11179c187d624541be430	1629	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+C_virg_XP_022332271.1	1352	1449	2.7E-18	fb53a0d5f1d11179c187d624541be430	1629	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+C_virg_XP_022332271.1	1349	1450	1.7E-18	fb53a0d5f1d11179c187d624541be430	1629	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+C_virg_XP_022332271.1	855	1044	2.2E-21	fb53a0d5f1d11179c187d624541be430	1629	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+C_virg_XP_022332271.1	1112	1629	0.0	fb53a0d5f1d11179c187d624541be430	1629	SFLD	SFLDS00052	Ferric Reductase Domain	T	-	-	nan
+C_virg_XP_022332271.1	1450	1629	1.2E-84	fb53a0d5f1d11179c187d624541be430	1629	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+C_virg_XP_022332271.1	1347	1453	15.386329	fb53a0d5f1d11179c187d624541be430	1629	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+C_virg_XP_022332279.1	1346	1452	15.386329	07354d9a6cee7e17613057b5813c8a88	1628	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+C_virg_XP_022332279.1	1111	1628	0.0	07354d9a6cee7e17613057b5813c8a88	1628	SFLD	SFLDS00052	Ferric Reductase Domain	T	-	-	nan
+C_virg_XP_022332279.1	920	955	11.640179	07354d9a6cee7e17613057b5813c8a88	1628	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332279.1	1348	1449	1.7E-18	07354d9a6cee7e17613057b5813c8a88	1628	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+C_virg_XP_022332279.1	1349	1448	9.0E-39	07354d9a6cee7e17613057b5813c8a88	1628	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+C_virg_XP_022332279.1	1113	1628	0.0	07354d9a6cee7e17613057b5813c8a88	1628	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	T	-	-	nan
+C_virg_XP_022332279.1	1456	1628	1.96E-13	07354d9a6cee7e17613057b5813c8a88	1628	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022332279.1	923	1628	7.0E-138	07354d9a6cee7e17613057b5813c8a88	1628	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+C_virg_XP_022332279.1	1456	1610	1.0E-28	07354d9a6cee7e17613057b5813c8a88	1628	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+C_virg_XP_022332279.1	854	1043	2.2E-21	07354d9a6cee7e17613057b5813c8a88	1628	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+C_virg_XP_022332279.1	956	991	9.603815	07354d9a6cee7e17613057b5813c8a88	1628	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332279.1	715	735	-	07354d9a6cee7e17613057b5813c8a88	1628	Coils	Coil	Coil	T	-	-	nan
+C_virg_XP_022332279.1	906	950	0.0056	07354d9a6cee7e17613057b5813c8a88	1628	Pfam	PF13833	EF-hand domain pair	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332279.1	1449	1628	1.2E-84	07354d9a6cee7e17613057b5813c8a88	1628	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+C_virg_XP_022332279.1	1353	1628	2.53433E-52	07354d9a6cee7e17613057b5813c8a88	1628	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+C_virg_XP_022332279.1	933	945	-	07354d9a6cee7e17613057b5813c8a88	1628	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+C_virg_XP_022332279.1	1445	1628	1.1E-51	07354d9a6cee7e17613057b5813c8a88	1628	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022332279.1	1347	1444	1.8E-13	07354d9a6cee7e17613057b5813c8a88	1628	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+C_virg_XP_022332279.1	925	986	1.499E-9	07354d9a6cee7e17613057b5813c8a88	1628	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332279.1	924	952	0.0097	07354d9a6cee7e17613057b5813c8a88	1628	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332279.1	960	988	2.4	07354d9a6cee7e17613057b5813c8a88	1628	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332279.1	1173	1311	7.8E-13	07354d9a6cee7e17613057b5813c8a88	1628	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+C_virg_XP_022332279.1	906	1032	7.93E-23	07354d9a6cee7e17613057b5813c8a88	1628	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+C_virg_XP_022332279.1	1351	1448	2.7E-18	07354d9a6cee7e17613057b5813c8a88	1628	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+C_virg_XP_022332280.1	1352	1627	2.58204E-52	7c197c3676239565d89ccab1d5f53245	1627	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+C_virg_XP_022332280.1	1455	1609	1.0E-28	7c197c3676239565d89ccab1d5f53245	1627	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+C_virg_XP_022332280.1	1346	1443	1.8E-13	7c197c3676239565d89ccab1d5f53245	1627	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+C_virg_XP_022332280.1	922	1627	7.0E-138	7c197c3676239565d89ccab1d5f53245	1627	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+C_virg_XP_022332280.1	1455	1627	1.96E-13	7c197c3676239565d89ccab1d5f53245	1627	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022332280.1	1350	1447	2.7E-18	7c197c3676239565d89ccab1d5f53245	1627	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+C_virg_XP_022332280.1	1448	1627	1.2E-84	7c197c3676239565d89ccab1d5f53245	1627	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+C_virg_XP_022332280.1	905	1031	7.93E-23	7c197c3676239565d89ccab1d5f53245	1627	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+C_virg_XP_022332280.1	905	949	0.0056	7c197c3676239565d89ccab1d5f53245	1627	Pfam	PF13833	EF-hand domain pair	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332280.1	932	944	-	7c197c3676239565d89ccab1d5f53245	1627	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+C_virg_XP_022332280.1	1345	1451	15.386329	7c197c3676239565d89ccab1d5f53245	1627	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+C_virg_XP_022332280.1	955	990	9.603815	7c197c3676239565d89ccab1d5f53245	1627	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332280.1	924	985	1.52768E-9	7c197c3676239565d89ccab1d5f53245	1627	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332280.1	923	951	0.0097	7c197c3676239565d89ccab1d5f53245	1627	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332280.1	959	987	2.4	7c197c3676239565d89ccab1d5f53245	1627	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022332280.1	853	1042	2.2E-21	7c197c3676239565d89ccab1d5f53245	1627	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+C_virg_XP_022332280.1	1348	1447	9.0E-39	7c197c3676239565d89ccab1d5f53245	1627	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+C_virg_XP_022332280.1	1110	1627	0.0	7c197c3676239565d89ccab1d5f53245	1627	SFLD	SFLDS00052	Ferric Reductase Domain	T	-	-	nan
+C_virg_XP_022332280.1	1172	1310	7.8E-13	7c197c3676239565d89ccab1d5f53245	1627	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+C_virg_XP_022332280.1	1444	1627	1.1E-51	7c197c3676239565d89ccab1d5f53245	1627	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022332280.1	1347	1448	1.7E-18	7c197c3676239565d89ccab1d5f53245	1627	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+C_virg_XP_022332280.1	714	734	-	7c197c3676239565d89ccab1d5f53245	1627	Coils	Coil	Coil	T	-	-	nan
+C_virg_XP_022332280.1	1112	1627	0.0	7c197c3676239565d89ccab1d5f53245	1627	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	T	-	-	nan
+C_virg_XP_022332280.1	919	954	11.640179	7c197c3676239565d89ccab1d5f53245	1627	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022343900.1	806	930	5.27E-23	3a673bbc708cc06d80326af660967e20	1541	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+C_virg_XP_022343900.1	1360	1541	2.5E-79	3a673bbc708cc06d80326af660967e20	1541	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+C_virg_XP_022343900.1	950	969	-	3a673bbc708cc06d80326af660967e20	1541	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022343900.1	1356	1541	2.5E-46	3a673bbc708cc06d80326af660967e20	1541	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022343900.1	807	849	2.0E-5	3a673bbc708cc06d80326af660967e20	1541	Pfam	PF13833	EF-hand domain pair	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022343900.1	833	845	-	3a673bbc708cc06d80326af660967e20	1541	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+C_virg_XP_022343900.1	749	941	2.4E-23	3a673bbc708cc06d80326af660967e20	1541	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+C_virg_XP_022343900.1	1261	1359	4.73E-15	3a673bbc708cc06d80326af660967e20	1541	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+C_virg_XP_022343900.1	825	886	9.6724E-7	3a673bbc708cc06d80326af660967e20	1541	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022343900.1	1080	1223	6.8E-16	3a673bbc708cc06d80326af660967e20	1541	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+C_virg_XP_022343900.1	1261	1359	5.8E-40	3a673bbc708cc06d80326af660967e20	1541	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+C_virg_XP_022343900.1	820	855	12.477041	3a673bbc708cc06d80326af660967e20	1541	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022343900.1	824	1541	5.0E-137	3a673bbc708cc06d80326af660967e20	1541	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+C_virg_XP_022343900.1	1367	1535	5.14E-9	3a673bbc708cc06d80326af660967e20	1541	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022343900.1	1258	1363	13.836111	3a673bbc708cc06d80326af660967e20	1541	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+C_virg_XP_022343900.1	860	888	8.7	3a673bbc708cc06d80326af660967e20	1541	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022343900.1	824	852	0.0017	3a673bbc708cc06d80326af660967e20	1541	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022343900.1	1367	1523	1.7E-26	3a673bbc708cc06d80326af660967e20	1541	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+C_virg_XP_022343900.1	1260	1355	3.7E-10	3a673bbc708cc06d80326af660967e20	1541	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+C_virg_XP_022343900.1	1265	1359	4.4E-17	3a673bbc708cc06d80326af660967e20	1541	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+C_virg_XP_022343900.1	1265	1447	4.02154E-47	3a673bbc708cc06d80326af660967e20	1541	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+C_virg_XP_022343904.1	806	930	5.27E-23	3a673bbc708cc06d80326af660967e20	1541	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+C_virg_XP_022343904.1	1360	1541	2.5E-79	3a673bbc708cc06d80326af660967e20	1541	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+C_virg_XP_022343904.1	950	969	-	3a673bbc708cc06d80326af660967e20	1541	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+C_virg_XP_022343904.1	1356	1541	2.5E-46	3a673bbc708cc06d80326af660967e20	1541	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022343904.1	807	849	2.0E-5	3a673bbc708cc06d80326af660967e20	1541	Pfam	PF13833	EF-hand domain pair	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022343904.1	833	845	-	3a673bbc708cc06d80326af660967e20	1541	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+C_virg_XP_022343904.1	749	941	2.4E-23	3a673bbc708cc06d80326af660967e20	1541	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+C_virg_XP_022343904.1	1261	1359	4.73E-15	3a673bbc708cc06d80326af660967e20	1541	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+C_virg_XP_022343904.1	825	886	9.6724E-7	3a673bbc708cc06d80326af660967e20	1541	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022343904.1	1080	1223	6.8E-16	3a673bbc708cc06d80326af660967e20	1541	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+C_virg_XP_022343904.1	1261	1359	5.8E-40	3a673bbc708cc06d80326af660967e20	1541	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+C_virg_XP_022343904.1	820	855	12.477041	3a673bbc708cc06d80326af660967e20	1541	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022343904.1	824	1541	5.0E-137	3a673bbc708cc06d80326af660967e20	1541	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+C_virg_XP_022343904.1	1367	1535	5.14E-9	3a673bbc708cc06d80326af660967e20	1541	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+C_virg_XP_022343904.1	1258	1363	13.836111	3a673bbc708cc06d80326af660967e20	1541	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+C_virg_XP_022343904.1	860	888	8.7	3a673bbc708cc06d80326af660967e20	1541	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022343904.1	824	852	0.0017	3a673bbc708cc06d80326af660967e20	1541	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+C_virg_XP_022343904.1	1367	1523	1.7E-26	3a673bbc708cc06d80326af660967e20	1541	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+C_virg_XP_022343904.1	1260	1355	3.7E-10	3a673bbc708cc06d80326af660967e20	1541	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+C_virg_XP_022343904.1	1265	1359	4.4E-17	3a673bbc708cc06d80326af660967e20	1541	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+C_virg_XP_022343904.1	1265	1447	4.02154E-47	3a673bbc708cc06d80326af660967e20	1541	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan

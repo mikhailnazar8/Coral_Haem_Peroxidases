@@ -1,0 +1,253 @@
+id	md5	length	analysis	sig_acc	sig_desc	start	end	score	status	 date	ipr_acc	ipr_desc	goterm
+A_cerv_KAK2551628.1	e56d27a68f87c16de671a2d8bbf7da70	123	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	1	119	7.5E-20	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2551628.1	e56d27a68f87c16de671a2d8bbf7da70	123	Pfam	PF03098	Animal haem peroxidase	3	116	4.2E-17	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2551628.1	e56d27a68f87c16de671a2d8bbf7da70	123	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	2	116	4.7E-17	T	19-04-2024	-	-
+A_cerv_KAK2551628.1	e56d27a68f87c16de671a2d8bbf7da70	123	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	3	117	9.53E-16	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2551628.1	e56d27a68f87c16de671a2d8bbf7da70	123	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	1	123	11.796043	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	825	1352	7.7E-159	T	19-04-2024	-	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	Gene3D	G3DSA:2.130.10.130	-	428	580	8.8E-6	T	19-04-2024	IPR028994	Integrin alpha, N-terminal	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	846	1353	5.77E-148	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	Pfam	PF17963	Bacterial Ig domain	780	818	1.1E-6	T	19-04-2024	-	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	Gene3D	G3DSA:2.60.40.3440	-	742	830	2.2E-11	T	19-04-2024	-	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	Pfam	PF13517	FG-GAP-like repeat	439	501	8.8E-12	T	19-04-2024	IPR013517	FG-GAP repeat	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	Pfam	PF13517	FG-GAP-like repeat	526	573	1.9E-7	T	19-04-2024	IPR013517	FG-GAP repeat	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	Pfam	PF13517	FG-GAP-like repeat	226	290	1.5E-13	T	19-04-2024	IPR013517	FG-GAP repeat	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	Pfam	PF07593	ASPIC and UnbV	679	745	2.7E-10	T	19-04-2024	IPR011519	ASPIC/UnbV	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	837	1366	111.176666	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	SUPERFAMILY	SSF69318	Integrin alpha N-terminal domain	218	656	4.53E-46	T	19-04-2024	IPR028994	Integrin alpha, N-terminal	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	PRINTS	PR00457	Animal haem peroxidase signature	871	882	5.5E-20	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	PRINTS	PR00457	Animal haem peroxidase signature	1063	1083	5.5E-20	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	PRINTS	PR00457	Animal haem peroxidase signature	1264	1284	5.5E-20	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	PRINTS	PR00457	Animal haem peroxidase signature	915	930	5.5E-20	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	PRINTS	PR00457	Animal haem peroxidase signature	1045	1063	5.5E-20	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	PRINTS	PR00457	Animal haem peroxidase signature	1143	1153	5.5E-20	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	Gene3D	G3DSA:2.130.10.130	-	217	367	2.7E-7	T	19-04-2024	IPR028994	Integrin alpha, N-terminal	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	831	1365	3.2E-166	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2551719.1	617d5c57c36db907cfeb569e53b8a0ec	1366	Pfam	PF03098	Animal haem peroxidase	848	1354	5.6E-150	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	ProSiteProfiles	PS01180	CUB domain profile.	29	152	22.093386	T	19-04-2024	IPR000859	CUB domain	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	Gene3D	G3DSA:2.60.120.970	-	1191	1388	4.3E-10	T	19-04-2024	-	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	SUPERFAMILY	SSF49313	Cadherin-like	170	263	3.57E-6	T	19-04-2024	IPR015919	Cadherin-like superfamily	GO:0005509|GO:0016020
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	Gene3D	G3DSA:2.60.120.290	Spermadhesin, CUB domain	27	155	9.2E-26	T	19-04-2024	IPR035914	Spermadhesin, CUB domain superfamily	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	498	1071	2.6E-190	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	CDD	cd11304	Cadherin_repeat	175	264	7.72409E-10	T	19-04-2024	-	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	514	1068	2.71E-163	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	CDD	cd00041	CUB	40	151	1.37012E-28	T	19-04-2024	IPR000859	CUB domain	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	405	1069	4.1E-203	T	19-04-2024	-	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	Pfam	PF00431	CUB domain	32	149	8.5E-20	T	19-04-2024	IPR000859	CUB domain	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	SMART	SM00042	CUB_2	29	152	6.7E-28	T	19-04-2024	IPR000859	CUB domain	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	Pfam	PF00688	TGF-beta propeptide	1232	1357	5.4E-6	T	19-04-2024	IPR001111	TGF-beta, propeptide	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	ProSiteProfiles	PS50268	Cadherins domain profile.	171	287	10.242935	T	19-04-2024	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	PRINTS	PR00457	Animal haem peroxidase signature	596	611	1.2E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	PRINTS	PR00457	Animal haem peroxidase signature	776	802	1.2E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	PRINTS	PR00457	Animal haem peroxidase signature	949	969	1.2E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	PRINTS	PR00457	Animal haem peroxidase signature	542	553	1.2E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	PRINTS	PR00457	Animal haem peroxidase signature	1020	1034	1.2E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	PRINTS	PR00457	Animal haem peroxidase signature	825	835	1.2E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	PRINTS	PR00457	Animal haem peroxidase signature	733	751	1.2E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	PRINTS	PR00457	Animal haem peroxidase signature	751	771	1.2E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	Gene3D	G3DSA:2.60.40.60	Cadherins	280	390	2.2E-6	T	19-04-2024	-	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	Gene3D	G3DSA:2.60.40.60	Cadherins	168	273	8.7E-8	T	19-04-2024	-	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	FunFam	G3DSA:1.10.640.10:FF:000003	chorion peroxidase	501	1070	7.0E-181	T	19-04-2024	-	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	Pfam	PF03098	Animal haem peroxidase	518	1044	6.0E-168	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	SUPERFAMILY	SSF49854	Spermadhesin, CUB domain	29	151	3.93E-26	T	19-04-2024	IPR035914	Spermadhesin, CUB domain superfamily	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	506	1071	137.022354	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2557752.1	18b3af5b66a0d9f5bff0b3926e94d289	1389	Pfam	PF13330	Mucin-2 protein WxxW repeating region	1102	1159	1.2E-9	T	19-04-2024	IPR025155	WxxW domain	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	710	1301	4.0E-168	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	CDD	cd09823	peroxinectin_like	211	592	1.3946E-141	T	19-04-2024	-	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	Pfam	PF03098	Animal haem peroxidase	50	604	2.9E-141	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	Pfam	PF03098	Animal haem peroxidase	725	1274	4.3E-154	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	PRINTS	PR00457	Animal haem peroxidase signature	811	826	1.6E-30	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	PRINTS	PR00457	Animal haem peroxidase signature	951	969	1.6E-30	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	PRINTS	PR00457	Animal haem peroxidase signature	969	989	1.6E-30	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	PRINTS	PR00457	Animal haem peroxidase signature	1047	1057	1.6E-30	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	PRINTS	PR00457	Animal haem peroxidase signature	1176	1196	1.6E-30	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	PRINTS	PR00457	Animal haem peroxidase signature	994	1020	1.6E-30	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	PRINTS	PR00457	Animal haem peroxidase signature	1250	1264	1.6E-30	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	717	1301	119.498901	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	42	632	111.588097	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	707	1298	0.0	T	19-04-2024	-	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	FunFam	G3DSA:1.10.640.10:FF:000003	chorion peroxidase	710	1300	7.5E-163	T	19-04-2024	-	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	CDD	cd09823	peroxinectin_like	881	1262	9.09541E-157	T	19-04-2024	-	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	720	1299	1.0E-143	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	45	630	1.53E-130	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	32	633	3.0E-155	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2562266.1	023f53a459c942361aab7355973f617e	1307	FunFam	G3DSA:1.10.640.10:FF:000003	chorion peroxidase	35	631	7.0E-146	T	19-04-2024	-	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	17	360	1.29E-94	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	392	980	5.2E-180	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	400	979	3.8E-293	T	19-04-2024	-	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	FunFam	G3DSA:1.10.640.10:FF:000003	chorion peroxidase	394	980	3.9E-171	T	19-04-2024	-	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	4	365	1.1E-99	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	402	981	121.219452	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	CDD	cd09823	peroxinectin_like	554	942	6.20762E-159	T	19-04-2024	-	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	PRINTS	PR00457	Animal haem peroxidase signature	485	500	4.1E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	PRINTS	PR00457	Animal haem peroxidase signature	434	445	4.1E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	PRINTS	PR00457	Animal haem peroxidase signature	625	643	4.1E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	PRINTS	PR00457	Animal haem peroxidase signature	643	663	4.1E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	PRINTS	PR00457	Animal haem peroxidase signature	930	944	4.1E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	PRINTS	PR00457	Animal haem peroxidase signature	668	694	4.1E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	PRINTS	PR00457	Animal haem peroxidase signature	856	876	4.1E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	PRINTS	PR00457	Animal haem peroxidase signature	729	739	4.1E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	1	410	80.150612	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	Pfam	PF03098	Animal haem peroxidase	242	360	8.8E-36	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	Pfam	PF03098	Animal haem peroxidase	17	240	8.6E-60	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	Pfam	PF03098	Animal haem peroxidase	410	954	8.6E-161	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562267.1	dbb5e7506d7aaf6aa4e5d3d5aaed89c1	981	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	405	979	1.88E-148	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2562277.1	ebb8f440620727517d93d530c8585521	638	PRINTS	PR00457	Animal haem peroxidase signature	312	338	1.9E-29	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562277.1	ebb8f440620727517d93d530c8585521	638	PRINTS	PR00457	Animal haem peroxidase signature	373	383	1.9E-29	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562277.1	ebb8f440620727517d93d530c8585521	638	PRINTS	PR00457	Animal haem peroxidase signature	143	158	1.9E-29	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562277.1	ebb8f440620727517d93d530c8585521	638	PRINTS	PR00457	Animal haem peroxidase signature	287	307	1.9E-29	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562277.1	ebb8f440620727517d93d530c8585521	638	PRINTS	PR00457	Animal haem peroxidase signature	502	522	1.9E-29	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562277.1	ebb8f440620727517d93d530c8585521	638	PRINTS	PR00457	Animal haem peroxidase signature	576	590	1.9E-29	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562277.1	ebb8f440620727517d93d530c8585521	638	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	42	628	3.2E-158	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2562277.1	ebb8f440620727517d93d530c8585521	638	CDD	cd09823	peroxinectin_like	221	588	3.28802E-145	T	19-04-2024	-	-
+A_cerv_KAK2562277.1	ebb8f440620727517d93d530c8585521	638	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	42	625	1.5E-156	T	19-04-2024	-	-
+A_cerv_KAK2562277.1	ebb8f440620727517d93d530c8585521	638	Pfam	PF03098	Animal haem peroxidase	60	600	3.4E-142	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562277.1	ebb8f440620727517d93d530c8585521	638	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	43	628	114.075417	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562277.1	ebb8f440620727517d93d530c8585521	638	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	55	626	3.88E-133	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2562356.1	a6bdfc50e4ec702d57fcb4d2ce5cb0d9	687	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	51	626	3.06E-139	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2562356.1	a6bdfc50e4ec702d57fcb4d2ce5cb0d9	687	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	48	629	120.602303	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562356.1	a6bdfc50e4ec702d57fcb4d2ce5cb0d9	687	PRINTS	PR00457	Animal haem peroxidase signature	144	159	1.1E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562356.1	a6bdfc50e4ec702d57fcb4d2ce5cb0d9	687	PRINTS	PR00457	Animal haem peroxidase signature	578	592	1.1E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562356.1	a6bdfc50e4ec702d57fcb4d2ce5cb0d9	687	PRINTS	PR00457	Animal haem peroxidase signature	283	301	1.1E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562356.1	a6bdfc50e4ec702d57fcb4d2ce5cb0d9	687	PRINTS	PR00457	Animal haem peroxidase signature	301	321	1.1E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562356.1	a6bdfc50e4ec702d57fcb4d2ce5cb0d9	687	PRINTS	PR00457	Animal haem peroxidase signature	504	524	1.1E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562356.1	a6bdfc50e4ec702d57fcb4d2ce5cb0d9	687	PRINTS	PR00457	Animal haem peroxidase signature	379	389	1.1E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562356.1	a6bdfc50e4ec702d57fcb4d2ce5cb0d9	687	PRINTS	PR00457	Animal haem peroxidase signature	326	352	1.1E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562356.1	a6bdfc50e4ec702d57fcb4d2ce5cb0d9	687	Pfam	PF03098	Animal haem peroxidase	56	601	1.5E-149	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562356.1	a6bdfc50e4ec702d57fcb4d2ce5cb0d9	687	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	39	630	4.9E-163	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2562356.1	a6bdfc50e4ec702d57fcb4d2ce5cb0d9	687	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	31	626	1.8E-170	T	19-04-2024	-	-
+A_cerv_KAK2562356.1	a6bdfc50e4ec702d57fcb4d2ce5cb0d9	687	CDD	cd09823	peroxinectin_like	213	590	5.99277E-161	T	19-04-2024	-	-
+A_cerv_KAK2562356.1	a6bdfc50e4ec702d57fcb4d2ce5cb0d9	687	FunFam	G3DSA:1.10.640.10:FF:000003	chorion peroxidase	41	628	3.8E-156	T	19-04-2024	-	-
+A_cerv_KAK2562357.1	aa289e4e519337a1092ed1b2c34118b1	632	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	25	614	110.484703	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562357.1	aa289e4e519337a1092ed1b2c34118b1	632	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	23	611	4.3E-161	T	19-04-2024	-	-
+A_cerv_KAK2562357.1	aa289e4e519337a1092ed1b2c34118b1	632	FunFam	G3DSA:1.10.640.10:FF:000003	chorion peroxidase	18	613	1.3E-146	T	19-04-2024	-	-
+A_cerv_KAK2562357.1	aa289e4e519337a1092ed1b2c34118b1	632	PRINTS	PR00457	Animal haem peroxidase signature	112	127	8.6E-26	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562357.1	aa289e4e519337a1092ed1b2c34118b1	632	PRINTS	PR00457	Animal haem peroxidase signature	275	295	8.6E-26	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562357.1	aa289e4e519337a1092ed1b2c34118b1	632	PRINTS	PR00457	Animal haem peroxidase signature	361	371	8.6E-26	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562357.1	aa289e4e519337a1092ed1b2c34118b1	632	PRINTS	PR00457	Animal haem peroxidase signature	493	513	8.6E-26	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562357.1	aa289e4e519337a1092ed1b2c34118b1	632	PRINTS	PR00457	Animal haem peroxidase signature	566	580	8.6E-26	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562357.1	aa289e4e519337a1092ed1b2c34118b1	632	PRINTS	PR00457	Animal haem peroxidase signature	300	326	8.6E-26	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562357.1	aa289e4e519337a1092ed1b2c34118b1	632	CDD	cd09823	peroxinectin_like	181	578	1.751E-155	T	19-04-2024	-	-
+A_cerv_KAK2562357.1	aa289e4e519337a1092ed1b2c34118b1	632	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	28	612	2.47E-137	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2562357.1	aa289e4e519337a1092ed1b2c34118b1	632	Pfam	PF03098	Animal haem peroxidase	33	590	1.5E-143	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562357.1	aa289e4e519337a1092ed1b2c34118b1	632	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	16	615	1.3E-156	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2562358.1	3dd9a1cad94f15ebbb6fb43746c92b06	884	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	231	877	106.295532	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562358.1	3dd9a1cad94f15ebbb6fb43746c92b06	884	PRINTS	PR00457	Animal haem peroxidase signature	494	520	5.1E-20	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562358.1	3dd9a1cad94f15ebbb6fb43746c92b06	884	PRINTS	PR00457	Animal haem peroxidase signature	314	329	5.1E-20	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562358.1	3dd9a1cad94f15ebbb6fb43746c92b06	884	PRINTS	PR00457	Animal haem peroxidase signature	452	470	5.1E-20	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562358.1	3dd9a1cad94f15ebbb6fb43746c92b06	884	PRINTS	PR00457	Animal haem peroxidase signature	555	565	5.1E-20	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562358.1	3dd9a1cad94f15ebbb6fb43746c92b06	884	PRINTS	PR00457	Animal haem peroxidase signature	264	275	5.1E-20	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562358.1	3dd9a1cad94f15ebbb6fb43746c92b06	884	Pfam	PF03098	Animal haem peroxidase	689	852	2.2E-35	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562358.1	3dd9a1cad94f15ebbb6fb43746c92b06	884	Pfam	PF03098	Animal haem peroxidase	240	628	3.0E-99	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562358.1	3dd9a1cad94f15ebbb6fb43746c92b06	884	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	685	875	3.4E-42	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2562358.1	3dd9a1cad94f15ebbb6fb43746c92b06	884	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	224	646	6.7E-109	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2562358.1	3dd9a1cad94f15ebbb6fb43746c92b06	884	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	234	874	3.41E-131	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2562358.1	3dd9a1cad94f15ebbb6fb43746c92b06	884	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	93	632	2.2E-160	T	19-04-2024	-	-
+A_cerv_KAK2562391.1	c899353dcfec9143a41c14f1a1b1f10e	566	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	1	566	110.335091	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562391.1	c899353dcfec9143a41c14f1a1b1f10e	566	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	1	565	2.6E-160	T	19-04-2024	-	-
+A_cerv_KAK2562391.1	c899353dcfec9143a41c14f1a1b1f10e	566	PRINTS	PR00457	Animal haem peroxidase signature	316	326	7.0E-28	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562391.1	c899353dcfec9143a41c14f1a1b1f10e	566	PRINTS	PR00457	Animal haem peroxidase signature	258	284	7.0E-28	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562391.1	c899353dcfec9143a41c14f1a1b1f10e	566	PRINTS	PR00457	Animal haem peroxidase signature	448	468	7.0E-28	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562391.1	c899353dcfec9143a41c14f1a1b1f10e	566	PRINTS	PR00457	Animal haem peroxidase signature	215	233	7.0E-28	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562391.1	c899353dcfec9143a41c14f1a1b1f10e	566	PRINTS	PR00457	Animal haem peroxidase signature	521	535	7.0E-28	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562391.1	c899353dcfec9143a41c14f1a1b1f10e	566	PRINTS	PR00457	Animal haem peroxidase signature	233	253	7.0E-28	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562391.1	c899353dcfec9143a41c14f1a1b1f10e	566	PRINTS	PR00457	Animal haem peroxidase signature	86	101	7.0E-28	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562391.1	c899353dcfec9143a41c14f1a1b1f10e	566	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	1	564	3.77E-136	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2562391.1	c899353dcfec9143a41c14f1a1b1f10e	566	FunFam	G3DSA:1.10.640.10:FF:000003	chorion peroxidase	1	566	1.4E-146	T	19-04-2024	-	-
+A_cerv_KAK2562391.1	c899353dcfec9143a41c14f1a1b1f10e	566	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	1	566	9.0E-157	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2562391.1	c899353dcfec9143a41c14f1a1b1f10e	566	Pfam	PF03098	Animal haem peroxidase	7	541	1.4E-141	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2562391.1	c899353dcfec9143a41c14f1a1b1f10e	566	CDD	cd09823	peroxinectin_like	157	533	1.17885E-153	T	19-04-2024	-	-
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	CDD	cd09818	PIOX_like	5	541	0.0	T	19-04-2024	IPR034815	Alpha-dioxygenase	GO:0016491
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	Pfam	PF01822	WSC domain	673	737	1.9E-7	T	19-04-2024	IPR002889	Carbohydrate-binding WSC	-
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	PRINTS	PR00457	Animal haem peroxidase signature	69	84	3.9E-8	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	PRINTS	PR00457	Animal haem peroxidase signature	198	218	3.9E-8	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	PRINTS	PR00457	Animal haem peroxidase signature	223	249	3.9E-8	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	4	526	9.18E-118	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	ProSiteProfiles	PS51212	WSC domain profile.	669	772	7.810568	T	19-04-2024	IPR002889	Carbohydrate-binding WSC	-
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	1	544	1.5E-150	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	944	1222	5.8E-54	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	710	943	4.0E-45	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	1	570	68.013229	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	765	1204	4.94E-84	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	Pfam	PF03098	Animal haem peroxidase	766	940	9.7E-39	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	Pfam	PF03098	Animal haem peroxidase	4	524	1.2E-119	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	Pfam	PF03098	Animal haem peroxidase	1068	1200	1.6E-34	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	755	1227	45.421627	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2563915.1	2af9bce527efb17ee0188c5ebf5a923b	1227	PANTHER	PTHR11903	PROSTAGLANDIN G/H SYNTHASE	3	542	1.4E-237	T	19-04-2024	-	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	SUPERFAMILY	SSF49785	Galactose-binding domain-like	1201	1246	3.4E-5	T	19-04-2024	IPR008979	Galactose-binding-like domain superfamily	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	MobiDBLite	mobidb-lite	consensus disorder prediction	748	769	-	T	19-04-2024	-	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	765	1199	3.3E-110	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	748	1249	88.491547	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	SUPERFAMILY	SSF69318	Integrin alpha N-terminal domain	150	550	9.16E-47	T	19-04-2024	IPR028994	Integrin alpha, N-terminal	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	PRINTS	PR00457	Animal haem peroxidase signature	991	1009	2.5E-25	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	PRINTS	PR00457	Animal haem peroxidase signature	790	801	2.5E-25	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	PRINTS	PR00457	Animal haem peroxidase signature	1034	1060	2.5E-25	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	PRINTS	PR00457	Animal haem peroxidase signature	1009	1029	2.5E-25	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	PRINTS	PR00457	Animal haem peroxidase signature	1085	1095	2.5E-25	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	748	1226	9.2E-130	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	Pfam	PF03098	Animal haem peroxidase	767	1202	1.5E-115	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	Pfam	PF13517	FG-GAP-like repeat	346	407	2.5E-10	T	19-04-2024	IPR013517	FG-GAP repeat	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	Pfam	PF13517	FG-GAP-like repeat	161	223	1.0E-12	T	19-04-2024	IPR013517	FG-GAP repeat	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	752	1200	2.2E-117	T	19-04-2024	-	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	Pfam	PF07593	ASPIC and UnbV	581	648	2.2E-13	T	19-04-2024	IPR011519	ASPIC/UnbV	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	Gene3D	G3DSA:2.130.10.130	-	364	614	5.5E-7	T	19-04-2024	IPR028994	Integrin alpha, N-terminal	-
+A_cerv_KAK2568803.1	b5091e6636c2e81ddd2c78c692003f05	1249	Gene3D	G3DSA:2.130.10.130	-	129	283	1.8E-7	T	19-04-2024	IPR028994	Integrin alpha, N-terminal	-
+A_cerv_KAK2568805.1	86e219985b47608dac8067ec8904e34a	268	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	54	162	2.0E-24	T	19-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2568805.1	86e219985b47608dac8067ec8904e34a	268	Pfam	PF03098	Animal haem peroxidase	53	152	6.4E-23	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2568805.1	86e219985b47608dac8067ec8904e34a	268	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	55	166	5.0E-22	T	19-04-2024	-	-
+A_cerv_KAK2568805.1	86e219985b47608dac8067ec8904e34a	268	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	51	182	5.1E-29	T	19-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2568805.1	86e219985b47608dac8067ec8904e34a	268	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	1	181	23.746403	T	19-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	597	1281	1.6E-255	T	20-04-2024	-	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	Pfam	PF07679	Immunoglobulin I-set domain	219	304	2.3E-16	T	20-04-2024	IPR013098	Immunoglobulin I-set	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	Pfam	PF07679	Immunoglobulin I-set domain	496	582	1.2E-19	T	20-04-2024	IPR013098	Immunoglobulin I-set	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	Pfam	PF07679	Immunoglobulin I-set domain	319	400	1.7E-16	T	20-04-2024	IPR013098	Immunoglobulin I-set	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	Gene3D	G3DSA:3.80.10.10	Ribonuclease Inhibitor	97	217	1.7E-34	T	20-04-2024	IPR032675	Leucine-rich repeat domain superfamily	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SUPERFAMILY	SSF48726	Immunoglobulin	317	410	5.3E-25	T	20-04-2024	IPR036179	Immunoglobulin-like domain superfamily	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	FunFam	G3DSA:2.60.40.10:FF:000005	Neuronal cell adhesion molecule	219	307	1.2E-16	T	20-04-2024	-	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	492	589	5.5E-25	T	20-04-2024	IPR013783	Immunoglobulin-like fold	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	FunFam	G3DSA:2.60.40.10:FF:000273	contactin-3 isoform X1	402	493	2.0E-20	T	20-04-2024	-	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	ProSiteProfiles	PS50835	Ig-like domain profile.	404	489	14.273779	T	20-04-2024	IPR007110	Immunoglobulin-like domain	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	Pfam	PF13927	Immunoglobulin domain	403	477	4.9E-17	T	20-04-2024	-	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	691	1283	6.3E-219	T	20-04-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SUPERFAMILY	SSF48726	Immunoglobulin	494	583	1.02E-24	T	20-04-2024	IPR036179	Immunoglobulin-like domain superfamily	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	Pfam	PF13855	Leucine rich repeat	66	122	5.1E-13	T	20-04-2024	IPR001611	Leucine-rich repeat	GO:0005515
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	CDD	cd09826	peroxidasin_like	833	1269	0.0	T	20-04-2024	IPR034824	Peroxidasin, peroxidase domain	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00409	IG_3c	225	307	1.6E-5	T	20-04-2024	IPR003599	Immunoglobulin subtype	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00409	IG_3c	502	583	3.7E-13	T	20-04-2024	IPR003599	Immunoglobulin subtype	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00409	IG_3c	410	491	1.4E-11	T	20-04-2024	IPR003599	Immunoglobulin subtype	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00409	IG_3c	320	401	4.0E-12	T	20-04-2024	IPR003599	Immunoglobulin subtype	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	PRINTS	PR00457	Animal haem peroxidase signature	1034	1044	1.4E-42	T	20-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	PRINTS	PR00457	Animal haem peroxidase signature	981	1007	1.4E-42	T	20-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	PRINTS	PR00457	Animal haem peroxidase signature	1162	1182	1.4E-42	T	20-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	PRINTS	PR00457	Animal haem peroxidase signature	737	748	1.4E-42	T	20-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	PRINTS	PR00457	Animal haem peroxidase signature	1233	1247	1.4E-42	T	20-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	PRINTS	PR00457	Animal haem peroxidase signature	938	956	1.4E-42	T	20-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	PRINTS	PR00457	Animal haem peroxidase signature	956	976	1.4E-42	T	20-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	PRINTS	PR00457	Animal haem peroxidase signature	784	799	1.4E-42	T	20-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	ProSiteProfiles	PS50835	Ig-like domain profile.	219	305	13.62039	T	20-04-2024	IPR007110	Immunoglobulin-like domain	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SUPERFAMILY	SSF52058	L domain-like	62	198	1.12E-36	T	20-04-2024	-	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	Gene3D	G3DSA:3.80.10.10	Ribonuclease Inhibitor	30	96	3.0E-13	T	20-04-2024	IPR032675	Leucine-rich repeat domain superfamily	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	ProSiteProfiles	PS50835	Ig-like domain profile.	496	581	15.417212	T	20-04-2024	IPR007110	Immunoglobulin-like domain	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	707	1281	1.88E-195	T	20-04-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	FunFam	G3DSA:2.60.40.10:FF:000248	peroxidasin homolog	494	587	1.0E-28	T	20-04-2024	-	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	ProSiteProfiles	PS51450	Leucine-rich repeat profile.	111	132	7.041994	T	20-04-2024	IPR001611	Leucine-rich repeat	GO:0005515
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	701	1284	165.355362	T	20-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00082	lrrct1	168	217	9.0E-12	T	20-04-2024	IPR000483	Cysteine-rich flanking region, C-terminal	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	FunFam	G3DSA:1.10.640.10:FF:000001	Peroxidasin homolog	691	1284	5.5E-263	T	20-04-2024	-	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	Pfam	PF03098	Animal haem peroxidase	713	1257	1.4E-200	T	20-04-2024	IPR019791	Haem peroxidase, animal-type	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SUPERFAMILY	SSF48726	Immunoglobulin	400	491	2.65E-23	T	20-04-2024	IPR036179	Immunoglobulin-like domain superfamily	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00408	igc2_5	232	296	3.4E-14	T	20-04-2024	IPR003598	Immunoglobulin subtype 2	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00408	igc2_5	416	480	6.6E-15	T	20-04-2024	IPR003598	Immunoglobulin subtype 2	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00408	igc2_5	326	390	1.3E-16	T	20-04-2024	IPR003598	Immunoglobulin subtype 2	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00408	igc2_5	508	572	1.3E-14	T	20-04-2024	IPR003598	Immunoglobulin subtype 2	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	309	402	2.6E-20	T	20-04-2024	IPR013783	Immunoglobulin-like fold	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	218	308	3.2E-20	T	20-04-2024	IPR013783	Immunoglobulin-like fold	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	403	491	2.1E-22	T	20-04-2024	IPR013783	Immunoglobulin-like fold	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	CDD	cd00096	Ig	331	397	2.17121E-16	T	20-04-2024	-	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SUPERFAMILY	SSF48726	Immunoglobulin	219	308	6.87E-20	T	20-04-2024	IPR036179	Immunoglobulin-like domain superfamily	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00369	LRR_typ_2	157	180	320.0	T	20-04-2024	IPR003591	Leucine-rich repeat, typical subtype	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00369	LRR_typ_2	109	132	0.0024	T	20-04-2024	IPR003591	Leucine-rich repeat, typical subtype	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00369	LRR_typ_2	85	108	0.022	T	20-04-2024	IPR003591	Leucine-rich repeat, typical subtype	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00369	LRR_typ_2	133	156	1.4E-4	T	20-04-2024	IPR003591	Leucine-rich repeat, typical subtype	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	ProSiteProfiles	PS50835	Ig-like domain profile.	313	399	14.128582	T	20-04-2024	IPR007110	Immunoglobulin-like domain	-
+A_cerv_KAK2573917.1	964bcae5a55beea14b7cd6a3db0464ab	1410	FunFam	G3DSA:2.60.40.10:FF:000189	Neogenin isoform 3	313	401	7.3E-18	T	20-04-2024	-	-

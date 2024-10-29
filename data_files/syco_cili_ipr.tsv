@@ -1,0 +1,295 @@
+id	md5	length	analysis	sig_acc	sig_desc	start	end	score	status	 date	ipr_acc	ipr_desc	goterm
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	Pfam	PF13202	EF hand	901	923	0.0018	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	Pfam	PF13202	EF hand	939	959	0.0077	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	1470	1633	6.72E-14	T	19-06-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	MobiDBLite	mobidb-lite	consensus disorder prediction	1042	1063	-	T	19-06-2024	-	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	CDD	cd06186	NOX_Duox_like_FAD_NADP	1364	1641	3.12838E-49	T	19-06-2024	-	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	1358	1462	4.7E-35	T	19-06-2024	-	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	24	623	1.1E-141	T	19-06-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	PRINTS	PR00450	Recoverin family signature	927	946	2.7E-6	T	19-06-2024	-	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	PRINTS	PR00450	Recoverin family signature	903	924	2.7E-6	T	19-06-2024	-	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	PRINTS	PR00450	Recoverin family signature	949	967	2.7E-6	T	19-06-2024	-	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	Pfam	PF01794	Ferric reductase like transmembrane component	1190	1321	4.1E-16	T	19-06-2024	IPR013130	Ferric reductase transmembrane component-like domain	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	SMART	SM00054	efh_1	935	963	5.3E-4	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	SMART	SM00054	efh_1	899	927	2.7E-4	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	1463	1641	4.5E-84	T	19-06-2024	-	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	908	920	-	T	19-06-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	Pfam	PF03098	Animal haem peroxidase	41	591	2.0E-137	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	895	930	12.560727	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	1355	1466	13.417132	T	19-06-2024	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	Pfam	PF08030	Ferric reductase NAD binding domain	1470	1623	5.8E-29	T	19-06-2024	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	Gene3D	G3DSA:3.40.50.80	-	1462	1641	4.2E-52	T	19-06-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	Gene3D	G3DSA:1.10.238.10	-	801	1008	2.0E-25	T	19-06-2024	-	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	Pfam	PF08022	FAD-binding domain	1363	1462	1.6E-15	T	19-06-2024	IPR013112	FAD-binding 8	GO:0016491
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	SUPERFAMILY	SSF47473	EF-hand	882	1005	2.45E-24	T	19-06-2024	IPR011992	EF-hand domain pair	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	30	646	86.546577	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	SFLD	SFLDS00052	Ferric Reductase Domain	1188	1641	0.0	T	19-06-2024	-	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	CDD	cd00051	EFh	900	960	9.01796E-15	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	PANTHER	PTHR11972	NADPH OXIDASE	898	1641	4.0E-140	T	19-06-2024	-	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	1358	1463	6.41E-15	T	19-06-2024	IPR017938	Riboflavin synthase-like beta-barrel	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	931	966	12.923368	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	1188	1641	0.0	T	19-06-2024	-	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	944	956	-	T	19-06-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	39	603	6.0E-123	T	19-06-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	Gene3D	G3DSA:2.40.30.10	Translation factors	1357	1461	1.6E-9	T	19-06-2024	-	-
+S_cili_XP_065174926.1	d5f15e749db5c3812475cdec6a44f33b	1641	SFLD	SFLDG01169	NADPH oxidase subgroup (NOX)	38	1641	0.0	T	19-06-2024	-	-
+S_cili_XP_065174927.1	d6e75d375e61bc244723e873de7ce19b	267	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	27	267	24.681488	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065174927.1	d6e75d375e61bc244723e873de7ce19b	267	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	36	237	1.29E-39	T	19-06-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+S_cili_XP_065174927.1	d6e75d375e61bc244723e873de7ce19b	267	MobiDBLite	mobidb-lite	consensus disorder prediction	66	85	-	T	19-06-2024	-	-
+S_cili_XP_065174927.1	d6e75d375e61bc244723e873de7ce19b	267	Pfam	PF03098	Animal haem peroxidase	37	210	2.5E-42	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065174927.1	d6e75d375e61bc244723e873de7ce19b	267	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	20	249	2.1E-44	T	19-06-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+S_cili_XP_065174927.1	d6e75d375e61bc244723e873de7ce19b	267	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	34	211	1.5E-28	T	19-06-2024	-	-
+S_cili_XP_065174928.1	37b1c6b4bb6552cc5c9a954baeec22c9	268	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	1	176	32.798008	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065174928.1	37b1c6b4bb6552cc5c9a954baeec22c9	268	Pfam	PF03098	Animal haem peroxidase	1	145	2.1E-37	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065174928.1	37b1c6b4bb6552cc5c9a954baeec22c9	268	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	1	162	1.7E-29	T	19-06-2024	-	-
+S_cili_XP_065174928.1	37b1c6b4bb6552cc5c9a954baeec22c9	268	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	1	161	1.4E-36	T	19-06-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+S_cili_XP_065174928.1	37b1c6b4bb6552cc5c9a954baeec22c9	268	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	2	159	8.59E-31	T	19-06-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	CDD	cd00051	EFh	877	937	2.782E-11	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	Pfam	PF08022	FAD-binding domain	1321	1424	3.7E-17	T	19-06-2024	IPR013112	FAD-binding 8	GO:0016491
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	Pfam	PF03098	Animal haem peroxidase	43	575	7.9E-145	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	908	943	12.086506	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	SUPERFAMILY	SSF47473	EF-hand	858	983	3.51E-24	T	19-06-2024	IPR011992	EF-hand domain pair	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	SFLD	SFLDS00052	Ferric Reductase Domain	1077	1601	0.0	T	19-06-2024	-	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	41	592	8.95E-128	T	19-06-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	Pfam	PF01794	Ferric reductase like transmembrane component	1151	1282	2.4E-13	T	19-06-2024	IPR013130	Ferric reductase transmembrane component-like domain	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	PANTHER	PTHR11972	NADPH OXIDASE	874	1603	2.9E-130	T	19-06-2024	-	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	872	907	9.715397	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	SMART	SM00054	efh_1	876	904	0.11	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	SMART	SM00054	efh_1	912	940	0.011	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	1316	1428	12.435527	T	19-06-2024	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	921	933	-	T	19-06-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	1319	1424	3.7E-34	T	19-06-2024	-	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	Gene3D	G3DSA:1.10.238.10	-	821	1017	2.2E-23	T	19-06-2024	-	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	1433	1599	3.34E-14	T	19-06-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	Gene3D	G3DSA:3.40.50.80	-	1416	1603	2.1E-49	T	19-06-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	SFLD	SFLDG01169	NADPH oxidase subgroup (NOX)	40	1603	0.0	T	19-06-2024	-	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	1318	1425	2.0E-13	T	19-06-2024	IPR017938	Riboflavin synthase-like beta-barrel	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	30	618	91.203293	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	1076	1601	0.0	T	19-06-2024	-	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	1425	1603	4.0E-81	T	19-06-2024	-	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	Gene3D	G3DSA:2.40.30.10	Translation factors	1308	1398	1.8E-8	T	19-06-2024	-	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	26	612	4.4E-148	T	19-06-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	Pfam	PF08030	Ferric reductase NAD binding domain	1432	1585	5.9E-27	T	19-06-2024	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+S_cili_XP_065176843.1	b0f67c685155949a6e2c400f740f67e2	1603	CDD	cd06186	NOX_Duox_like_FAD_NADP	1325	1603	3.55865E-49	T	19-06-2024	-	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	747	1302	1.7E-138	T	19-06-2024	-	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	MobiDBLite	mobidb-lite	consensus disorder prediction	1724	1783	-	T	19-06-2024	-	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	Coils	Coil	Coil	1822	1842	-	T	19-06-2024	-	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	SUPERFAMILY	SSF69318	Integrin alpha N-terminal domain	160	545	3.75E-46	T	19-06-2024	IPR028994	Integrin alpha, N-terminal	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	752	1323	105.360443	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	Gene3D	G3DSA:2.130.10.130	-	109	295	1.8E-7	T	19-06-2024	IPR028994	Integrin alpha, N-terminal	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	CDD	cd09822	peroxinectin_like_bacterial	824	1296	2.53116E-165	T	19-06-2024	-	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	MobiDBLite	mobidb-lite	consensus disorder prediction	1317	1350	-	T	19-06-2024	-	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	761	1303	2.71E-133	T	19-06-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	Coils	Coil	Coil	1461	1481	-	T	19-06-2024	-	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	Coils	Coil	Coil	1638	1658	-	T	19-06-2024	-	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	Coils	Coil	Coil	1500	1527	-	T	19-06-2024	-	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	Pfam	PF03098	Animal haem peroxidase	762	1294	2.1E-137	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	Gene3D	G3DSA:2.130.10.130	-	296	424	5.8E-7	T	19-06-2024	IPR028994	Integrin alpha, N-terminal	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	Pfam	PF07593	ASPIC and UnbV	574	641	9.9E-14	T	19-06-2024	IPR011519	ASPIC/UnbV	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	Pfam	PF13517	FG-GAP-like repeat	337	397	4.8E-10	T	19-06-2024	IPR013517	FG-GAP repeat	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	Pfam	PF13517	FG-GAP-like repeat	168	229	1.8E-12	T	19-06-2024	IPR013517	FG-GAP repeat	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	742	1312	4.1E-155	T	19-06-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+S_cili_XP_065179778.1	eb69f6e495032b3d705ec8e16de61ecc	1929	MobiDBLite	mobidb-lite	consensus disorder prediction	1317	1341	-	T	19-06-2024	-	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	SFLD	SFLDG01169	NADPH oxidase subgroup (NOX)	50	1633	0.0	T	19-06-2024	-	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	1345	1457	14.626184	T	19-06-2024	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	CDD	cd00051	EFh	890	951	5.36843E-7	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	Pfam	PF08030	Ferric reductase NAD binding domain	1463	1615	1.2E-29	T	19-06-2024	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	CDD	cd00051	EFh	925	995	1.086E-7	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	1112	1620	0.0	T	19-06-2024	-	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	Pfam	PF03098	Animal haem peroxidase	55	592	3.0E-157	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	CDD	cd09820	dual_peroxidase_like	58	631	0.0	T	19-06-2024	IPR034821	Dual oxidase, peroxidase domain	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	CDD	cd06186	NOX_Duox_like_FAD_NADP	1352	1633	2.66613E-49	T	19-06-2024	-	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	885	920	9.548024	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	Gene3D	G3DSA:3.40.50.80	-	1453	1633	1.9E-51	T	19-06-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	1348	1453	5.8E-37	T	19-06-2024	-	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	Pfam	PF01794	Ferric reductase like transmembrane component	1177	1311	7.0E-15	T	19-06-2024	IPR013130	Ferric reductase transmembrane component-like domain	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	39	613	1.3E-162	T	19-06-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	SMART	SM00054	efh_1	889	917	0.064	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	SMART	SM00054	efh_1	969	997	9.2	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	SMART	SM00054	efh_1	925	953	1.6	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	Gene3D	G3DSA:2.40.30.10	Translation factors	1342	1452	1.0E-9	T	19-06-2024	-	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	45	595	3.0E-141	T	19-06-2024	-	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	1454	1633	4.9E-81	T	19-06-2024	-	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	51	601	1.88E-144	T	19-06-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	PRINTS	PR00457	Animal haem peroxidase signature	257	275	2.5E-15	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	PRINTS	PR00457	Animal haem peroxidase signature	79	90	2.5E-15	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	PRINTS	PR00457	Animal haem peroxidase signature	300	326	2.5E-15	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	PRINTS	PR00457	Animal haem peroxidase signature	275	295	2.5E-15	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	PRINTS	PR00457	Animal haem peroxidase signature	567	581	2.5E-15	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	PRINTS	PR00457	Animal haem peroxidase signature	123	138	2.5E-15	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	921	956	11.361225	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	SFLD	SFLDS00052	Ferric Reductase Domain	1115	1620	0.0	T	19-06-2024	-	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	MobiDBLite	mobidb-lite	consensus disorder prediction	1039	1059	-	T	19-06-2024	-	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	1464	1623	1.5E-13	T	19-06-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	46	626	100.722435	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	Gene3D	G3DSA:1.10.238.10	-	849	1010	1.4E-25	T	19-06-2024	-	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	MobiDBLite	mobidb-lite	consensus disorder prediction	1060	1085	-	T	19-06-2024	-	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	MobiDBLite	mobidb-lite	consensus disorder prediction	1012	1096	-	T	19-06-2024	-	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	1347	1453	1.44E-15	T	19-06-2024	IPR017938	Riboflavin synthase-like beta-barrel	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	SUPERFAMILY	SSF47473	EF-hand	872	995	1.92E-23	T	19-06-2024	IPR011992	EF-hand domain pair	-
+S_cili_XP_065180847.1	90175aa19a3fcdcfb8759f4fc7f46752	1633	Pfam	PF08022	FAD-binding domain	1350	1453	5.4E-18	T	19-06-2024	IPR013112	FAD-binding 8	GO:0016491
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	MobiDBLite	mobidb-lite	consensus disorder prediction	716	744	-	T	19-06-2024	-	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	PRINTS	PR00457	Animal haem peroxidase signature	972	998	1.4E-30	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	PRINTS	PR00457	Animal haem peroxidase signature	1220	1234	1.4E-30	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	PRINTS	PR00457	Animal haem peroxidase signature	947	967	1.4E-30	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	PRINTS	PR00457	Animal haem peroxidase signature	1149	1169	1.4E-30	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	PRINTS	PR00457	Animal haem peroxidase signature	929	947	1.4E-30	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	PRINTS	PR00457	Animal haem peroxidase signature	768	783	1.4E-30	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	PRINTS	PR00457	Animal haem peroxidase signature	1023	1033	1.4E-30	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	ProSiteProfiles	PS50835	Ig-like domain profile.	444	535	12.059517	T	19-06-2024	IPR007110	Immunoglobulin-like domain	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	SMART	SM00408	igc2_5	358	427	3.7E-11	T	19-06-2024	IPR003598	Immunoglobulin subtype 2	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	SMART	SM00408	igc2_5	456	526	1.3E-5	T	19-06-2024	IPR003598	Immunoglobulin subtype 2	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	Pfam	PF03098	Animal haem peroxidase	676	1244	2.4E-170	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	CDD	cd00096	Ig	461	533	1.89759E-13	T	19-06-2024	-	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	SUPERFAMILY	SSF48726	Immunoglobulin	444	538	5.92E-17	T	19-06-2024	IPR036179	Immunoglobulin-like domain superfamily	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	CDD	cd00096	Ig	363	433	1.91448E-15	T	19-06-2024	-	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	654	1270	7.5E-187	T	19-06-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	664	1271	145.980438	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	SUPERFAMILY	SSF52058	L domain-like	151	277	1.33E-29	T	19-06-2024	-	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	MobiDBLite	mobidb-lite	consensus disorder prediction	62	88	-	T	19-06-2024	-	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	SMART	SM00409	IG_3c	450	537	1.3E-10	T	19-06-2024	IPR003599	Immunoglobulin subtype	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	SMART	SM00409	IG_3c	352	438	4.0E-10	T	19-06-2024	IPR003599	Immunoglobulin subtype	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	MobiDBLite	mobidb-lite	consensus disorder prediction	713	749	-	T	19-06-2024	-	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	671	1270	7.06E-165	T	19-06-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	SUPERFAMILY	SSF48726	Immunoglobulin	352	441	3.93E-19	T	19-06-2024	IPR036179	Immunoglobulin-like domain superfamily	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	Pfam	PF13855	Leucine rich repeat	180	240	2.1E-14	T	19-06-2024	IPR001611	Leucine-rich repeat	GO:0005515
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	FunFam	G3DSA:1.10.640.10:FF:000003	chorion peroxidase	658	1270	9.5E-169	T	19-06-2024	-	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	Pfam	PF07679	Immunoglobulin I-set domain	358	437	9.7E-13	T	19-06-2024	IPR013098	Immunoglobulin I-set	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	Pfam	PF07679	Immunoglobulin I-set domain	446	536	3.1E-10	T	19-06-2024	IPR013098	Immunoglobulin I-set	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	347	442	2.8E-18	T	19-06-2024	IPR013783	Immunoglobulin-like fold	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	Gene3D	G3DSA:3.80.10.10	Ribonuclease Inhibitor	106	346	8.3E-36	T	19-06-2024	IPR032675	Leucine-rich repeat domain superfamily	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	SMART	SM00369	LRR_typ_2	227	250	13.0	T	19-06-2024	IPR003591	Leucine-rich repeat, typical subtype	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	SMART	SM00369	LRR_typ_2	179	202	0.0028	T	19-06-2024	IPR003591	Leucine-rich repeat, typical subtype	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	SMART	SM00369	LRR_typ_2	203	226	0.0015	T	19-06-2024	IPR003591	Leucine-rich repeat, typical subtype	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	ProSiteProfiles	PS51450	Leucine-rich repeat profile.	205	226	7.681152	T	19-06-2024	IPR001611	Leucine-rich repeat	GO:0005515
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	FunFam	G3DSA:2.60.40.10:FF:000032	palladin isoform X1	352	442	2.2E-13	T	19-06-2024	-	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	443	538	1.2E-16	T	19-06-2024	IPR013783	Immunoglobulin-like fold	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	ProSiteProfiles	PS50835	Ig-like domain profile.	345	436	12.168415	T	19-06-2024	IPR007110	Immunoglobulin-like domain	-
+S_cili_XP_065182939.1	509616e57b155853f4df47c72244527d	1399	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	608	1269	4.0E-200	T	19-06-2024	-	-
+S_cili_XP_065183426.1	2fb8236d999c7def61fb6e9d82f454f0	657	MobiDBLite	mobidb-lite	consensus disorder prediction	62	101	-	T	19-06-2024	-	-
+S_cili_XP_065183426.1	2fb8236d999c7def61fb6e9d82f454f0	657	MobiDBLite	mobidb-lite	consensus disorder prediction	69	96	-	T	19-06-2024	-	-
+S_cili_XP_065183426.1	2fb8236d999c7def61fb6e9d82f454f0	657	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	81	655	67.152954	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065183426.1	2fb8236d999c7def61fb6e9d82f454f0	657	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	93	611	7.06E-121	T	19-06-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+S_cili_XP_065183426.1	2fb8236d999c7def61fb6e9d82f454f0	657	PANTHER	PTHR11903	PROSTAGLANDIN G/H SYNTHASE	14	610	7.2E-141	T	19-06-2024	-	-
+S_cili_XP_065183426.1	2fb8236d999c7def61fb6e9d82f454f0	657	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	1	628	1.6E-155	T	19-06-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+S_cili_XP_065183426.1	2fb8236d999c7def61fb6e9d82f454f0	657	PRINTS	PR00457	Animal haem peroxidase signature	316	342	3.3E-5	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065183426.1	2fb8236d999c7def61fb6e9d82f454f0	657	PRINTS	PR00457	Animal haem peroxidase signature	291	311	3.3E-5	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065183426.1	2fb8236d999c7def61fb6e9d82f454f0	657	Pfam	PF03098	Animal haem peroxidase	96	610	6.9E-121	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065183426.1	2fb8236d999c7def61fb6e9d82f454f0	657	CDD	cd09818	PIOX_like	96	625	0.0	T	19-06-2024	IPR034815	Alpha-dioxygenase	GO:0016491
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	PRINTS	PR00457	Animal haem peroxidase signature	340	350	1.1E-5	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	PRINTS	PR00457	Animal haem peroxidase signature	291	317	1.1E-5	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	PRINTS	PR00457	Animal haem peroxidase signature	63	74	1.1E-5	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	Gene3D	G3DSA:1.10.238.10	-	827	1029	3.8E-26	T	19-06-2024	-	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	30	637	82.637932	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF08030	Ferric reductase NAD binding domain	1470	1622	3.7E-26	T	19-06-2024	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF03098	Animal haem peroxidase	42	599	3.6E-137	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	41	617	4.59E-123	T	19-06-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	938	950	-	T	19-06-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	1462	1640	1.7E-86	T	19-06-2024	-	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF08022	FAD-binding domain	1361	1461	1.8E-14	T	19-06-2024	IPR013112	FAD-binding 8	GO:0016491
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF01794	Ferric reductase like transmembrane component	1187	1319	1.8E-13	T	19-06-2024	IPR013130	Ferric reductase transmembrane component-like domain	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	35	635	2.1E-141	T	19-06-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	1472	1640	1.02E-13	T	19-06-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	1356	1461	1.3E-34	T	19-06-2024	-	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	SFLD	SFLDS00052	Ferric Reductase Domain	1127	1640	0.0	T	19-06-2024	-	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	889	924	13.369694	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	SMART	SM00054	efh_1	893	921	5.9E-4	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	SMART	SM00054	efh_1	929	957	9.1E-5	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	925	960	12.979158	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	902	914	-	T	19-06-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	PANTHER	PTHR11972	NADPH OXIDASE	892	1640	2.4E-136	T	19-06-2024	-	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF13202	EF hand	933	953	3.7E-5	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF13202	EF hand	895	918	0.0037	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	1353	1465	12.680928	T	19-06-2024	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	1129	1640	0.0	T	19-06-2024	-	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	CDD	cd00051	EFh	894	955	1.85488E-15	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	CDD	cd06186	NOX_Duox_like_FAD_NADP	1362	1640	2.51287E-50	T	19-06-2024	-	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	1356	1462	1.12E-12	T	19-06-2024	IPR017938	Riboflavin synthase-like beta-barrel	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	SUPERFAMILY	SSF47473	EF-hand	857	1004	9.81E-26	T	19-06-2024	IPR011992	EF-hand domain pair	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	Gene3D	G3DSA:2.40.30.10	Translation factors	1356	1460	5.6E-8	T	19-06-2024	-	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	Gene3D	G3DSA:3.40.50.80	-	1461	1640	2.1E-50	T	19-06-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065183730.1	3bab889ca0c77f4149073c5c0de7e184	1640	SFLD	SFLDG01169	NADPH oxidase subgroup (NOX)	38	1640	0.0	T	19-06-2024	-	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	PRINTS	PR00457	Animal haem peroxidase signature	340	350	1.1E-5	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	PRINTS	PR00457	Animal haem peroxidase signature	291	317	1.1E-5	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	PRINTS	PR00457	Animal haem peroxidase signature	63	74	1.1E-5	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	Gene3D	G3DSA:1.10.238.10	-	827	1029	3.8E-26	T	19-06-2024	-	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	30	637	82.637932	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF08030	Ferric reductase NAD binding domain	1470	1622	3.7E-26	T	19-06-2024	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF03098	Animal haem peroxidase	42	599	3.6E-137	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	41	617	4.59E-123	T	19-06-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	938	950	-	T	19-06-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	1462	1640	1.7E-86	T	19-06-2024	-	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF08022	FAD-binding domain	1361	1461	1.8E-14	T	19-06-2024	IPR013112	FAD-binding 8	GO:0016491
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF01794	Ferric reductase like transmembrane component	1187	1319	1.8E-13	T	19-06-2024	IPR013130	Ferric reductase transmembrane component-like domain	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	35	635	2.1E-141	T	19-06-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	1472	1640	1.02E-13	T	19-06-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	1356	1461	1.3E-34	T	19-06-2024	-	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	SFLD	SFLDS00052	Ferric Reductase Domain	1127	1640	0.0	T	19-06-2024	-	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	889	924	13.369694	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	SMART	SM00054	efh_1	893	921	5.9E-4	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	SMART	SM00054	efh_1	929	957	9.1E-5	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	925	960	12.979158	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	902	914	-	T	19-06-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	PANTHER	PTHR11972	NADPH OXIDASE	892	1640	2.4E-136	T	19-06-2024	-	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF13202	EF hand	933	953	3.7E-5	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF13202	EF hand	895	918	0.0037	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	1353	1465	12.680928	T	19-06-2024	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	1129	1640	0.0	T	19-06-2024	-	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	CDD	cd00051	EFh	894	955	1.85488E-15	T	19-06-2024	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	CDD	cd06186	NOX_Duox_like_FAD_NADP	1362	1640	2.51287E-50	T	19-06-2024	-	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	1356	1462	1.12E-12	T	19-06-2024	IPR017938	Riboflavin synthase-like beta-barrel	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	SUPERFAMILY	SSF47473	EF-hand	857	1004	9.81E-26	T	19-06-2024	IPR011992	EF-hand domain pair	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	Gene3D	G3DSA:2.40.30.10	Translation factors	1356	1460	5.6E-8	T	19-06-2024	-	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	Gene3D	G3DSA:3.40.50.80	-	1461	1640	2.1E-50	T	19-06-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065183731.1	3bab889ca0c77f4149073c5c0de7e184	1640	SFLD	SFLDG01169	NADPH oxidase subgroup (NOX)	38	1640	0.0	T	19-06-2024	-	-
+S_cili_XP_065197396.1	443fcbb15bf31d2f14d77efa16ff7ced	692	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	73	651	2.6E-107	T	19-06-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+S_cili_XP_065197396.1	443fcbb15bf31d2f14d77efa16ff7ced	692	Pfam	PF03098	Animal haem peroxidase	80	598	2.1E-99	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197396.1	443fcbb15bf31d2f14d77efa16ff7ced	692	MobiDBLite	mobidb-lite	consensus disorder prediction	293	313	-	T	19-06-2024	-	-
+S_cili_XP_065197396.1	443fcbb15bf31d2f14d77efa16ff7ced	692	PRINTS	PR00457	Animal haem peroxidase signature	328	348	7.3E-7	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197396.1	443fcbb15bf31d2f14d77efa16ff7ced	692	PRINTS	PR00457	Animal haem peroxidase signature	406	416	7.3E-7	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197396.1	443fcbb15bf31d2f14d77efa16ff7ced	692	PRINTS	PR00457	Animal haem peroxidase signature	533	553	7.3E-7	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197396.1	443fcbb15bf31d2f14d77efa16ff7ced	692	PRINTS	PR00457	Animal haem peroxidase signature	92	103	7.3E-7	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197396.1	443fcbb15bf31d2f14d77efa16ff7ced	692	PRINTS	PR00457	Animal haem peroxidase signature	310	328	7.3E-7	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197396.1	443fcbb15bf31d2f14d77efa16ff7ced	692	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	52	675	65.89994	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197396.1	443fcbb15bf31d2f14d77efa16ff7ced	692	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	82	630	1.29E-91	T	19-06-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+S_cili_XP_065197396.1	443fcbb15bf31d2f14d77efa16ff7ced	692	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	82	604	4.4E-94	T	19-06-2024	-	-
+S_cili_XP_065197397.1	1d56fa713837ef499406cf2e84d6b824	687	PRINTS	PR00457	Animal haem peroxidase signature	328	348	7.1E-7	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197397.1	1d56fa713837ef499406cf2e84d6b824	687	PRINTS	PR00457	Animal haem peroxidase signature	310	328	7.1E-7	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197397.1	1d56fa713837ef499406cf2e84d6b824	687	PRINTS	PR00457	Animal haem peroxidase signature	92	103	7.1E-7	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197397.1	1d56fa713837ef499406cf2e84d6b824	687	PRINTS	PR00457	Animal haem peroxidase signature	533	553	7.1E-7	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197397.1	1d56fa713837ef499406cf2e84d6b824	687	PRINTS	PR00457	Animal haem peroxidase signature	406	416	7.1E-7	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197397.1	1d56fa713837ef499406cf2e84d6b824	687	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	82	604	4.2E-94	T	19-06-2024	-	-
+S_cili_XP_065197397.1	1d56fa713837ef499406cf2e84d6b824	687	MobiDBLite	mobidb-lite	consensus disorder prediction	293	313	-	T	19-06-2024	-	-
+S_cili_XP_065197397.1	1d56fa713837ef499406cf2e84d6b824	687	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	73	651	2.6E-107	T	19-06-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+S_cili_XP_065197397.1	1d56fa713837ef499406cf2e84d6b824	687	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	52	675	65.89994	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197397.1	1d56fa713837ef499406cf2e84d6b824	687	Pfam	PF03098	Animal haem peroxidase	80	598	2.0E-99	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197397.1	1d56fa713837ef499406cf2e84d6b824	687	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	82	630	1.29E-91	T	19-06-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+S_cili_XP_065197398.1	59a8c7ccba665d37229a6a6b550bdb37	682	PRINTS	PR00457	Animal haem peroxidase signature	92	103	6.8E-7	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197398.1	59a8c7ccba665d37229a6a6b550bdb37	682	PRINTS	PR00457	Animal haem peroxidase signature	406	416	6.8E-7	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197398.1	59a8c7ccba665d37229a6a6b550bdb37	682	PRINTS	PR00457	Animal haem peroxidase signature	310	328	6.8E-7	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197398.1	59a8c7ccba665d37229a6a6b550bdb37	682	PRINTS	PR00457	Animal haem peroxidase signature	533	553	6.8E-7	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197398.1	59a8c7ccba665d37229a6a6b550bdb37	682	PRINTS	PR00457	Animal haem peroxidase signature	328	348	6.8E-7	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197398.1	59a8c7ccba665d37229a6a6b550bdb37	682	MobiDBLite	mobidb-lite	consensus disorder prediction	293	313	-	T	19-06-2024	-	-
+S_cili_XP_065197398.1	59a8c7ccba665d37229a6a6b550bdb37	682	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	73	652	2.5E-107	T	19-06-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+S_cili_XP_065197398.1	59a8c7ccba665d37229a6a6b550bdb37	682	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	82	604	4.1E-94	T	19-06-2024	-	-
+S_cili_XP_065197398.1	59a8c7ccba665d37229a6a6b550bdb37	682	Pfam	PF03098	Animal haem peroxidase	80	598	2.0E-99	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065197398.1	59a8c7ccba665d37229a6a6b550bdb37	682	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	82	630	1.29E-91	T	19-06-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+S_cili_XP_065197398.1	59a8c7ccba665d37229a6a6b550bdb37	682	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	52	681	66.273979	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	CDD	cd09822	peroxinectin_like_bacterial	840	1310	2.1291E-171	T	19-06-2024	-	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	760	1347	107.548538	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	Gene3D	G3DSA:2.130.10.130	-	293	419	7.1E-6	T	19-06-2024	IPR028994	Integrin alpha, N-terminal	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	Gene3D	G3DSA:2.130.10.130	-	131	292	9.7E-10	T	19-06-2024	IPR028994	Integrin alpha, N-terminal	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	Pfam	PF13517	FG-GAP-like repeat	162	224	6.0E-14	T	19-06-2024	IPR013517	FG-GAP repeat	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	Pfam	PF13517	FG-GAP-like repeat	341	401	9.1E-12	T	19-06-2024	IPR013517	FG-GAP repeat	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	751	1337	5.5E-156	T	19-06-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	769	1331	5.3E-146	T	19-06-2024	-	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	SUPERFAMILY	SSF69318	Integrin alpha N-terminal domain	155	549	2.49E-47	T	19-06-2024	IPR028994	Integrin alpha, N-terminal	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	PRINTS	PR00457	Animal haem peroxidase signature	1006	1024	4.7E-28	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	PRINTS	PR00457	Animal haem peroxidase signature	1049	1075	4.7E-28	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	PRINTS	PR00457	Animal haem peroxidase signature	794	805	4.7E-28	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	PRINTS	PR00457	Animal haem peroxidase signature	1098	1108	4.7E-28	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	PRINTS	PR00457	Animal haem peroxidase signature	1223	1243	4.7E-28	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	PRINTS	PR00457	Animal haem peroxidase signature	1024	1044	4.7E-28	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	Pfam	PF03098	Animal haem peroxidase	771	1310	4.6E-145	T	19-06-2024	IPR019791	Haem peroxidase, animal-type	-
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	767	1325	2.94E-139	T	19-06-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+S_cili_XP_065199427.1	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	Pfam	PF07593	ASPIC and UnbV	576	643	5.7E-13	T	19-06-2024	IPR011519	ASPIC/UnbV	-

@@ -1,0 +1,500 @@
+id	md5	length	analysis	sig_acc	sig_desc	start	end	score	status	 date	ipr_acc	ipr_desc	goterm
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	323	418	1.8E-26	T	17-07-2024	IPR013783	Immunoglobulin-like fold	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00082	lrrct1	183	232	2.0E-5	T	17-07-2024	IPR000483	Cysteine-rich flanking region, C-terminal	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	ProSiteProfiles	PS50835	Ig-like domain profile.	419	505	14.709373	T	17-07-2024	IPR007110	Immunoglobulin-like domain	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SUPERFAMILY	SSF48726	Immunoglobulin	331	425	5.19E-26	T	17-07-2024	IPR036179	Immunoglobulin-like domain superfamily	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SUPERFAMILY	SSF48726	Immunoglobulin	413	507	6.19E-23	T	17-07-2024	IPR036179	Immunoglobulin-like domain superfamily	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00408	igc2_5	432	496	2.9E-16	T	17-07-2024	IPR003598	Immunoglobulin subtype 2	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00408	igc2_5	248	312	3.4E-6	T	17-07-2024	IPR003598	Immunoglobulin subtype 2	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00408	igc2_5	341	405	3.0E-13	T	17-07-2024	IPR003598	Immunoglobulin subtype 2	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00408	igc2_5	524	588	1.9E-12	T	17-07-2024	IPR003598	Immunoglobulin subtype 2	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	CDD	cd09826	peroxidasin_like	845	1285	0.0	T	17-07-2024	IPR034824	Peroxidasin, peroxidase domain	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	ProSiteProfiles	PS50184	VWFC domain profile.	1356	1412	9.761701	T	17-07-2024	IPR001007	VWFC domain	GO:0005515
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	Pfam	PF07679	Immunoglobulin I-set domain	329	415	9.5E-20	T	17-07-2024	IPR013098	Immunoglobulin I-set	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	Pfam	PF07679	Immunoglobulin I-set domain	419	506	3.8E-17	T	17-07-2024	IPR013098	Immunoglobulin I-set	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	Pfam	PF07679	Immunoglobulin I-set domain	234	320	6.0E-13	T	17-07-2024	IPR013098	Immunoglobulin I-set	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	Pfam	PF07679	Immunoglobulin I-set domain	512	598	8.7E-18	T	17-07-2024	IPR013098	Immunoglobulin I-set	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	FunFam	G3DSA:2.60.40.10:FF:000017	Down syndrome cell adhesion molecule b	510	599	2.0E-15	T	17-07-2024	-	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00214	vwc	1356	1411	3.4E-4	T	17-07-2024	IPR001007	VWFC domain	GO:0005515
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	FunFam	G3DSA:2.60.40.10:FF:000273	contactin-3 isoform X1	418	509	7.5E-20	T	17-07-2024	-	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	705	1298	5.2E-221	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	606	1296	2.4E-251	T	17-07-2024	-	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	Pfam	PF13855	Leucine rich repeat	102	161	6.3E-16	T	17-07-2024	IPR001611	Leucine-rich repeat	GO:0005515
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SUPERFAMILY	SSF52058	L domain-like	23	231	3.23E-36	T	17-07-2024	-	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	Pfam	PF00093	von Willebrand factor type C domain	1356	1411	7.3E-7	T	17-07-2024	IPR001007	VWFC domain	GO:0005515
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	419	508	5.2E-21	T	17-07-2024	IPR013783	Immunoglobulin-like fold	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	ProSiteProfiles	PS50835	Ig-like domain profile.	234	321	10.916086	T	17-07-2024	IPR007110	Immunoglobulin-like domain	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	PRINTS	PR00457	Animal haem peroxidase signature	1176	1196	6.6E-45	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	PRINTS	PR00457	Animal haem peroxidase signature	1247	1261	6.6E-45	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	PRINTS	PR00457	Animal haem peroxidase signature	799	814	6.6E-45	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	PRINTS	PR00457	Animal haem peroxidase signature	752	763	6.6E-45	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	PRINTS	PR00457	Animal haem peroxidase signature	951	969	6.6E-45	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	PRINTS	PR00457	Animal haem peroxidase signature	1047	1057	6.6E-45	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	PRINTS	PR00457	Animal haem peroxidase signature	969	989	6.6E-45	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	PRINTS	PR00457	Animal haem peroxidase signature	994	1020	6.6E-45	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	Pfam	PF03098	Animal haem peroxidase	728	1271	1.5E-196	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	Gene3D	G3DSA:6.20.200.20	-	1350	1412	2.3E-7	T	17-07-2024	-	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	715	1298	167.936188	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00369	LRR_typ_2	148	171	4.9	T	17-07-2024	IPR003591	Leucine-rich repeat, typical subtype	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00369	LRR_typ_2	76	99	0.0094	T	17-07-2024	IPR003591	Leucine-rich repeat, typical subtype	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00369	LRR_typ_2	124	147	1.1	T	17-07-2024	IPR003591	Leucine-rich repeat, typical subtype	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00369	LRR_typ_2	56	75	210.0	T	17-07-2024	IPR003591	Leucine-rich repeat, typical subtype	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00369	LRR_typ_2	100	123	0.068	T	17-07-2024	IPR003591	Leucine-rich repeat, typical subtype	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00369	LRR_typ_2	172	195	360.0	T	17-07-2024	IPR003591	Leucine-rich repeat, typical subtype	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SUPERFAMILY	SSF48726	Immunoglobulin	506	599	2.41E-21	T	17-07-2024	IPR036179	Immunoglobulin-like domain superfamily	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00409	IG_3c	426	507	1.7E-11	T	17-07-2024	IPR003599	Immunoglobulin subtype	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00409	IG_3c	242	323	0.19	T	17-07-2024	IPR003599	Immunoglobulin subtype	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00409	IG_3c	518	599	1.7E-9	T	17-07-2024	IPR003599	Immunoglobulin subtype	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SMART	SM00409	IG_3c	335	416	3.6E-12	T	17-07-2024	IPR003599	Immunoglobulin subtype	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SUPERFAMILY	SSF57603	FnI-like domain	1354	1411	1.36E-7	T	17-07-2024	-	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SUPERFAMILY	SSF48726	Immunoglobulin	248	324	1.02E-18	T	17-07-2024	IPR036179	Immunoglobulin-like domain superfamily	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	Gene3D	G3DSA:3.80.10.10	Ribonuclease Inhibitor	20	233	1.1E-49	T	17-07-2024	IPR032675	Leucine-rich repeat domain superfamily	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	FunFam	G3DSA:2.60.40.10:FF:000004	DCC isoform 1	327	417	6.7E-24	T	17-07-2024	-	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	ProSiteProfiles	PS50835	Ig-like domain profile.	512	597	13.965235	T	17-07-2024	IPR007110	Immunoglobulin-like domain	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	ProSitePatterns	PS01208	VWFC domain signature.	1375	1411	-	T	17-07-2024	IPR001007	VWFC domain	GO:0005515
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	234	322	1.4E-18	T	17-07-2024	IPR013783	Immunoglobulin-like fold	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	722	1297	3.41E-199	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	ProSiteProfiles	PS50835	Ig-like domain profile.	329	414	15.798355	T	17-07-2024	IPR007110	Immunoglobulin-like domain	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	509	608	4.9E-23	T	17-07-2024	IPR013783	Immunoglobulin-like fold	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	ProSiteProfiles	PS51450	Leucine-rich repeat profile.	102	123	7.288416	T	17-07-2024	IPR001611	Leucine-rich repeat	GO:0005515
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	FunFam	G3DSA:1.10.640.10:FF:000001	Peroxidasin homolog	705	1298	3.7E-263	T	17-07-2024	-	-
+Xenia_sp_XP_046840172.1	f1fa7a839f592d48b9ba93e9ba174166	1412	FunFam	G3DSA:2.60.40.10:FF:000032	palladin isoform X1	230	326	2.3E-12	T	17-07-2024	-	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	PANTHER	PTHR11972	NADPH OXIDASE	964	1662	1.9E-147	T	17-07-2024	-	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	SFLD	SFLDG01169	NADPH oxidase subgroup (NOX)	156	1662	0.0	T	17-07-2024	-	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	1136	1656	0.0	T	17-07-2024	-	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	Pfam	PF01794	Ferric reductase like transmembrane component	1214	1348	1.3E-16	T	17-07-2024	IPR013130	Ferric reductase transmembrane component-like domain	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	MobiDBLite	mobidb-lite	consensus disorder prediction	202	217	-	T	17-07-2024	-	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	Gene3D	G3DSA:1.10.238.10	-	935	1086	1.0E-24	T	17-07-2024	-	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	961	996	13.09074	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	MobiDBLite	mobidb-lite	consensus disorder prediction	194	217	-	T	17-07-2024	-	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	974	986	-	T	17-07-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	PRINTS	PR00457	Animal haem peroxidase signature	364	382	7.5E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	PRINTS	PR00457	Animal haem peroxidase signature	407	433	7.5E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	PRINTS	PR00457	Animal haem peroxidase signature	461	471	7.5E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	PRINTS	PR00457	Animal haem peroxidase signature	184	195	7.5E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	SUPERFAMILY	SSF47473	EF-hand	947	1079	8.01E-23	T	17-07-2024	IPR011992	EF-hand domain pair	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	997	1032	10.887003	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	Pfam	PF08022	FAD-binding domain	1386	1483	5.3E-16	T	17-07-2024	IPR013112	FAD-binding 8	GO:0016491
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	FunFam	G3DSA:1.10.640.10:FF:000008	Dual oxidase 1	148	726	3.6E-241	T	17-07-2024	-	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	Gene3D	G3DSA:3.40.50.80	-	1484	1662	1.3E-53	T	17-07-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	158	709	4.0E-137	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	SFLD	SFLDS00052	Ferric Reductase Domain	1142	1655	0.0	T	17-07-2024	-	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	Pfam	PF13499	EF-hand domain pair	968	1026	8.7E-8	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	149	738	93.279175	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	CDD	cd06186	NOX_Duox_like_FAD_NADP	1389	1662	1.35249E-51	T	17-07-2024	-	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	1385	1483	1.6E-38	T	17-07-2024	-	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	Gene3D	G3DSA:2.40.30.10	Translation factors	1384	1483	5.2E-11	T	17-07-2024	-	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	Pfam	PF08030	Ferric reductase NAD binding domain	1491	1645	6.5E-31	T	17-07-2024	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	CDD	cd00051	EFh	966	1027	6.10079E-10	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	1484	1662	2.3E-89	T	17-07-2024	-	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	1010	1022	-	T	17-07-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	Pfam	PF03098	Animal haem peroxidase	160	705	1.2E-153	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	146	721	1.8E-155	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	SMART	SM00054	efh_1	1001	1029	1.0	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	SMART	SM00054	efh_1	965	993	4.1E-4	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	1382	1487	13.482972	T	17-07-2024	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	CDD	cd09820	dual_peroxidase_like	163	737	0.0	T	17-07-2024	IPR034821	Dual oxidase, peroxidase domain	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	1492	1656	9.14E-16	T	17-07-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+Xenia_sp_XP_046845727.1	28315bcf42841653d84056a06b55bd97	1662	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	1386	1484	6.43E-15	T	17-07-2024	IPR017938	Riboflavin synthase-like beta-barrel	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	PANTHER	PTHR11972	NADPH OXIDASE	964	1662	1.9E-147	T	17-07-2024	-	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	SFLD	SFLDG01169	NADPH oxidase subgroup (NOX)	156	1662	0.0	T	17-07-2024	-	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	1136	1656	0.0	T	17-07-2024	-	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	Pfam	PF01794	Ferric reductase like transmembrane component	1214	1348	1.3E-16	T	17-07-2024	IPR013130	Ferric reductase transmembrane component-like domain	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	MobiDBLite	mobidb-lite	consensus disorder prediction	202	217	-	T	17-07-2024	-	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	Gene3D	G3DSA:1.10.238.10	-	935	1086	1.0E-24	T	17-07-2024	-	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	961	996	13.09074	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	MobiDBLite	mobidb-lite	consensus disorder prediction	194	217	-	T	17-07-2024	-	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	974	986	-	T	17-07-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	PRINTS	PR00457	Animal haem peroxidase signature	364	382	7.5E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	PRINTS	PR00457	Animal haem peroxidase signature	407	433	7.5E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	PRINTS	PR00457	Animal haem peroxidase signature	461	471	7.5E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	PRINTS	PR00457	Animal haem peroxidase signature	184	195	7.5E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	SUPERFAMILY	SSF47473	EF-hand	947	1079	8.01E-23	T	17-07-2024	IPR011992	EF-hand domain pair	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	997	1032	10.887003	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	Pfam	PF08022	FAD-binding domain	1386	1483	5.3E-16	T	17-07-2024	IPR013112	FAD-binding 8	GO:0016491
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	FunFam	G3DSA:1.10.640.10:FF:000008	Dual oxidase 1	148	726	3.6E-241	T	17-07-2024	-	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	Gene3D	G3DSA:3.40.50.80	-	1484	1662	1.3E-53	T	17-07-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	158	709	4.0E-137	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	SFLD	SFLDS00052	Ferric Reductase Domain	1142	1655	0.0	T	17-07-2024	-	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	Pfam	PF13499	EF-hand domain pair	968	1026	8.7E-8	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	149	738	93.279175	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	CDD	cd06186	NOX_Duox_like_FAD_NADP	1389	1662	1.35249E-51	T	17-07-2024	-	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	1385	1483	1.6E-38	T	17-07-2024	-	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	Gene3D	G3DSA:2.40.30.10	Translation factors	1384	1483	5.2E-11	T	17-07-2024	-	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	Pfam	PF08030	Ferric reductase NAD binding domain	1491	1645	6.5E-31	T	17-07-2024	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	CDD	cd00051	EFh	966	1027	6.10079E-10	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	1484	1662	2.3E-89	T	17-07-2024	-	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	1010	1022	-	T	17-07-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	Pfam	PF03098	Animal haem peroxidase	160	705	1.2E-153	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	146	721	1.8E-155	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	SMART	SM00054	efh_1	1001	1029	1.0	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	SMART	SM00054	efh_1	965	993	4.1E-4	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	1382	1487	13.482972	T	17-07-2024	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	CDD	cd09820	dual_peroxidase_like	163	737	0.0	T	17-07-2024	IPR034821	Dual oxidase, peroxidase domain	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	1492	1656	9.14E-16	T	17-07-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+Xenia_sp_XP_046845728.1	28315bcf42841653d84056a06b55bd97	1662	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	1386	1484	6.43E-15	T	17-07-2024	IPR017938	Riboflavin synthase-like beta-barrel	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	1377	1555	2.1E-89	T	17-07-2024	-	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	1275	1380	13.482972	T	17-07-2024	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	51	602	3.53E-137	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	Gene3D	G3DSA:2.40.30.10	Translation factors	1277	1376	4.8E-11	T	17-07-2024	-	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	Pfam	PF08022	FAD-binding domain	1279	1376	4.9E-16	T	17-07-2024	IPR013112	FAD-binding 8	GO:0016491
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	MobiDBLite	mobidb-lite	consensus disorder prediction	86	108	-	T	17-07-2024	-	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	890	925	10.887003	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	Pfam	PF01794	Ferric reductase like transmembrane component	1107	1241	1.2E-16	T	17-07-2024	IPR013130	Ferric reductase transmembrane component-like domain	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	1385	1549	8.04E-16	T	17-07-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	867	879	-	T	17-07-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	SFLD	SFLDG01169	NADPH oxidase subgroup (NOX)	49	1555	0.0	T	17-07-2024	-	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	Pfam	PF03098	Animal haem peroxidase	53	598	1.0E-153	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	39	614	1.5E-155	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	1278	1376	1.5E-38	T	17-07-2024	-	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	42	631	93.279175	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	854	889	13.09074	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	PANTHER	PTHR11972	NADPH OXIDASE	857	1555	9.1E-148	T	17-07-2024	-	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	Pfam	PF13499	EF-hand domain pair	861	919	8.1E-8	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	SUPERFAMILY	SSF47473	EF-hand	840	972	6.71E-23	T	17-07-2024	IPR011992	EF-hand domain pair	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	CDD	cd00051	EFh	859	920	6.9373E-10	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	FunFam	G3DSA:1.10.640.10:FF:000008	Dual oxidase 1	41	619	3.1E-241	T	17-07-2024	-	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	SMART	SM00054	efh_1	858	886	4.1E-4	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	SMART	SM00054	efh_1	894	922	1.0	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	PRINTS	PR00457	Animal haem peroxidase signature	354	364	5.8E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	PRINTS	PR00457	Animal haem peroxidase signature	300	326	5.8E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	PRINTS	PR00457	Animal haem peroxidase signature	77	88	5.8E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	PRINTS	PR00457	Animal haem peroxidase signature	257	275	5.8E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	Gene3D	G3DSA:3.40.50.80	-	1377	1555	1.2E-53	T	17-07-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	SFLD	SFLDS00052	Ferric Reductase Domain	1035	1548	0.0	T	17-07-2024	-	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	CDD	cd09820	dual_peroxidase_like	56	630	0.0	T	17-07-2024	IPR034821	Dual oxidase, peroxidase domain	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	1029	1549	0.0	T	17-07-2024	-	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	CDD	cd06186	NOX_Duox_like_FAD_NADP	1282	1555	1.10894E-51	T	17-07-2024	-	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	Pfam	PF08030	Ferric reductase NAD binding domain	1384	1538	6.0E-31	T	17-07-2024	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	Gene3D	G3DSA:1.10.238.10	-	819	982	2.4E-25	T	17-07-2024	-	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	1279	1377	6.05E-15	T	17-07-2024	IPR017938	Riboflavin synthase-like beta-barrel	-
+Xenia_sp_XP_046845729.1	8ee0c361f32073d88182d71354ac298a	1555	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	903	915	-	T	17-07-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	1377	1555	2.1E-89	T	17-07-2024	-	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	1275	1380	13.482972	T	17-07-2024	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	51	602	3.53E-137	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	Gene3D	G3DSA:2.40.30.10	Translation factors	1277	1376	4.8E-11	T	17-07-2024	-	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	Pfam	PF08022	FAD-binding domain	1279	1376	4.9E-16	T	17-07-2024	IPR013112	FAD-binding 8	GO:0016491
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	MobiDBLite	mobidb-lite	consensus disorder prediction	86	108	-	T	17-07-2024	-	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	890	925	10.887003	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	Pfam	PF01794	Ferric reductase like transmembrane component	1107	1241	1.2E-16	T	17-07-2024	IPR013130	Ferric reductase transmembrane component-like domain	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	1385	1549	8.04E-16	T	17-07-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	867	879	-	T	17-07-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	SFLD	SFLDG01169	NADPH oxidase subgroup (NOX)	49	1555	0.0	T	17-07-2024	-	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	Pfam	PF03098	Animal haem peroxidase	53	598	1.0E-153	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	39	614	1.5E-155	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	1278	1376	1.5E-38	T	17-07-2024	-	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	42	631	93.279175	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	854	889	13.09074	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	PANTHER	PTHR11972	NADPH OXIDASE	857	1555	9.1E-148	T	17-07-2024	-	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	Pfam	PF13499	EF-hand domain pair	861	919	8.1E-8	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	SUPERFAMILY	SSF47473	EF-hand	840	972	6.71E-23	T	17-07-2024	IPR011992	EF-hand domain pair	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	CDD	cd00051	EFh	859	920	6.9373E-10	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	FunFam	G3DSA:1.10.640.10:FF:000008	Dual oxidase 1	41	619	3.1E-241	T	17-07-2024	-	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	SMART	SM00054	efh_1	858	886	4.1E-4	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	SMART	SM00054	efh_1	894	922	1.0	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	PRINTS	PR00457	Animal haem peroxidase signature	354	364	5.8E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	PRINTS	PR00457	Animal haem peroxidase signature	300	326	5.8E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	PRINTS	PR00457	Animal haem peroxidase signature	77	88	5.8E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	PRINTS	PR00457	Animal haem peroxidase signature	257	275	5.8E-9	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	Gene3D	G3DSA:3.40.50.80	-	1377	1555	1.2E-53	T	17-07-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	SFLD	SFLDS00052	Ferric Reductase Domain	1035	1548	0.0	T	17-07-2024	-	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	CDD	cd09820	dual_peroxidase_like	56	630	0.0	T	17-07-2024	IPR034821	Dual oxidase, peroxidase domain	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	1029	1549	0.0	T	17-07-2024	-	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	CDD	cd06186	NOX_Duox_like_FAD_NADP	1282	1555	1.10894E-51	T	17-07-2024	-	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	Pfam	PF08030	Ferric reductase NAD binding domain	1384	1538	6.0E-31	T	17-07-2024	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	Gene3D	G3DSA:1.10.238.10	-	819	982	2.4E-25	T	17-07-2024	-	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	1279	1377	6.05E-15	T	17-07-2024	IPR017938	Riboflavin synthase-like beta-barrel	-
+Xenia_sp_XP_046845730.1	8ee0c361f32073d88182d71354ac298a	1555	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	903	915	-	T	17-07-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	SFLD	SFLDG01169	NADPH oxidase subgroup (NOX)	26	1542	0.0	T	17-07-2024	-	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	Coils	Coil	Coil	522	542	-	T	17-07-2024	-	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	PANTHER	PTHR11972	NADPH OXIDASE	827	1542	8.8E-142	T	17-07-2024	-	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	1364	1542	3.6E-83	T	17-07-2024	-	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	823	858	13.202322	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	SMART	SM00054	efh_1	863	891	2.1	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	SMART	SM00054	efh_1	827	855	0.0012	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	Pfam	PF03098	Animal haem peroxidase	29	564	1.2E-153	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	1264	1367	13.752316	T	17-07-2024	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	1267	1364	3.2E-15	T	17-07-2024	IPR017938	Riboflavin synthase-like beta-barrel	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	CDD	cd06186	NOX_Duox_like_FAD_NADP	1271	1542	5.08933E-53	T	17-07-2024	-	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	Gene3D	G3DSA:2.40.30.10	Translation factors	1266	1363	9.3E-12	T	17-07-2024	-	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	Pfam	PF01794	Ferric reductase like transmembrane component	1092	1229	3.9E-15	T	17-07-2024	IPR013130	Ferric reductase transmembrane component-like domain	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	29	594	1.29E-137	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	SFLD	SFLDS00052	Ferric Reductase Domain	1039	1540	0.0	T	17-07-2024	-	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	836	848	-	T	17-07-2024	IPR018247	EF-Hand 1, calcium-binding site	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	CDD	cd00051	EFh	796	852	1.46139E-6	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	CDD	cd00051	EFh	828	889	1.31683E-10	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	19	598	105.809288	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	859	894	10.831213	T	17-07-2024	IPR002048	EF-hand domain	GO:0005509
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	1041	1541	0.0	T	17-07-2024	-	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	PRINTS	PR00457	Animal haem peroxidase signature	52	63	5.7E-13	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	PRINTS	PR00457	Animal haem peroxidase signature	273	299	5.7E-13	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	PRINTS	PR00457	Animal haem peroxidase signature	98	113	5.7E-13	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	PRINTS	PR00457	Animal haem peroxidase signature	248	268	5.7E-13	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	Pfam	PF08022	FAD-binding domain	1269	1363	3.7E-17	T	17-07-2024	IPR013112	FAD-binding 8	GO:0016491
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	Pfam	PF08030	Ferric reductase NAD binding domain	1371	1524	2.6E-31	T	17-07-2024	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	18	590	5.8E-155	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	SUPERFAMILY	SSF47473	EF-hand	809	935	7.44E-22	T	17-07-2024	IPR011992	EF-hand domain pair	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	1374	1539	3.72E-16	T	17-07-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	Gene3D	G3DSA:1.10.238.10	-	724	947	7.1E-21	T	17-07-2024	-	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	1267	1363	4.4E-37	T	17-07-2024	-	-
+Xenia_sp_XP_046845733.1	ad0cde90b6f6f7319cecb15035c2152c	1542	Gene3D	G3DSA:3.40.50.80	-	1364	1542	9.3E-52	T	17-07-2024	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	Pfam	PF03098	Animal haem peroxidase	726	792	3.0E-16	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	Pfam	PF03098	Animal haem peroxidase	230	710	2.2E-124	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	Gene3D	G3DSA:2.10.25.10	Laminin	815	865	8.7E-8	T	17-07-2024	-	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	220	815	120.116058	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	SUPERFAMILY	SSF57196	EGF/Laminin	817	865	3.53E-6	T	17-07-2024	-	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	ProSiteProfiles	PS50026	EGF-like domain profile.	814	862	11.095993	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	230	812	1.41E-137	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	161	812	3.1E-166	T	17-07-2024	-	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	209	814	6.6E-166	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	ProSitePatterns	PS00022	EGF-like domain signature 1.	850	861	-	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	ProSitePatterns	PS01186	EGF-like domain signature 2.	850	861	-	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	PRINTS	PR00457	Animal haem peroxidase signature	445	463	2.8E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	PRINTS	PR00457	Animal haem peroxidase signature	463	483	2.8E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	PRINTS	PR00457	Animal haem peroxidase signature	488	514	2.8E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	PRINTS	PR00457	Animal haem peroxidase signature	254	265	2.8E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	PRINTS	PR00457	Animal haem peroxidase signature	769	783	2.8E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846468.1	b542ba98ad94f1a76ccd653054624ca5	874	PRINTS	PR00457	Animal haem peroxidase signature	309	324	2.8E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	ProSitePatterns	PS00022	EGF-like domain signature 1.	849	860	-	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	ProSitePatterns	PS01186	EGF-like domain signature 2.	849	860	-	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	ProSiteProfiles	PS50026	EGF-like domain profile.	813	861	11.095993	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	PRINTS	PR00457	Animal haem peroxidase signature	487	513	5.2E-32	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	PRINTS	PR00457	Animal haem peroxidase signature	768	782	5.2E-32	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	PRINTS	PR00457	Animal haem peroxidase signature	444	462	5.2E-32	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	PRINTS	PR00457	Animal haem peroxidase signature	462	482	5.2E-32	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	PRINTS	PR00457	Animal haem peroxidase signature	309	324	5.2E-32	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	PRINTS	PR00457	Animal haem peroxidase signature	254	265	5.2E-32	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	SUPERFAMILY	SSF57196	EGF/Laminin	816	864	2.47E-6	T	17-07-2024	-	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	Gene3D	G3DSA:2.10.25.10	Laminin	814	864	8.7E-8	T	17-07-2024	-	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	210	813	2.1E-165	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	227	811	1.12E-138	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	Pfam	PF03098	Animal haem peroxidase	725	791	3.0E-16	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	Pfam	PF03098	Animal haem peroxidase	230	709	6.5E-125	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	220	814	122.996109	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846469.1	ef1fc19ae9f8e7d9f2a3650d4dd852fb	873	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	156	811	6.2E-165	T	17-07-2024	-	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	161	812	3.0E-166	T	17-07-2024	-	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	Pfam	PF03098	Animal haem peroxidase	230	710	2.1E-124	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	Pfam	PF03098	Animal haem peroxidase	726	792	2.9E-16	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	209	814	6.4E-166	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	PRINTS	PR00457	Animal haem peroxidase signature	254	265	2.7E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	PRINTS	PR00457	Animal haem peroxidase signature	488	514	2.7E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	PRINTS	PR00457	Animal haem peroxidase signature	445	463	2.7E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	PRINTS	PR00457	Animal haem peroxidase signature	309	324	2.7E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	PRINTS	PR00457	Animal haem peroxidase signature	463	483	2.7E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	PRINTS	PR00457	Animal haem peroxidase signature	769	783	2.7E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	220	815	120.116058	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	ProSiteProfiles	PS50026	EGF-like domain profile.	814	862	11.095993	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	230	812	1.41E-137	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	Gene3D	G3DSA:2.10.25.10	Laminin	815	865	7.2E-8	T	17-07-2024	-	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	ProSitePatterns	PS00022	EGF-like domain signature 1.	850	861	-	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	ProSitePatterns	PS01186	EGF-like domain signature 2.	850	861	-	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046846470.1	c2c62e32010d601195a037a4aecf2f11	866	SUPERFAMILY	SSF57196	EGF/Laminin	817	863	6.81E-6	T	17-07-2024	-	-
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	159	814	4.7E-164	T	17-07-2024	-	-
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	SUPERFAMILY	SSF57196	EGF/Laminin	818	861	4.44E-5	T	17-07-2024	-	-
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	210	814	4.8E-165	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	Pfam	PF03098	Animal haem peroxidase	727	793	4.3E-17	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	Pfam	PF03098	Animal haem peroxidase	230	709	8.9E-125	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	220	816	123.426247	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	227	814	1.65E-137	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	ProSitePatterns	PS01186	EGF-like domain signature 2.	848	859	-	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	ProSitePatterns	PS00022	EGF-like domain signature 1.	848	859	-	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	Gene3D	G3DSA:2.10.25.10	Laminin	815	864	3.1E-6	T	17-07-2024	-	-
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	PRINTS	PR00457	Animal haem peroxidase signature	444	462	4.3E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	PRINTS	PR00457	Animal haem peroxidase signature	487	513	4.3E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	PRINTS	PR00457	Animal haem peroxidase signature	462	482	4.3E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	PRINTS	PR00457	Animal haem peroxidase signature	770	784	4.3E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	PRINTS	PR00457	Animal haem peroxidase signature	254	265	4.3E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846471.1	40fa6e4eba5c097a920ed774a47119f7	864	PRINTS	PR00457	Animal haem peroxidase signature	309	324	4.3E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	210	814	2.3E-165	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	165	814	1.1E-163	T	17-07-2024	-	-
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	227	814	4.47E-138	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	PRINTS	PR00457	Animal haem peroxidase signature	444	462	2.9E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	PRINTS	PR00457	Animal haem peroxidase signature	487	513	2.9E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	PRINTS	PR00457	Animal haem peroxidase signature	462	482	2.9E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	PRINTS	PR00457	Animal haem peroxidase signature	770	784	2.9E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	PRINTS	PR00457	Animal haem peroxidase signature	254	265	2.9E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	PRINTS	PR00457	Animal haem peroxidase signature	309	324	2.9E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	Pfam	PF03098	Animal haem peroxidase	727	793	4.3E-17	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	Pfam	PF03098	Animal haem peroxidase	230	709	6.6E-125	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	ProSitePatterns	PS01186	EGF-like domain signature 2.	848	859	-	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	Gene3D	G3DSA:2.10.25.10	Laminin	815	864	3.8E-6	T	17-07-2024	-	-
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	ProSitePatterns	PS00022	EGF-like domain signature 1.	848	859	-	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	220	816	123.631966	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846472.1	edcdf5f44ab4237184a8f1f3c0d4ae2d	864	SUPERFAMILY	SSF57196	EGF/Laminin	818	861	5.91E-5	T	17-07-2024	-	-
+Xenia_sp_XP_046846473.1	057d22d7084d72ebf7fbc98b93ae30b0	806	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	172	800	9.8E-169	T	17-07-2024	-	-
+Xenia_sp_XP_046846473.1	057d22d7084d72ebf7fbc98b93ae30b0	806	CDD	cd09823	peroxinectin_like	382	767	5.58202E-144	T	17-07-2024	-	-
+Xenia_sp_XP_046846473.1	057d22d7084d72ebf7fbc98b93ae30b0	806	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	229	800	8.12E-144	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046846473.1	057d22d7084d72ebf7fbc98b93ae30b0	806	FunFam	G3DSA:1.10.640.10:FF:000003	chorion peroxidase	219	801	6.2E-150	T	17-07-2024	-	-
+Xenia_sp_XP_046846473.1	057d22d7084d72ebf7fbc98b93ae30b0	806	Pfam	PF03098	Animal haem peroxidase	234	778	2.8E-151	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846473.1	057d22d7084d72ebf7fbc98b93ae30b0	806	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	215	803	1.2E-169	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046846473.1	057d22d7084d72ebf7fbc98b93ae30b0	806	PRINTS	PR00457	Animal haem peroxidase signature	446	464	2.0E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846473.1	057d22d7084d72ebf7fbc98b93ae30b0	806	PRINTS	PR00457	Animal haem peroxidase signature	313	328	2.0E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846473.1	057d22d7084d72ebf7fbc98b93ae30b0	806	PRINTS	PR00457	Animal haem peroxidase signature	755	769	2.0E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846473.1	057d22d7084d72ebf7fbc98b93ae30b0	806	PRINTS	PR00457	Animal haem peroxidase signature	489	515	2.0E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846473.1	057d22d7084d72ebf7fbc98b93ae30b0	806	PRINTS	PR00457	Animal haem peroxidase signature	464	484	2.0E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846473.1	057d22d7084d72ebf7fbc98b93ae30b0	806	PRINTS	PR00457	Animal haem peroxidase signature	539	549	2.0E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846473.1	057d22d7084d72ebf7fbc98b93ae30b0	806	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	225	802	125.315117	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846475.1	e95ea720a7bfc5e371842407be9efa88	806	PRINTS	PR00457	Animal haem peroxidase signature	446	464	2.0E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846475.1	e95ea720a7bfc5e371842407be9efa88	806	PRINTS	PR00457	Animal haem peroxidase signature	313	328	2.0E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846475.1	e95ea720a7bfc5e371842407be9efa88	806	PRINTS	PR00457	Animal haem peroxidase signature	755	769	2.0E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846475.1	e95ea720a7bfc5e371842407be9efa88	806	PRINTS	PR00457	Animal haem peroxidase signature	489	515	2.0E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846475.1	e95ea720a7bfc5e371842407be9efa88	806	PRINTS	PR00457	Animal haem peroxidase signature	464	484	2.0E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846475.1	e95ea720a7bfc5e371842407be9efa88	806	PRINTS	PR00457	Animal haem peroxidase signature	539	549	2.0E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846475.1	e95ea720a7bfc5e371842407be9efa88	806	CDD	cd09823	peroxinectin_like	382	767	7.81788E-143	T	17-07-2024	-	-
+Xenia_sp_XP_046846475.1	e95ea720a7bfc5e371842407be9efa88	806	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	215	802	6.5E-169	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046846475.1	e95ea720a7bfc5e371842407be9efa88	806	Pfam	PF03098	Animal haem peroxidase	234	778	4.0E-151	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846475.1	e95ea720a7bfc5e371842407be9efa88	806	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	225	802	125.25901	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846475.1	e95ea720a7bfc5e371842407be9efa88	806	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	178	800	9.7E-169	T	17-07-2024	-	-
+Xenia_sp_XP_046846475.1	e95ea720a7bfc5e371842407be9efa88	806	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	229	800	7.42E-143	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046846475.1	e95ea720a7bfc5e371842407be9efa88	806	FunFam	G3DSA:1.10.640.10:FF:000003	chorion peroxidase	219	801	1.2E-149	T	17-07-2024	-	-
+Xenia_sp_XP_046846921.1	f3743e84efb9e6a71bd1f02c6043a130	775	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	229	769	1.18E-137	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046846921.1	f3743e84efb9e6a71bd1f02c6043a130	775	Pfam	PF03098	Animal haem peroxidase	234	747	6.3E-141	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846921.1	f3743e84efb9e6a71bd1f02c6043a130	775	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	225	771	111.831223	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846921.1	f3743e84efb9e6a71bd1f02c6043a130	775	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	215	772	4.2E-160	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046846921.1	f3743e84efb9e6a71bd1f02c6043a130	775	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	172	769	4.7E-160	T	17-07-2024	-	-
+Xenia_sp_XP_046846921.1	f3743e84efb9e6a71bd1f02c6043a130	775	PRINTS	PR00457	Animal haem peroxidase signature	313	328	1.6E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846921.1	f3743e84efb9e6a71bd1f02c6043a130	775	PRINTS	PR00457	Animal haem peroxidase signature	489	515	1.6E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846921.1	f3743e84efb9e6a71bd1f02c6043a130	775	PRINTS	PR00457	Animal haem peroxidase signature	464	484	1.6E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846921.1	f3743e84efb9e6a71bd1f02c6043a130	775	PRINTS	PR00457	Animal haem peroxidase signature	539	549	1.6E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846921.1	f3743e84efb9e6a71bd1f02c6043a130	775	PRINTS	PR00457	Animal haem peroxidase signature	446	464	1.6E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046846921.1	f3743e84efb9e6a71bd1f02c6043a130	775	PRINTS	PR00457	Animal haem peroxidase signature	724	738	1.6E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849813.1	59343882d5f01e46e9dd212b1eced488	943	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	375	938	6.4E-176	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046849813.1	59343882d5f01e46e9dd212b1eced488	943	FunFam	G3DSA:1.10.640.10:FF:000003	chorion peroxidase	372	937	4.7E-159	T	17-07-2024	-	-
+Xenia_sp_XP_046849813.1	59343882d5f01e46e9dd212b1eced488	943	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	380	936	3.06E-156	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046849813.1	59343882d5f01e46e9dd212b1eced488	943	MobiDBLite	mobidb-lite	consensus disorder prediction	153	174	-	T	17-07-2024	-	-
+Xenia_sp_XP_046849813.1	59343882d5f01e46e9dd212b1eced488	943	Pfam	PF03098	Animal haem peroxidase	385	914	1.8E-153	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849813.1	59343882d5f01e46e9dd212b1eced488	943	PRINTS	PR00457	Animal haem peroxidase signature	602	620	9.6E-28	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849813.1	59343882d5f01e46e9dd212b1eced488	943	PRINTS	PR00457	Animal haem peroxidase signature	890	904	9.6E-28	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849813.1	59343882d5f01e46e9dd212b1eced488	943	PRINTS	PR00457	Animal haem peroxidase signature	620	640	9.6E-28	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849813.1	59343882d5f01e46e9dd212b1eced488	943	PRINTS	PR00457	Animal haem peroxidase signature	695	705	9.6E-28	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849813.1	59343882d5f01e46e9dd212b1eced488	943	PRINTS	PR00457	Animal haem peroxidase signature	371	382	9.6E-28	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849813.1	59343882d5f01e46e9dd212b1eced488	943	PRINTS	PR00457	Animal haem peroxidase signature	645	671	9.6E-28	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849813.1	59343882d5f01e46e9dd212b1eced488	943	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	315	936	5.1E-184	T	17-07-2024	-	-
+Xenia_sp_XP_046849813.1	59343882d5f01e46e9dd212b1eced488	943	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	377	938	131.318344	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849822.1	df4ac30dd14b7be2e2f31e6f04da8079	830	Pfam	PF03098	Animal haem peroxidase	278	807	8.9E-154	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849822.1	df4ac30dd14b7be2e2f31e6f04da8079	830	PRINTS	PR00457	Animal haem peroxidase signature	495	513	2.8E-32	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849822.1	df4ac30dd14b7be2e2f31e6f04da8079	830	PRINTS	PR00457	Animal haem peroxidase signature	356	371	2.8E-32	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849822.1	df4ac30dd14b7be2e2f31e6f04da8079	830	PRINTS	PR00457	Animal haem peroxidase signature	783	797	2.8E-32	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849822.1	df4ac30dd14b7be2e2f31e6f04da8079	830	PRINTS	PR00457	Animal haem peroxidase signature	588	598	2.8E-32	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849822.1	df4ac30dd14b7be2e2f31e6f04da8079	830	PRINTS	PR00457	Animal haem peroxidase signature	538	564	2.8E-32	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849822.1	df4ac30dd14b7be2e2f31e6f04da8079	830	PRINTS	PR00457	Animal haem peroxidase signature	513	533	2.8E-32	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046849822.1	df4ac30dd14b7be2e2f31e6f04da8079	830	FunFam	G3DSA:1.10.640.10:FF:000003	chorion peroxidase	266	830	1.1E-158	T	17-07-2024	-	-
+Xenia_sp_XP_046849822.1	df4ac30dd14b7be2e2f31e6f04da8079	830	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	267	830	2.1E-175	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046849822.1	df4ac30dd14b7be2e2f31e6f04da8079	830	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	167	829	1.1E-185	T	17-07-2024	-	-
+Xenia_sp_XP_046849822.1	df4ac30dd14b7be2e2f31e6f04da8079	830	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	273	829	1.41E-152	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046849822.1	df4ac30dd14b7be2e2f31e6f04da8079	830	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	270	830	129.541687	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851295.1	8f7a1c091cc1907f10ca4170d36b463a	378	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	59	378	1.9E-107	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046851295.1	8f7a1c091cc1907f10ca4170d36b463a	378	PRINTS	PR00457	Animal haem peroxidase signature	142	168	6.8E-25	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851295.1	8f7a1c091cc1907f10ca4170d36b463a	378	PRINTS	PR00457	Animal haem peroxidase signature	192	202	6.8E-25	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851295.1	8f7a1c091cc1907f10ca4170d36b463a	378	PRINTS	PR00457	Animal haem peroxidase signature	99	117	6.8E-25	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851295.1	8f7a1c091cc1907f10ca4170d36b463a	378	PRINTS	PR00457	Animal haem peroxidase signature	117	137	6.8E-25	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851295.1	8f7a1c091cc1907f10ca4170d36b463a	378	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	1	378	79.25293	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851295.1	8f7a1c091cc1907f10ca4170d36b463a	378	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	63	377	3.9E-114	T	17-07-2024	-	-
+Xenia_sp_XP_046851295.1	8f7a1c091cc1907f10ca4170d36b463a	378	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	64	378	9.65E-96	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046851295.1	8f7a1c091cc1907f10ca4170d36b463a	378	Pfam	PF03098	Animal haem peroxidase	64	374	5.3E-102	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851515.1	016adb569d6c54750fe46c806b98b915	615	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	40	605	134.553726	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851515.1	016adb569d6c54750fe46c806b98b915	615	FunFam	G3DSA:1.10.640.10:FF:000003	chorion peroxidase	32	604	1.0E-171	T	17-07-2024	-	-
+Xenia_sp_XP_046851515.1	016adb569d6c54750fe46c806b98b915	615	CDD	cd09823	peroxinectin_like	197	564	3.52578E-174	T	17-07-2024	-	-
+Xenia_sp_XP_046851515.1	016adb569d6c54750fe46c806b98b915	615	PRINTS	PR00457	Animal haem peroxidase signature	265	283	4.8E-35	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851515.1	016adb569d6c54750fe46c806b98b915	615	PRINTS	PR00457	Animal haem peroxidase signature	552	566	4.8E-35	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851515.1	016adb569d6c54750fe46c806b98b915	615	PRINTS	PR00457	Animal haem peroxidase signature	128	143	4.8E-35	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851515.1	016adb569d6c54750fe46c806b98b915	615	PRINTS	PR00457	Animal haem peroxidase signature	283	303	4.8E-35	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851515.1	016adb569d6c54750fe46c806b98b915	615	PRINTS	PR00457	Animal haem peroxidase signature	358	368	4.8E-35	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851515.1	016adb569d6c54750fe46c806b98b915	615	PRINTS	PR00457	Animal haem peroxidase signature	308	334	4.8E-35	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851515.1	016adb569d6c54750fe46c806b98b915	615	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	44	602	6.12E-158	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046851515.1	016adb569d6c54750fe46c806b98b915	615	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	41	602	3.0E-192	T	17-07-2024	-	-
+Xenia_sp_XP_046851515.1	016adb569d6c54750fe46c806b98b915	615	Pfam	PF03098	Animal haem peroxidase	49	578	6.0E-164	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851515.1	016adb569d6c54750fe46c806b98b915	615	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	35	604	3.2E-183	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	Gene3D	G3DSA:2.60.40.60	Cadherins	305	410	1.2E-5	T	17-07-2024	-	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	Gene3D	G3DSA:2.10.25.10	Laminin	159	198	4.3E-13	T	17-07-2024	-	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	CDD	cd11304	Cadherin_repeat	315	419	1.27819E-5	T	17-07-2024	-	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	CDD	cd00041	CUB	36	157	1.19276E-19	T	17-07-2024	IPR000859	CUB domain	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	CDD	cd00054	EGF_CA	159	199	1.42889E-9	T	17-07-2024	-	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	Gene3D	G3DSA:2.60.40.60	Cadherins	199	302	1.9E-8	T	17-07-2024	-	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	CDD	cd11304	Cadherin_repeat	209	286	1.66359E-9	T	17-07-2024	-	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	Pfam	PF13330	Mucin-2 protein WxxW repeating region	1105	1182	1.8E-8	T	17-07-2024	IPR025155	WxxW domain	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	ProSiteProfiles	PS50268	Cadherins domain profile.	206	336	8.861805	T	17-07-2024	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	Gene3D	G3DSA:2.60.120.290	Spermadhesin, CUB domain	35	158	1.4E-19	T	17-07-2024	IPR035914	Spermadhesin, CUB domain superfamily	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	Pfam	PF03098	Animal haem peroxidase	532	1060	2.4E-167	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	SUPERFAMILY	SSF49854	Spermadhesin, CUB domain	45	158	1.96E-20	T	17-07-2024	IPR035914	Spermadhesin, CUB domain superfamily	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	ProSiteProfiles	PS50026	EGF-like domain profile.	159	199	9.556575	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	427	1087	1.5E-197	T	17-07-2024	-	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	PRINTS	PR00457	Animal haem peroxidase signature	841	851	1.8E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	PRINTS	PR00457	Animal haem peroxidase signature	791	817	1.8E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	PRINTS	PR00457	Animal haem peroxidase signature	965	985	1.8E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	PRINTS	PR00457	Animal haem peroxidase signature	748	766	1.8E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	PRINTS	PR00457	Animal haem peroxidase signature	766	786	1.8E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	PRINTS	PR00457	Animal haem peroxidase signature	609	624	1.8E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	PRINTS	PR00457	Animal haem peroxidase signature	1036	1050	1.8E-34	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	SUPERFAMILY	SSF57196	EGF/Laminin	158	202	2.75E-12	T	17-07-2024	-	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	528	1087	1.53E-162	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	ProSitePatterns	PS01186	EGF-like domain signature 2.	183	198	-	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	SMART	SM00042	CUB_2	37	158	6.2E-19	T	17-07-2024	IPR000859	CUB domain	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	520	1089	138.649399	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	SMART	SM00181	egf_5	162	199	0.0011	T	17-07-2024	IPR000742	EGF-like domain	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	Pfam	PF07645	Calcium-binding EGF domain	159	198	6.5E-9	T	17-07-2024	IPR001881	EGF-like calcium-binding domain	GO:0005509
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	Pfam	PF00431	CUB domain	45	155	3.7E-15	T	17-07-2024	IPR000859	CUB domain	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	FunFam	G3DSA:1.10.640.10:FF:000003	chorion peroxidase	515	1088	2.5E-179	T	17-07-2024	-	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	FunFam	G3DSA:2.10.25.10:FF:000010	Pro-epidermal growth factor	160	200	9.5E-14	T	17-07-2024	-	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	SMART	SM00179	egfca_6	159	199	3.7E-10	T	17-07-2024	IPR001881	EGF-like calcium-binding domain	GO:0005509
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	CDD	cd09823	peroxinectin_like	681	1048	4.25864E-162	T	17-07-2024	-	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	ProSitePatterns	PS00010	Aspartic acid and asparagine hydroxylation site.	174	185	-	T	17-07-2024	IPR000152	EGF-type aspartate/asparagine hydroxylation site	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	Gene3D	G3DSA:2.60.120.970	-	1206	1410	2.3E-8	T	17-07-2024	-	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	SUPERFAMILY	SSF49313	Cadherin-like	204	316	2.0E-6	T	17-07-2024	IPR015919	Cadherin-like superfamily	GO:0005509|GO:0016020
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	ProSitePatterns	PS01187	Calcium-binding EGF-like domain signature.	159	183	-	T	17-07-2024	IPR018097	EGF-like calcium-binding, conserved site	GO:0005509
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	513	1090	9.5E-186	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046851567.1	b808b6261613cb0c45c2c64886bee7c9	1412	ProSiteProfiles	PS01180	CUB domain profile.	36	158	18.505383	T	17-07-2024	IPR000859	CUB domain	-
+Xenia_sp_XP_046853433.1	a157b5419fc2132a54237c16d7327af2	812	PRINTS	PR00457	Animal haem peroxidase signature	759	773	1.3E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046853433.1	a157b5419fc2132a54237c16d7327af2	812	PRINTS	PR00457	Animal haem peroxidase signature	334	349	1.3E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046853433.1	a157b5419fc2132a54237c16d7327af2	812	PRINTS	PR00457	Animal haem peroxidase signature	489	509	1.3E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046853433.1	a157b5419fc2132a54237c16d7327af2	812	PRINTS	PR00457	Animal haem peroxidase signature	514	540	1.3E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046853433.1	a157b5419fc2132a54237c16d7327af2	812	PRINTS	PR00457	Animal haem peroxidase signature	471	489	1.3E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046853433.1	a157b5419fc2132a54237c16d7327af2	812	PRINTS	PR00457	Animal haem peroxidase signature	564	574	1.3E-33	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046853433.1	a157b5419fc2132a54237c16d7327af2	812	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	242	807	6.2E-181	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046853433.1	a157b5419fc2132a54237c16d7327af2	812	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	179	805	6.6E-188	T	17-07-2024	-	-
+Xenia_sp_XP_046853433.1	a157b5419fc2132a54237c16d7327af2	812	FunFam	G3DSA:1.10.640.10:FF:000003	chorion peroxidase	239	806	6.8E-159	T	17-07-2024	-	-
+Xenia_sp_XP_046853433.1	a157b5419fc2132a54237c16d7327af2	812	Pfam	PF03098	Animal haem peroxidase	256	783	8.7E-156	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046853433.1	a157b5419fc2132a54237c16d7327af2	812	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	248	807	133.992676	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046853433.1	a157b5419fc2132a54237c16d7327af2	812	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	250	805	1.02E-158	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046853958.1	eab6beec0ae96c40f524842641c17b8c	305	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	1	171	2.7E-56	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046853958.1	eab6beec0ae96c40f524842641c17b8c	305	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	3	295	3.06E-78	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046853958.1	eab6beec0ae96c40f524842641c17b8c	305	Pfam	PF03098	Animal haem peroxidase	210	273	1.7E-14	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046853958.1	eab6beec0ae96c40f524842641c17b8c	305	Pfam	PF03098	Animal haem peroxidase	2	178	1.3E-54	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046853958.1	eab6beec0ae96c40f524842641c17b8c	305	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	211	298	2.7E-22	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046853958.1	eab6beec0ae96c40f524842641c17b8c	305	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	210	295	2.0E-95	T	17-07-2024	-	-
+Xenia_sp_XP_046853958.1	eab6beec0ae96c40f524842641c17b8c	305	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	1	305	55.052982	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046853958.1	eab6beec0ae96c40f524842641c17b8c	305	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	172	210	7.7E-10	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046853958.1	eab6beec0ae96c40f524842641c17b8c	305	PRINTS	PR00457	Animal haem peroxidase signature	89	109	1.9E-18	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046853958.1	eab6beec0ae96c40f524842641c17b8c	305	PRINTS	PR00457	Animal haem peroxidase signature	71	89	1.9E-18	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046853958.1	eab6beec0ae96c40f524842641c17b8c	305	PRINTS	PR00457	Animal haem peroxidase signature	114	140	1.9E-18	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046853958.1	eab6beec0ae96c40f524842641c17b8c	305	PRINTS	PR00457	Animal haem peroxidase signature	164	174	1.9E-18	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	Pfam	PF13517	FG-GAP-like repeat	445	507	3.6E-10	T	17-07-2024	IPR013517	FG-GAP repeat	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	Pfam	PF13517	FG-GAP-like repeat	231	295	4.8E-14	T	17-07-2024	IPR013517	FG-GAP repeat	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	Pfam	PF13517	FG-GAP-like repeat	533	580	5.6E-7	T	17-07-2024	IPR013517	FG-GAP repeat	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	839	1384	108.371414	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	767	1353	3.8E-152	T	17-07-2024	-	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	Gene3D	G3DSA:2.130.10.130	-	218	374	6.4E-9	T	17-07-2024	IPR028994	Integrin alpha, N-terminal	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	Pfam	PF07593	ASPIC and UnbV	683	752	6.0E-9	T	17-07-2024	IPR011519	ASPIC/UnbV	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	Pfam	PF03098	Animal haem peroxidase	850	1353	6.2E-144	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	848	1352	1.41E-145	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	Gene3D	G3DSA:2.130.10.130	-	435	589	3.2E-7	T	17-07-2024	IPR028994	Integrin alpha, N-terminal	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	Gene3D	G3DSA:2.60.40.3440	-	728	832	9.7E-11	T	17-07-2024	-	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	PRINTS	PR00457	Animal haem peroxidase signature	1144	1154	1.6E-18	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	PRINTS	PR00457	Animal haem peroxidase signature	1266	1286	1.6E-18	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	PRINTS	PR00457	Animal haem peroxidase signature	916	931	1.6E-18	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	PRINTS	PR00457	Animal haem peroxidase signature	1064	1084	1.6E-18	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	PRINTS	PR00457	Animal haem peroxidase signature	1046	1064	1.6E-18	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	Pfam	PF17963	Bacterial Ig domain	751	820	3.4E-7	T	17-07-2024	-	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	833	1381	1.8E-163	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046859216.1	2719b3d309c14f8ca160ac2fdc4ae349	1384	SUPERFAMILY	SSF69318	Integrin alpha N-terminal domain	224	660	1.7E-46	T	17-07-2024	IPR028994	Integrin alpha, N-terminal	-
+Xenia_sp_XP_046861212.1	112e82e3dd39a228803265e190b00b8e	381	PRINTS	PR00457	Animal haem peroxidase signature	44	64	1.1E-31	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046861212.1	112e82e3dd39a228803265e190b00b8e	381	PRINTS	PR00457	Animal haem peroxidase signature	69	95	1.1E-31	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046861212.1	112e82e3dd39a228803265e190b00b8e	381	PRINTS	PR00457	Animal haem peroxidase signature	119	129	1.1E-31	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046861212.1	112e82e3dd39a228803265e190b00b8e	381	PRINTS	PR00457	Animal haem peroxidase signature	26	44	1.1E-31	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046861212.1	112e82e3dd39a228803265e190b00b8e	381	PRINTS	PR00457	Animal haem peroxidase signature	314	328	1.1E-31	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046861212.1	112e82e3dd39a228803265e190b00b8e	381	CDD	cd09823	peroxinectin_like	1	326	1.76938E-151	T	17-07-2024	-	-
+Xenia_sp_XP_046861212.1	112e82e3dd39a228803265e190b00b8e	381	Gene3D	G3DSA:1.10.640.10	Haem peroxidase domain superfamily, animal type	1	364	2.5E-125	T	17-07-2024	IPR037120	Haem peroxidase domain superfamily, animal type	-
+Xenia_sp_XP_046861212.1	112e82e3dd39a228803265e190b00b8e	381	PANTHER	PTHR11475	OXIDASE/PEROXIDASE	2	357	2.5E-129	T	17-07-2024	-	-
+Xenia_sp_XP_046861212.1	112e82e3dd39a228803265e190b00b8e	381	Pfam	PF03098	Animal haem peroxidase	2	338	2.0E-114	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046861212.1	112e82e3dd39a228803265e190b00b8e	381	ProSiteProfiles	PS50292	Animal heme peroxidase superfamily profile.	1	376	98.702652	T	17-07-2024	IPR019791	Haem peroxidase, animal-type	-
+Xenia_sp_XP_046861212.1	112e82e3dd39a228803265e190b00b8e	381	SUPERFAMILY	SSF48113	Heme-dependent peroxidases	5	342	2.0E-112	T	17-07-2024	IPR010255	Haem peroxidase superfamily	GO:0004601|GO:0006979|GO:0020037

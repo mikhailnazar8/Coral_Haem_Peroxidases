@@ -1,0 +1,29 @@
+---
+title: "Visualising Gene Tree"
+output: github_document
+---
+```{r, echo=FALSE, message=FALSE}
+library(tidyverse)
+library(ggtree) 
+library(treeio)
+library(ape)
+library(ggnewscale)
+library(ggplot2)
+library(viridis)
+library(phytools)
+```
+
+The interproscan .tsv files results were annotated to match the annotation of the sequence IDs in step 01
+
+```{bash, eval =FALSE}
+sed -i '' '/KAK/ s/^/A_cerv_/' acrop_cerv_ipr.tsv
+sed -i '' '/XP_/ s/^/A_mill_/' acrop_mill_ipr.tsv
+sed -i '' '/KAJ/ s/^/D_pert_/' des_pert_ipr.tsv
+sed -i '' '/XP_/ s/^/O_fave_/' orbi_fave_ipr.tsv
+...
+```
+
+```{r}
+
+```
+

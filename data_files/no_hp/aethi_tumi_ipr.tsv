@@ -1,0 +1,114 @@
+id	start	end	score	md5	length	analysis	sig_acc	sig_desc	status	ipr_acc	ipr_desc	goterm
+A_tumida_XP_019867920.2	1218	1316	5.6E-45	ab19938d2dae047c559f064407edbb98	1499	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+A_tumida_XP_019867920.2	1215	1320	12.597133	ab19938d2dae047c559f064407edbb98	1499	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+A_tumida_XP_019867920.2	1226	1404	9.3048E-45	ab19938d2dae047c559f064407edbb98	1499	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+A_tumida_XP_019867920.2	1217	1316	2.5E-8	ab19938d2dae047c559f064407edbb98	1499	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+A_tumida_XP_019867920.2	858	885	5.0E-6	ab19938d2dae047c559f064407edbb98	1499	Pfam	PF00036	EF hand	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_019867920.2	822	844	2.5E-7	ab19938d2dae047c559f064407edbb98	1499	Pfam	PF00036	EF hand	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_019867920.2	787	935	8.0E-29	ab19938d2dae047c559f064407edbb98	1499	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+A_tumida_XP_019867920.2	857	928	5.55655E-6	ab19938d2dae047c559f064407edbb98	1499	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_019867920.2	866	878	-	ab19938d2dae047c559f064407edbb98	1499	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+A_tumida_XP_019867920.2	1317	1498	1.5E-109	ab19938d2dae047c559f064407edbb98	1499	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+A_tumida_XP_019867920.2	857	885	3.8E-5	ab19938d2dae047c559f064407edbb98	1499	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_019867920.2	821	849	3.2E-6	ab19938d2dae047c559f064407edbb98	1499	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_019867920.2	1324	1479	6.8E-25	ab19938d2dae047c559f064407edbb98	1499	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+A_tumida_XP_019867920.2	830	842	-	ab19938d2dae047c559f064407edbb98	1499	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+A_tumida_XP_019867920.2	1043	1180	3.7E-19	ab19938d2dae047c559f064407edbb98	1499	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+A_tumida_XP_019867920.2	1327	1484	3.36E-11	ab19938d2dae047c559f064407edbb98	1499	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+A_tumida_XP_019867920.2	822	883	1.32744E-15	ab19938d2dae047c559f064407edbb98	1499	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_019867920.2	1317	1498	7.2E-47	ab19938d2dae047c559f064407edbb98	1499	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+A_tumida_XP_019867920.2	853	888	14.764463	ab19938d2dae047c559f064407edbb98	1499	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_019867920.2	804	930	1.28E-28	ab19938d2dae047c559f064407edbb98	1499	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+A_tumida_XP_019867920.2	1218	1316	2.0E-12	ab19938d2dae047c559f064407edbb98	1499	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+A_tumida_XP_019867920.2	817	852	13.704439	ab19938d2dae047c559f064407edbb98	1499	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_019867920.2	1223	1315	1.1E-16	ab19938d2dae047c559f064407edbb98	1499	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+A_tumida_XP_019868210.2	27	51	-	10629335fbd6e02efe5a3c571c63314d	800	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+A_tumida_XP_019869682.2	1343	1363	-	eb6dcacb78d911b4c5e46c3845d32ff9	1387	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+A_tumida_XP_019870782.2	441	505	8.5E-16	6e0fcbc8881c2b97598d400f6787cf92	1390	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+A_tumida_XP_019870782.2	350	415	1.7E-8	6e0fcbc8881c2b97598d400f6787cf92	1390	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+A_tumida_XP_019870782.2	536	600	2.9E-14	6e0fcbc8881c2b97598d400f6787cf92	1390	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+A_tumida_XP_019870782.2	247	311	1.0E-7	6e0fcbc8881c2b97598d400f6787cf92	1390	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+A_tumida_XP_019870782.2	429	514	13.928936	6e0fcbc8881c2b97598d400f6787cf92	1390	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+A_tumida_XP_019870782.2	528	605	1.9E-17	6e0fcbc8881c2b97598d400f6787cf92	1390	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+A_tumida_XP_019870782.2	429	515	2.5E-20	6e0fcbc8881c2b97598d400f6787cf92	1390	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+A_tumida_XP_019870782.2	235	315	2.7E-15	6e0fcbc8881c2b97598d400f6787cf92	1390	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+A_tumida_XP_019870782.2	337	426	12.150265	6e0fcbc8881c2b97598d400f6787cf92	1390	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+A_tumida_XP_019870782.2	518	609	12.513258	6e0fcbc8881c2b97598d400f6787cf92	1390	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+A_tumida_XP_019870782.2	339	435	1.38E-17	6e0fcbc8881c2b97598d400f6787cf92	1390	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+A_tumida_XP_019870782.2	58	77	80.0	6e0fcbc8881c2b97598d400f6787cf92	1390	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+A_tumida_XP_019870782.2	102	125	0.0063	6e0fcbc8881c2b97598d400f6787cf92	1390	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+A_tumida_XP_019870782.2	126	149	0.064	6e0fcbc8881c2b97598d400f6787cf92	1390	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+A_tumida_XP_019870782.2	150	173	4.5E-4	6e0fcbc8881c2b97598d400f6787cf92	1390	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+A_tumida_XP_019870782.2	337	412	1.6E-11	6e0fcbc8881c2b97598d400f6787cf92	1390	Pfam	PF13927	Immunoglobulin domain	T	-	-	nan
+A_tumida_XP_019870782.2	1352	1379	-	6e0fcbc8881c2b97598d400f6787cf92	1390	Coils	Coil	Coil	T	-	-	nan
+A_tumida_XP_019870782.2	427	522	1.8E-26	6e0fcbc8881c2b97598d400f6787cf92	1390	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+A_tumida_XP_019870782.2	233	330	5.0E-20	6e0fcbc8881c2b97598d400f6787cf92	1390	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+A_tumida_XP_019870782.2	331	426	1.7E-17	6e0fcbc8881c2b97598d400f6787cf92	1390	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+A_tumida_XP_019870782.2	427	517	8.2E-24	6e0fcbc8881c2b97598d400f6787cf92	1390	FunFam	G3DSA:2.60.40.10:FF:000273	contactin-3 isoform X1	T	-	-	nan
+A_tumida_XP_019870782.2	343	426	0.013	6e0fcbc8881c2b97598d400f6787cf92	1390	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+A_tumida_XP_019870782.2	435	516	2.8E-14	6e0fcbc8881c2b97598d400f6787cf92	1390	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+A_tumida_XP_019870782.2	241	323	1.5E-6	6e0fcbc8881c2b97598d400f6787cf92	1390	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+A_tumida_XP_019870782.2	530	611	2.0E-11	6e0fcbc8881c2b97598d400f6787cf92	1390	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+A_tumida_XP_019870782.2	185	233	0.0085	6e0fcbc8881c2b97598d400f6787cf92	1390	SMART	SM00082	lrrct1	T	IPR000483	Cysteine-rich flanking region, C-terminal	-
+A_tumida_XP_019870782.2	521	615	1.1E-27	6e0fcbc8881c2b97598d400f6787cf92	1390	FunFam	G3DSA:2.60.40.10:FF:001851	Peroxidasin	T	-	-	nan
+A_tumida_XP_019870782.2	526	612	3.48E-22	6e0fcbc8881c2b97598d400f6787cf92	1390	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+A_tumida_XP_019870782.2	523	619	3.9E-21	6e0fcbc8881c2b97598d400f6787cf92	1390	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+A_tumida_XP_019870782.2	427	517	6.39E-27	6e0fcbc8881c2b97598d400f6787cf92	1390	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+A_tumida_XP_019870782.2	55	208	6.38E-38	6e0fcbc8881c2b97598d400f6787cf92	1390	SUPERFAMILY	SSF52058	L domain-like	T	-	-	nan
+A_tumida_XP_019870782.2	26	232	1.0E-54	6e0fcbc8881c2b97598d400f6787cf92	1390	Gene3D	G3DSA:3.80.10.10	Ribonuclease Inhibitor	T	IPR032675	Leucine-rich repeat domain superfamily	-
+A_tumida_XP_019870782.2	252	315	1.03091E-12	6e0fcbc8881c2b97598d400f6787cf92	1390	CDD	cd00096	Ig	T	-	-	nan
+A_tumida_XP_019870782.2	234	325	8.39E-20	6e0fcbc8881c2b97598d400f6787cf92	1390	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+A_tumida_XP_019870782.2	235	323	12.277313	6e0fcbc8881c2b97598d400f6787cf92	1390	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+A_tumida_XP_019870782.2	28	59	3.7E-4	6e0fcbc8881c2b97598d400f6787cf92	1390	SMART	SM00013	lrrnt1	T	IPR000372	Leucine-rich repeat N-terminal domain	-
+A_tumida_XP_019870782.2	128	187	1.7E-14	6e0fcbc8881c2b97598d400f6787cf92	1390	Pfam	PF13855	Leucine rich repeat	T	IPR001611	Leucine-rich repeat	GO:0005515
+A_tumida_XP_019870782.2	59	114	7.7E-10	6e0fcbc8881c2b97598d400f6787cf92	1390	Pfam	PF13855	Leucine rich repeat	T	IPR001611	Leucine-rich repeat	GO:0005515
+A_tumida_XP_019870782.2	446	512	1.20601E-17	6e0fcbc8881c2b97598d400f6787cf92	1390	CDD	cd00096	Ig	T	-	-	nan
+A_tumida_XP_019870782.2	355	417	1.84708E-14	6e0fcbc8881c2b97598d400f6787cf92	1390	CDD	cd00096	Ig	T	-	-	nan
+A_tumida_XP_019879548.1	947	967	-	009ff3a94ce6f8bce1f917403d5421f4	1269	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+A_tumida_XP_019879548.1	776	801	-	009ff3a94ce6f8bce1f917403d5421f4	1269	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+A_tumida_XP_019879548.1	25	45	-	009ff3a94ce6f8bce1f917403d5421f4	1269	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+A_tumida_XP_049817648.1	903	964	6.86352E-10	1d5293e4a7570d0cb0800b5666aa4f8a	1584	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_049817648.1	898	933	11.75176	1d5293e4a7570d0cb0800b5666aa4f8a	1584	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_049817648.1	1420	1567	6.5E-27	1d5293e4a7570d0cb0800b5666aa4f8a	1584	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+A_tumida_XP_049817648.1	815	1019	1.4E-20	1d5293e4a7570d0cb0800b5666aa4f8a	1584	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+A_tumida_XP_049817648.1	934	969	11.02648	1d5293e4a7570d0cb0800b5666aa4f8a	1584	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_049817648.1	1311	1409	4.04E-14	1d5293e4a7570d0cb0800b5666aa4f8a	1584	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+A_tumida_XP_049817648.1	906	964	2.8E-7	1d5293e4a7570d0cb0800b5666aa4f8a	1584	Pfam	PF13499	EF-hand domain pair	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_049817648.1	900	1584	1.1E-131	1d5293e4a7570d0cb0800b5666aa4f8a	1584	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+A_tumida_XP_049817648.1	1399	1570	4.26E-12	1d5293e4a7570d0cb0800b5666aa4f8a	1584	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+A_tumida_XP_049817648.1	1077	1582	0.0	1d5293e4a7570d0cb0800b5666aa4f8a	1584	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	T	-	-	nan
+A_tumida_XP_049817648.1	1076	1581	0.0	1d5293e4a7570d0cb0800b5666aa4f8a	1584	SFLD	SFLDS00052	Ferric Reductase Domain	T	-	-	nan
+A_tumida_XP_049817648.1	1308	1412	14.43465	1d5293e4a7570d0cb0800b5666aa4f8a	1584	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+A_tumida_XP_049817648.1	1139	1273	2.5E-15	1d5293e4a7570d0cb0800b5666aa4f8a	1584	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+A_tumida_XP_049817648.1	1310	1408	7.3E-11	1d5293e4a7570d0cb0800b5666aa4f8a	1584	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+A_tumida_XP_049817648.1	1315	1489	5.31215E-38	1d5293e4a7570d0cb0800b5666aa4f8a	1584	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+A_tumida_XP_049817648.1	1311	1408	5.1E-36	1d5293e4a7570d0cb0800b5666aa4f8a	1584	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+A_tumida_XP_049817648.1	1313	1409	7.1E-18	1d5293e4a7570d0cb0800b5666aa4f8a	1584	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+A_tumida_XP_049817648.1	938	966	0.67	1d5293e4a7570d0cb0800b5666aa4f8a	1584	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_049817648.1	902	930	4.4E-4	1d5293e4a7570d0cb0800b5666aa4f8a	1584	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_049817648.1	1409	1584	1.0E-45	1d5293e4a7570d0cb0800b5666aa4f8a	1584	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+A_tumida_XP_049817648.1	805	825	-	1d5293e4a7570d0cb0800b5666aa4f8a	1584	Coils	Coil	Coil	T	-	-	nan
+A_tumida_XP_049817648.1	866	1007	6.72E-21	1d5293e4a7570d0cb0800b5666aa4f8a	1584	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+A_tumida_XP_049817648.1	911	923	-	1d5293e4a7570d0cb0800b5666aa4f8a	1584	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+A_tumida_XP_049817653.1	902	914	-	3e398e86cce61743e18191ff848deeec	1582	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+A_tumida_XP_049817653.1	1311	1407	5.7E-17	3e398e86cce61743e18191ff848deeec	1582	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+A_tumida_XP_049817653.1	1415	1564	4.7E-27	3e398e86cce61743e18191ff848deeec	1582	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+A_tumida_XP_049817653.1	925	960	10.663839	3e398e86cce61743e18191ff848deeec	1582	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_049817653.1	1307	1411	13.764286	3e398e86cce61743e18191ff848deeec	1582	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+A_tumida_XP_049817653.1	1310	1407	2.0E-13	3e398e86cce61743e18191ff848deeec	1582	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+A_tumida_XP_049817653.1	929	957	0.38	3e398e86cce61743e18191ff848deeec	1582	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_049817653.1	893	921	0.23	3e398e86cce61743e18191ff848deeec	1582	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_049817653.1	894	1582	7.5E-131	3e398e86cce61743e18191ff848deeec	1582	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+A_tumida_XP_049817653.1	938	950	-	3e398e86cce61743e18191ff848deeec	1582	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+A_tumida_XP_049817653.1	1072	1582	0.0	3e398e86cce61743e18191ff848deeec	1582	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	T	-	-	nan
+A_tumida_XP_049817653.1	1314	1490	2.93614E-48	3e398e86cce61743e18191ff848deeec	1582	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+A_tumida_XP_049817653.1	1310	1407	3.4E-35	3e398e86cce61743e18191ff848deeec	1582	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+A_tumida_XP_049817653.1	1075	1582	0.0	3e398e86cce61743e18191ff848deeec	1582	SFLD	SFLDS00052	Ferric Reductase Domain	T	-	-	nan
+A_tumida_XP_049817653.1	846	1032	1.0E-24	3e398e86cce61743e18191ff848deeec	1582	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+A_tumida_XP_049817653.1	875	998	2.45E-23	3e398e86cce61743e18191ff848deeec	1582	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+A_tumida_XP_049817653.1	1408	1582	2.6E-46	3e398e86cce61743e18191ff848deeec	1582	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+A_tumida_XP_049817653.1	889	924	11.528597	3e398e86cce61743e18191ff848deeec	1582	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+A_tumida_XP_049817653.1	1309	1407	1.7E-10	3e398e86cce61743e18191ff848deeec	1582	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+A_tumida_XP_049817653.1	797	817	-	3e398e86cce61743e18191ff848deeec	1582	Coils	Coil	Coil	T	-	-	nan
+A_tumida_XP_049817653.1	1416	1569	5.65E-14	3e398e86cce61743e18191ff848deeec	1582	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+A_tumida_XP_049817653.1	1138	1272	3.4E-15	3e398e86cce61743e18191ff848deeec	1582	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-

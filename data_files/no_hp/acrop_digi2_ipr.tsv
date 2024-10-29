@@ -1,0 +1,76 @@
+id	start	end	score	md5	length	analysis	sig_acc	sig_desc	status	ipr_acc	ipr_desc	goterm
+adig_s0002.g328.t1	243	331	1.0E-16	f0dfd7cfcc8551ea94e715e3d0ec309e	792	FunFam	G3DSA:2.60.40.10:FF:000005	Neuronal cell adhesion molecule	T	-	-	nan
+adig_s0002.g328.t1	341	434	2.79E-25	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+adig_s0002.g328.t1	355	421	1.27912E-16	f0dfd7cfcc8551ea94e715e3d0ec309e	792	CDD	cd00096	Ig	T	-	-	nan
+adig_s0002.g328.t1	29	241	3.4E-58	f0dfd7cfcc8551ea94e715e3d0ec309e	792	Gene3D	G3DSA:3.80.10.10	Ribonuclease Inhibitor	T	IPR032675	Leucine-rich repeat domain superfamily	-
+adig_s0002.g328.t1	426	517	2.2E-20	f0dfd7cfcc8551ea94e715e3d0ec309e	792	FunFam	G3DSA:2.60.40.10:FF:000273	contactin-3 isoform X1	T	-	-	nan
+adig_s0002.g328.t1	520	605	15.380911	f0dfd7cfcc8551ea94e715e3d0ec309e	792	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+adig_s0002.g328.t1	243	329	13.529642	f0dfd7cfcc8551ea94e715e3d0ec309e	792	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+adig_s0002.g328.t1	426	514	3.8E-22	f0dfd7cfcc8551ea94e715e3d0ec309e	792	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+adig_s0002.g328.t1	242	331	3.5E-20	f0dfd7cfcc8551ea94e715e3d0ec309e	792	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+adig_s0002.g328.t1	343	424	1.1E-16	f0dfd7cfcc8551ea94e715e3d0ec309e	792	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+adig_s0002.g328.t1	520	606	4.7E-21	f0dfd7cfcc8551ea94e715e3d0ec309e	792	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+adig_s0002.g328.t1	243	328	1.5E-16	f0dfd7cfcc8551ea94e715e3d0ec309e	792	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+adig_s0002.g328.t1	181	204	320.0	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+adig_s0002.g328.t1	109	132	0.0024	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+adig_s0002.g328.t1	85	108	0.022	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+adig_s0002.g328.t1	157	180	4.2E-4	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+adig_s0002.g328.t1	133	156	0.0053	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+adig_s0002.g328.t1	48	245	2.04E-40	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SUPERFAMILY	SSF52058	L domain-like	T	-	-	nan
+adig_s0002.g328.t1	424	515	2.77E-23	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+adig_s0002.g328.t1	249	331	1.7E-5	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+adig_s0002.g328.t1	344	425	4.4E-12	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+adig_s0002.g328.t1	526	607	6.7E-14	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+adig_s0002.g328.t1	434	515	3.9E-11	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+adig_s0002.g328.t1	518	611	7.3E-30	f0dfd7cfcc8551ea94e715e3d0ec309e	792	FunFam	G3DSA:2.60.40.10:FF:000248	peroxidasin homolog	T	-	-	nan
+adig_s0002.g328.t1	88	146	5.2E-17	f0dfd7cfcc8551ea94e715e3d0ec309e	792	Pfam	PF13855	Leucine rich repeat	T	IPR001611	Leucine-rich repeat	GO:0005515
+adig_s0002.g328.t1	337	423	14.074133	f0dfd7cfcc8551ea94e715e3d0ec309e	792	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+adig_s0002.g328.t1	192	241	5.5E-12	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SMART	SM00082	lrrct1	T	IPR000483	Cysteine-rich flanking region, C-terminal	-
+adig_s0002.g328.t1	332	425	1.5E-20	f0dfd7cfcc8551ea94e715e3d0ec309e	792	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+adig_s0002.g328.t1	337	425	4.1E-18	f0dfd7cfcc8551ea94e715e3d0ec309e	792	FunFam	G3DSA:2.60.40.10:FF:000189	Neogenin isoform 3	T	-	-	nan
+adig_s0002.g328.t1	111	132	7.041994	f0dfd7cfcc8551ea94e715e3d0ec309e	792	ProSiteProfiles	PS51450	Leucine-rich repeat profile.	T	IPR001611	Leucine-rich repeat	GO:0005515
+adig_s0002.g328.t1	383	515	4.7E-115	f0dfd7cfcc8551ea94e715e3d0ec309e	792	PANTHER	PTHR45842	SYNAPTIC ADHESION-LIKE MOLECULE SALM	T	-	-	nan
+adig_s0002.g328.t1	261	327	5.10852E-16	f0dfd7cfcc8551ea94e715e3d0ec309e	792	CDD	cd00096	Ig	T	-	-	nan
+adig_s0002.g328.t1	428	513	14.019684	f0dfd7cfcc8551ea94e715e3d0ec309e	792	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+adig_s0002.g328.t1	515	613	1.5E-26	f0dfd7cfcc8551ea94e715e3d0ec309e	792	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+adig_s0002.g328.t1	427	501	1.6E-16	f0dfd7cfcc8551ea94e715e3d0ec309e	792	Pfam	PF13927	Immunoglobulin domain	T	-	-	nan
+adig_s0002.g328.t1	243	332	6.29E-20	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+adig_s0002.g328.t1	135	156	7.142103	f0dfd7cfcc8551ea94e715e3d0ec309e	792	ProSiteProfiles	PS51450	Leucine-rich repeat profile.	T	IPR001611	Leucine-rich repeat	GO:0005515
+adig_s0002.g328.t1	518	607	4.85E-26	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+adig_s0002.g328.t1	350	414	1.3E-16	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+adig_s0002.g328.t1	532	596	9.7E-16	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+adig_s0002.g328.t1	256	320	7.1E-13	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+adig_s0002.g328.t1	440	504	6.6E-15	f0dfd7cfcc8551ea94e715e3d0ec309e	792	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+adig_s0009.g78.t1	679	745	4.1E-10	2c858ee2a1bc2cc09286337469fb2ccf	1366	Pfam	PF07593	ASPIC and UnbV	T	IPR011519	ASPIC/UnbV	-
+adig_s0009.g78.t1	218	656	6.89E-45	2c858ee2a1bc2cc09286337469fb2ccf	1366	SUPERFAMILY	SSF69318	Integrin alpha N-terminal domain	T	IPR028994	Integrin alpha, N-terminal	-
+adig_s0009.g78.t1	780	818	1.1E-6	2c858ee2a1bc2cc09286337469fb2ccf	1366	Pfam	PF17963	Bacterial Ig domain	T	-	-	nan
+adig_s0009.g78.t1	439	501	2.9E-11	2c858ee2a1bc2cc09286337469fb2ccf	1366	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+adig_s0009.g78.t1	526	573	1.9E-7	2c858ee2a1bc2cc09286337469fb2ccf	1366	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+adig_s0009.g78.t1	226	290	1.5E-13	2c858ee2a1bc2cc09286337469fb2ccf	1366	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+adig_s0009.g78.t1	217	370	3.5E-7	2c858ee2a1bc2cc09286337469fb2ccf	1366	Gene3D	G3DSA:2.130.10.130	-	T	IPR028994	Integrin alpha, N-terminal	-
+adig_s0009.g78.t1	735	830	1.8E-11	2c858ee2a1bc2cc09286337469fb2ccf	1366	Gene3D	G3DSA:2.60.40.3440	-	T	-	-	nan
+adig_s0028.g72.t1	67	159	10.25366	379a8e135e2524a3af9e196c9ff4cfee	517	ProSiteProfiles	PS51212	WSC domain profile.	T	IPR002889	Carbohydrate-binding WSC	-
+adig_s0028.g72.t1	67	159	6.7E-9	379a8e135e2524a3af9e196c9ff4cfee	517	SMART	SM00321	SLG 2	T	IPR002889	Carbohydrate-binding WSC	-
+adig_s0028.g72.t1	70	149	9.1E-13	379a8e135e2524a3af9e196c9ff4cfee	517	Pfam	PF01822	WSC domain	T	IPR002889	Carbohydrate-binding WSC	-
+adig_s0028.g73.t1	69	156	7.414334	c14b34020127f7c745e5da3fac432802	713	ProSiteProfiles	PS51212	WSC domain profile.	T	IPR002889	Carbohydrate-binding WSC	-
+adig_s0028.g73.t1	73	137	1.6E-7	c14b34020127f7c745e5da3fac432802	713	Pfam	PF01822	WSC domain	T	IPR002889	Carbohydrate-binding WSC	-
+adig_s0044.g43.t1	625	644	-	39d26827b85a768b62a84e498f0956b5	644	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+adig_s0193.g10.t1	157	250	2.71E-6	432bfd63e13231d6b1a5f9af94aee5bf	1338	SUPERFAMILY	SSF49313	Cadherin-like	T	IPR015919	Cadherin-like superfamily	GO:0005509|GO:0016020
+adig_s0193.g10.t1	1051	1108	1.0E-9	432bfd63e13231d6b1a5f9af94aee5bf	1338	Pfam	PF13330	Mucin-2 protein WxxW repeating region	T	IPR025155	WxxW domain	-
+adig_s0193.g10.t1	1143	1337	1.4E-10	432bfd63e13231d6b1a5f9af94aee5bf	1338	Gene3D	G3DSA:2.60.120.970	-	T	-	-	nan
+adig_s0193.g10.t1	27	150	22.051008	432bfd63e13231d6b1a5f9af94aee5bf	1338	ProSiteProfiles	PS01180	CUB domain profile.	T	IPR000859	CUB domain	-
+adig_s0193.g10.t1	38	149	9.73563E-28	432bfd63e13231d6b1a5f9af94aee5bf	1338	CDD	cd00041	CUB	T	IPR000859	CUB domain	-
+adig_s0193.g10.t1	162	251	4.30615E-10	432bfd63e13231d6b1a5f9af94aee5bf	1338	CDD	cd11304	Cadherin repeat	T	-	-	nan
+adig_s0193.g10.t1	30	147	7.7E-20	432bfd63e13231d6b1a5f9af94aee5bf	1338	Pfam	PF00431	CUB domain	T	IPR000859	CUB domain	-
+adig_s0193.g10.t1	267	379	5.4E-6	432bfd63e13231d6b1a5f9af94aee5bf	1338	Gene3D	G3DSA:2.60.40.60	Cadherins	T	-	-	nan
+adig_s0193.g10.t1	1182	1308	3.3E-6	432bfd63e13231d6b1a5f9af94aee5bf	1338	Pfam	PF00688	TGF-beta propeptide	T	IPR001111	TGF-beta, propeptide	-
+adig_s0193.g10.t1	23	154	1.9E-25	432bfd63e13231d6b1a5f9af94aee5bf	1338	Gene3D	G3DSA:2.60.120.290	Spermadhesin, CUB domain	T	IPR035914	Spermadhesin, CUB domain superfamily	-
+adig_s0193.g10.t1	155	261	3.2E-8	432bfd63e13231d6b1a5f9af94aee5bf	1338	Gene3D	G3DSA:2.60.40.60	Cadherins	T	-	-	nan
+adig_s0193.g10.t1	27	150	1.9E-27	432bfd63e13231d6b1a5f9af94aee5bf	1338	SMART	SM00042	CUB 2	T	IPR000859	CUB domain	-
+adig_s0193.g10.t1	158	274	10.484084	432bfd63e13231d6b1a5f9af94aee5bf	1338	ProSiteProfiles	PS50268	Cadherins domain profile.	T	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020
+adig_s0193.g10.t1	27	149	1.7E-25	432bfd63e13231d6b1a5f9af94aee5bf	1338	SUPERFAMILY	SSF49854	Spermadhesin, CUB domain	T	IPR035914	Spermadhesin, CUB domain superfamily	-
+adig_s0199.g13.t1	164	211	1.1E-6	01def2cd1a2a11a7c2875dc3b0502afc	1092	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+adig_s0199.g13.t1	84	145	1.2E-10	01def2cd1a2a11a7c2875dc3b0502afc	1092	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+adig_s0199.g13.t1	319	386	1.9E-13	01def2cd1a2a11a7c2875dc3b0502afc	1092	Pfam	PF07593	ASPIC and UnbV	T	IPR011519	ASPIC/UnbV	-
+adig_s0199.g13.t1	1	148	3.1E-7	01def2cd1a2a11a7c2875dc3b0502afc	1092	Gene3D	G3DSA:2.130.10.130	-	T	IPR028994	Integrin alpha, N-terminal	-
+adig_s0199.g13.t1	4	290	4.84E-28	01def2cd1a2a11a7c2875dc3b0502afc	1092	SUPERFAMILY	SSF69318	Integrin alpha N-terminal domain	T	IPR028994	Integrin alpha, N-terminal	-

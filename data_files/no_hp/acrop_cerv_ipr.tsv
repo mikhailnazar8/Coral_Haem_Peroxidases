@@ -1,0 +1,70 @@
+id	start	end	score	md5	length	analysis	sig_acc	sig_desc	status	ipr_acc	ipr_desc	goterm
+A_cerv_KAK2551719.1	428	580	8.8E-6	617d5c57c36db907cfeb569e53b8a0ec	1366	Gene3D	G3DSA:2.130.10.130	-	T	IPR028994	Integrin alpha, N-terminal	-
+A_cerv_KAK2551719.1	780	818	1.1E-6	617d5c57c36db907cfeb569e53b8a0ec	1366	Pfam	PF17963	Bacterial Ig domain	T	-	-	nan
+A_cerv_KAK2551719.1	742	830	2.2E-11	617d5c57c36db907cfeb569e53b8a0ec	1366	Gene3D	G3DSA:2.60.40.3440	-	T	-	-	nan
+A_cerv_KAK2551719.1	439	501	8.8E-12	617d5c57c36db907cfeb569e53b8a0ec	1366	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+A_cerv_KAK2551719.1	526	573	1.9E-7	617d5c57c36db907cfeb569e53b8a0ec	1366	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+A_cerv_KAK2551719.1	226	290	1.5E-13	617d5c57c36db907cfeb569e53b8a0ec	1366	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+A_cerv_KAK2551719.1	679	745	2.7E-10	617d5c57c36db907cfeb569e53b8a0ec	1366	Pfam	PF07593	ASPIC and UnbV	T	IPR011519	ASPIC/UnbV	-
+A_cerv_KAK2551719.1	218	656	4.53E-46	617d5c57c36db907cfeb569e53b8a0ec	1366	SUPERFAMILY	SSF69318	Integrin alpha N-terminal domain	T	IPR028994	Integrin alpha, N-terminal	-
+A_cerv_KAK2551719.1	217	367	2.7E-7	617d5c57c36db907cfeb569e53b8a0ec	1366	Gene3D	G3DSA:2.130.10.130	-	T	IPR028994	Integrin alpha, N-terminal	-
+A_cerv_KAK2557752.1	29	152	22.093386	18b3af5b66a0d9f5bff0b3926e94d289	1389	ProSiteProfiles	PS01180	CUB domain profile.	T	IPR000859	CUB domain	-
+A_cerv_KAK2557752.1	1191	1388	4.3E-10	18b3af5b66a0d9f5bff0b3926e94d289	1389	Gene3D	G3DSA:2.60.120.970	-	T	-	-	nan
+A_cerv_KAK2557752.1	170	263	3.57E-6	18b3af5b66a0d9f5bff0b3926e94d289	1389	SUPERFAMILY	SSF49313	Cadherin-like	T	IPR015919	Cadherin-like superfamily	GO:0005509|GO:0016020
+A_cerv_KAK2557752.1	27	155	9.2E-26	18b3af5b66a0d9f5bff0b3926e94d289	1389	Gene3D	G3DSA:2.60.120.290	Spermadhesin, CUB domain	T	IPR035914	Spermadhesin, CUB domain superfamily	-
+A_cerv_KAK2557752.1	175	264	7.72409E-10	18b3af5b66a0d9f5bff0b3926e94d289	1389	CDD	cd11304	Cadherin repeat	T	-	-	nan
+A_cerv_KAK2557752.1	40	151	1.37012E-28	18b3af5b66a0d9f5bff0b3926e94d289	1389	CDD	cd00041	CUB	T	IPR000859	CUB domain	-
+A_cerv_KAK2557752.1	32	149	8.5E-20	18b3af5b66a0d9f5bff0b3926e94d289	1389	Pfam	PF00431	CUB domain	T	IPR000859	CUB domain	-
+A_cerv_KAK2557752.1	29	152	6.7E-28	18b3af5b66a0d9f5bff0b3926e94d289	1389	SMART	SM00042	CUB 2	T	IPR000859	CUB domain	-
+A_cerv_KAK2557752.1	1232	1357	5.4E-6	18b3af5b66a0d9f5bff0b3926e94d289	1389	Pfam	PF00688	TGF-beta propeptide	T	IPR001111	TGF-beta, propeptide	-
+A_cerv_KAK2557752.1	171	287	10.242935	18b3af5b66a0d9f5bff0b3926e94d289	1389	ProSiteProfiles	PS50268	Cadherins domain profile.	T	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020
+A_cerv_KAK2557752.1	280	390	2.2E-6	18b3af5b66a0d9f5bff0b3926e94d289	1389	Gene3D	G3DSA:2.60.40.60	Cadherins	T	-	-	nan
+A_cerv_KAK2557752.1	168	273	8.7E-8	18b3af5b66a0d9f5bff0b3926e94d289	1389	Gene3D	G3DSA:2.60.40.60	Cadherins	T	-	-	nan
+A_cerv_KAK2557752.1	29	151	3.93E-26	18b3af5b66a0d9f5bff0b3926e94d289	1389	SUPERFAMILY	SSF49854	Spermadhesin, CUB domain	T	IPR035914	Spermadhesin, CUB domain superfamily	-
+A_cerv_KAK2557752.1	1102	1159	1.2E-9	18b3af5b66a0d9f5bff0b3926e94d289	1389	Pfam	PF13330	Mucin-2 protein WxxW repeating region	T	IPR025155	WxxW domain	-
+A_cerv_KAK2563915.1	673	737	1.9E-7	2af9bce527efb17ee0188c5ebf5a923b	1227	Pfam	PF01822	WSC domain	T	IPR002889	Carbohydrate-binding WSC	-
+A_cerv_KAK2568803.1	150	550	9.16E-47	b5091e6636c2e81ddd2c78c692003f05	1249	SUPERFAMILY	SSF69318	Integrin alpha N-terminal domain	T	IPR028994	Integrin alpha, N-terminal	-
+A_cerv_KAK2568803.1	346	407	2.5E-10	b5091e6636c2e81ddd2c78c692003f05	1249	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+A_cerv_KAK2568803.1	161	223	1.0E-12	b5091e6636c2e81ddd2c78c692003f05	1249	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+A_cerv_KAK2568803.1	581	648	2.2E-13	b5091e6636c2e81ddd2c78c692003f05	1249	Pfam	PF07593	ASPIC and UnbV	T	IPR011519	ASPIC/UnbV	-
+A_cerv_KAK2568803.1	364	614	5.5E-7	b5091e6636c2e81ddd2c78c692003f05	1249	Gene3D	G3DSA:2.130.10.130	-	T	IPR028994	Integrin alpha, N-terminal	-
+A_cerv_KAK2568803.1	129	283	1.8E-7	b5091e6636c2e81ddd2c78c692003f05	1249	Gene3D	G3DSA:2.130.10.130	-	T	IPR028994	Integrin alpha, N-terminal	-
+A_cerv_KAK2573917.1	219	304	2.3E-16	964bcae5a55beea14b7cd6a3db0464ab	1410	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+A_cerv_KAK2573917.1	496	582	1.2E-19	964bcae5a55beea14b7cd6a3db0464ab	1410	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+A_cerv_KAK2573917.1	319	400	1.7E-16	964bcae5a55beea14b7cd6a3db0464ab	1410	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+A_cerv_KAK2573917.1	97	217	1.7E-34	964bcae5a55beea14b7cd6a3db0464ab	1410	Gene3D	G3DSA:3.80.10.10	Ribonuclease Inhibitor	T	IPR032675	Leucine-rich repeat domain superfamily	-
+A_cerv_KAK2573917.1	317	410	5.3E-25	964bcae5a55beea14b7cd6a3db0464ab	1410	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+A_cerv_KAK2573917.1	219	307	1.2E-16	964bcae5a55beea14b7cd6a3db0464ab	1410	FunFam	G3DSA:2.60.40.10:FF:000005	Neuronal cell adhesion molecule	T	-	-	nan
+A_cerv_KAK2573917.1	492	589	5.5E-25	964bcae5a55beea14b7cd6a3db0464ab	1410	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+A_cerv_KAK2573917.1	402	493	2.0E-20	964bcae5a55beea14b7cd6a3db0464ab	1410	FunFam	G3DSA:2.60.40.10:FF:000273	contactin-3 isoform X1	T	-	-	nan
+A_cerv_KAK2573917.1	404	489	14.273779	964bcae5a55beea14b7cd6a3db0464ab	1410	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+A_cerv_KAK2573917.1	403	477	4.9E-17	964bcae5a55beea14b7cd6a3db0464ab	1410	Pfam	PF13927	Immunoglobulin domain	T	-	-	nan
+A_cerv_KAK2573917.1	494	583	1.02E-24	964bcae5a55beea14b7cd6a3db0464ab	1410	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+A_cerv_KAK2573917.1	66	122	5.1E-13	964bcae5a55beea14b7cd6a3db0464ab	1410	Pfam	PF13855	Leucine rich repeat	T	IPR001611	Leucine-rich repeat	GO:0005515
+A_cerv_KAK2573917.1	225	307	1.6E-5	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+A_cerv_KAK2573917.1	502	583	3.7E-13	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+A_cerv_KAK2573917.1	410	491	1.4E-11	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+A_cerv_KAK2573917.1	320	401	4.0E-12	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+A_cerv_KAK2573917.1	219	305	13.62039	964bcae5a55beea14b7cd6a3db0464ab	1410	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+A_cerv_KAK2573917.1	62	198	1.12E-36	964bcae5a55beea14b7cd6a3db0464ab	1410	SUPERFAMILY	SSF52058	L domain-like	T	-	-	nan
+A_cerv_KAK2573917.1	30	96	3.0E-13	964bcae5a55beea14b7cd6a3db0464ab	1410	Gene3D	G3DSA:3.80.10.10	Ribonuclease Inhibitor	T	IPR032675	Leucine-rich repeat domain superfamily	-
+A_cerv_KAK2573917.1	496	581	15.417212	964bcae5a55beea14b7cd6a3db0464ab	1410	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+A_cerv_KAK2573917.1	494	587	1.0E-28	964bcae5a55beea14b7cd6a3db0464ab	1410	FunFam	G3DSA:2.60.40.10:FF:000248	peroxidasin homolog	T	-	-	nan
+A_cerv_KAK2573917.1	111	132	7.041994	964bcae5a55beea14b7cd6a3db0464ab	1410	ProSiteProfiles	PS51450	Leucine-rich repeat profile.	T	IPR001611	Leucine-rich repeat	GO:0005515
+A_cerv_KAK2573917.1	168	217	9.0E-12	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00082	lrrct1	T	IPR000483	Cysteine-rich flanking region, C-terminal	-
+A_cerv_KAK2573917.1	400	491	2.65E-23	964bcae5a55beea14b7cd6a3db0464ab	1410	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+A_cerv_KAK2573917.1	232	296	3.4E-14	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+A_cerv_KAK2573917.1	416	480	6.6E-15	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+A_cerv_KAK2573917.1	326	390	1.3E-16	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+A_cerv_KAK2573917.1	508	572	1.3E-14	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+A_cerv_KAK2573917.1	309	402	2.6E-20	964bcae5a55beea14b7cd6a3db0464ab	1410	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+A_cerv_KAK2573917.1	218	308	3.2E-20	964bcae5a55beea14b7cd6a3db0464ab	1410	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+A_cerv_KAK2573917.1	403	491	2.1E-22	964bcae5a55beea14b7cd6a3db0464ab	1410	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+A_cerv_KAK2573917.1	331	397	2.17121E-16	964bcae5a55beea14b7cd6a3db0464ab	1410	CDD	cd00096	Ig	T	-	-	nan
+A_cerv_KAK2573917.1	219	308	6.87E-20	964bcae5a55beea14b7cd6a3db0464ab	1410	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+A_cerv_KAK2573917.1	157	180	320.0	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+A_cerv_KAK2573917.1	109	132	0.0024	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+A_cerv_KAK2573917.1	85	108	0.022	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+A_cerv_KAK2573917.1	133	156	1.4E-4	964bcae5a55beea14b7cd6a3db0464ab	1410	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+A_cerv_KAK2573917.1	313	399	14.128582	964bcae5a55beea14b7cd6a3db0464ab	1410	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+A_cerv_KAK2573917.1	313	401	7.3E-18	964bcae5a55beea14b7cd6a3db0464ab	1410	FunFam	G3DSA:2.60.40.10:FF:000189	Neogenin isoform 3	T	-	-	nan

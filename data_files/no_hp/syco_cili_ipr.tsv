@@ -1,0 +1,169 @@
+id	start	end	score	md5	length	analysis	sig_acc	sig_desc	status	ipr_acc	ipr_desc	goterm
+S_cili_XP_065174926.1	901	923	0.0018	d5f15e749db5c3812475cdec6a44f33b	1641	Pfam	PF13202	EF hand	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065174926.1	939	959	0.0077	d5f15e749db5c3812475cdec6a44f33b	1641	Pfam	PF13202	EF hand	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065174926.1	1470	1633	6.72E-14	d5f15e749db5c3812475cdec6a44f33b	1641	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065174926.1	1042	1063	-	d5f15e749db5c3812475cdec6a44f33b	1641	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+S_cili_XP_065174926.1	1364	1641	3.12838E-49	d5f15e749db5c3812475cdec6a44f33b	1641	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+S_cili_XP_065174926.1	1358	1462	4.7E-35	d5f15e749db5c3812475cdec6a44f33b	1641	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+S_cili_XP_065174926.1	927	946	2.7E-6	d5f15e749db5c3812475cdec6a44f33b	1641	PRINTS	PR00450	Recoverin family signature	T	-	-	nan
+S_cili_XP_065174926.1	903	924	2.7E-6	d5f15e749db5c3812475cdec6a44f33b	1641	PRINTS	PR00450	Recoverin family signature	T	-	-	nan
+S_cili_XP_065174926.1	949	967	2.7E-6	d5f15e749db5c3812475cdec6a44f33b	1641	PRINTS	PR00450	Recoverin family signature	T	-	-	nan
+S_cili_XP_065174926.1	1190	1321	4.1E-16	d5f15e749db5c3812475cdec6a44f33b	1641	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+S_cili_XP_065174926.1	935	963	5.3E-4	d5f15e749db5c3812475cdec6a44f33b	1641	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065174926.1	899	927	2.7E-4	d5f15e749db5c3812475cdec6a44f33b	1641	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065174926.1	1463	1641	4.5E-84	d5f15e749db5c3812475cdec6a44f33b	1641	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+S_cili_XP_065174926.1	908	920	-	d5f15e749db5c3812475cdec6a44f33b	1641	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+S_cili_XP_065174926.1	895	930	12.560727	d5f15e749db5c3812475cdec6a44f33b	1641	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065174926.1	1355	1466	13.417132	d5f15e749db5c3812475cdec6a44f33b	1641	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+S_cili_XP_065174926.1	1470	1623	5.8E-29	d5f15e749db5c3812475cdec6a44f33b	1641	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+S_cili_XP_065174926.1	1462	1641	4.2E-52	d5f15e749db5c3812475cdec6a44f33b	1641	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065174926.1	801	1008	2.0E-25	d5f15e749db5c3812475cdec6a44f33b	1641	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+S_cili_XP_065174926.1	1363	1462	1.6E-15	d5f15e749db5c3812475cdec6a44f33b	1641	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+S_cili_XP_065174926.1	882	1005	2.45E-24	d5f15e749db5c3812475cdec6a44f33b	1641	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+S_cili_XP_065174926.1	1188	1641	0.0	d5f15e749db5c3812475cdec6a44f33b	1641	SFLD	SFLDS00052	Ferric Reductase Domain	T	-	-	nan
+S_cili_XP_065174926.1	900	960	9.01796E-15	d5f15e749db5c3812475cdec6a44f33b	1641	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065174926.1	898	1641	4.0E-140	d5f15e749db5c3812475cdec6a44f33b	1641	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+S_cili_XP_065174926.1	1358	1463	6.41E-15	d5f15e749db5c3812475cdec6a44f33b	1641	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+S_cili_XP_065174926.1	931	966	12.923368	d5f15e749db5c3812475cdec6a44f33b	1641	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065174926.1	1188	1641	0.0	d5f15e749db5c3812475cdec6a44f33b	1641	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	T	-	-	nan
+S_cili_XP_065174926.1	944	956	-	d5f15e749db5c3812475cdec6a44f33b	1641	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+S_cili_XP_065174926.1	1357	1461	1.6E-9	d5f15e749db5c3812475cdec6a44f33b	1641	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+S_cili_XP_065176843.1	877	937	2.782E-11	b0f67c685155949a6e2c400f740f67e2	1603	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065176843.1	1321	1424	3.7E-17	b0f67c685155949a6e2c400f740f67e2	1603	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+S_cili_XP_065176843.1	908	943	12.086506	b0f67c685155949a6e2c400f740f67e2	1603	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065176843.1	858	983	3.51E-24	b0f67c685155949a6e2c400f740f67e2	1603	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+S_cili_XP_065176843.1	1077	1601	0.0	b0f67c685155949a6e2c400f740f67e2	1603	SFLD	SFLDS00052	Ferric Reductase Domain	T	-	-	nan
+S_cili_XP_065176843.1	1151	1282	2.4E-13	b0f67c685155949a6e2c400f740f67e2	1603	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+S_cili_XP_065176843.1	874	1603	2.9E-130	b0f67c685155949a6e2c400f740f67e2	1603	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+S_cili_XP_065176843.1	872	907	9.715397	b0f67c685155949a6e2c400f740f67e2	1603	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065176843.1	876	904	0.11	b0f67c685155949a6e2c400f740f67e2	1603	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065176843.1	912	940	0.011	b0f67c685155949a6e2c400f740f67e2	1603	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065176843.1	1316	1428	12.435527	b0f67c685155949a6e2c400f740f67e2	1603	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+S_cili_XP_065176843.1	921	933	-	b0f67c685155949a6e2c400f740f67e2	1603	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+S_cili_XP_065176843.1	1319	1424	3.7E-34	b0f67c685155949a6e2c400f740f67e2	1603	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+S_cili_XP_065176843.1	821	1017	2.2E-23	b0f67c685155949a6e2c400f740f67e2	1603	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+S_cili_XP_065176843.1	1433	1599	3.34E-14	b0f67c685155949a6e2c400f740f67e2	1603	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065176843.1	1416	1603	2.1E-49	b0f67c685155949a6e2c400f740f67e2	1603	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065176843.1	1318	1425	2.0E-13	b0f67c685155949a6e2c400f740f67e2	1603	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+S_cili_XP_065176843.1	1076	1601	0.0	b0f67c685155949a6e2c400f740f67e2	1603	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	T	-	-	nan
+S_cili_XP_065176843.1	1425	1603	4.0E-81	b0f67c685155949a6e2c400f740f67e2	1603	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+S_cili_XP_065176843.1	1308	1398	1.8E-8	b0f67c685155949a6e2c400f740f67e2	1603	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+S_cili_XP_065176843.1	1432	1585	5.9E-27	b0f67c685155949a6e2c400f740f67e2	1603	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+S_cili_XP_065176843.1	1325	1603	3.55865E-49	b0f67c685155949a6e2c400f740f67e2	1603	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+S_cili_XP_065179778.1	1724	1783	-	eb69f6e495032b3d705ec8e16de61ecc	1929	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+S_cili_XP_065179778.1	1822	1842	-	eb69f6e495032b3d705ec8e16de61ecc	1929	Coils	Coil	Coil	T	-	-	nan
+S_cili_XP_065179778.1	160	545	3.75E-46	eb69f6e495032b3d705ec8e16de61ecc	1929	SUPERFAMILY	SSF69318	Integrin alpha N-terminal domain	T	IPR028994	Integrin alpha, N-terminal	-
+S_cili_XP_065179778.1	109	295	1.8E-7	eb69f6e495032b3d705ec8e16de61ecc	1929	Gene3D	G3DSA:2.130.10.130	-	T	IPR028994	Integrin alpha, N-terminal	-
+S_cili_XP_065179778.1	1317	1350	-	eb69f6e495032b3d705ec8e16de61ecc	1929	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+S_cili_XP_065179778.1	1461	1481	-	eb69f6e495032b3d705ec8e16de61ecc	1929	Coils	Coil	Coil	T	-	-	nan
+S_cili_XP_065179778.1	1638	1658	-	eb69f6e495032b3d705ec8e16de61ecc	1929	Coils	Coil	Coil	T	-	-	nan
+S_cili_XP_065179778.1	1500	1527	-	eb69f6e495032b3d705ec8e16de61ecc	1929	Coils	Coil	Coil	T	-	-	nan
+S_cili_XP_065179778.1	296	424	5.8E-7	eb69f6e495032b3d705ec8e16de61ecc	1929	Gene3D	G3DSA:2.130.10.130	-	T	IPR028994	Integrin alpha, N-terminal	-
+S_cili_XP_065179778.1	574	641	9.9E-14	eb69f6e495032b3d705ec8e16de61ecc	1929	Pfam	PF07593	ASPIC and UnbV	T	IPR011519	ASPIC/UnbV	-
+S_cili_XP_065179778.1	337	397	4.8E-10	eb69f6e495032b3d705ec8e16de61ecc	1929	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+S_cili_XP_065179778.1	168	229	1.8E-12	eb69f6e495032b3d705ec8e16de61ecc	1929	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+S_cili_XP_065179778.1	1317	1341	-	eb69f6e495032b3d705ec8e16de61ecc	1929	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+S_cili_XP_065180847.1	1345	1457	14.626184	90175aa19a3fcdcfb8759f4fc7f46752	1633	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+S_cili_XP_065180847.1	890	951	5.36843E-7	90175aa19a3fcdcfb8759f4fc7f46752	1633	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065180847.1	1463	1615	1.2E-29	90175aa19a3fcdcfb8759f4fc7f46752	1633	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+S_cili_XP_065180847.1	925	995	1.086E-7	90175aa19a3fcdcfb8759f4fc7f46752	1633	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065180847.1	1112	1620	0.0	90175aa19a3fcdcfb8759f4fc7f46752	1633	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	T	-	-	nan
+S_cili_XP_065180847.1	1352	1633	2.66613E-49	90175aa19a3fcdcfb8759f4fc7f46752	1633	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+S_cili_XP_065180847.1	885	920	9.548024	90175aa19a3fcdcfb8759f4fc7f46752	1633	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065180847.1	1453	1633	1.9E-51	90175aa19a3fcdcfb8759f4fc7f46752	1633	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065180847.1	1348	1453	5.8E-37	90175aa19a3fcdcfb8759f4fc7f46752	1633	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+S_cili_XP_065180847.1	1177	1311	7.0E-15	90175aa19a3fcdcfb8759f4fc7f46752	1633	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+S_cili_XP_065180847.1	889	917	0.064	90175aa19a3fcdcfb8759f4fc7f46752	1633	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065180847.1	969	997	9.2	90175aa19a3fcdcfb8759f4fc7f46752	1633	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065180847.1	925	953	1.6	90175aa19a3fcdcfb8759f4fc7f46752	1633	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065180847.1	1342	1452	1.0E-9	90175aa19a3fcdcfb8759f4fc7f46752	1633	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+S_cili_XP_065180847.1	1454	1633	4.9E-81	90175aa19a3fcdcfb8759f4fc7f46752	1633	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+S_cili_XP_065180847.1	921	956	11.361225	90175aa19a3fcdcfb8759f4fc7f46752	1633	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065180847.1	1115	1620	0.0	90175aa19a3fcdcfb8759f4fc7f46752	1633	SFLD	SFLDS00052	Ferric Reductase Domain	T	-	-	nan
+S_cili_XP_065180847.1	1039	1059	-	90175aa19a3fcdcfb8759f4fc7f46752	1633	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+S_cili_XP_065180847.1	1464	1623	1.5E-13	90175aa19a3fcdcfb8759f4fc7f46752	1633	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065180847.1	849	1010	1.4E-25	90175aa19a3fcdcfb8759f4fc7f46752	1633	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+S_cili_XP_065180847.1	1060	1085	-	90175aa19a3fcdcfb8759f4fc7f46752	1633	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+S_cili_XP_065180847.1	1012	1096	-	90175aa19a3fcdcfb8759f4fc7f46752	1633	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+S_cili_XP_065180847.1	1347	1453	1.44E-15	90175aa19a3fcdcfb8759f4fc7f46752	1633	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+S_cili_XP_065180847.1	872	995	1.92E-23	90175aa19a3fcdcfb8759f4fc7f46752	1633	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+S_cili_XP_065180847.1	1350	1453	5.4E-18	90175aa19a3fcdcfb8759f4fc7f46752	1633	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+S_cili_XP_065182939.1	444	535	12.059517	509616e57b155853f4df47c72244527d	1399	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+S_cili_XP_065182939.1	358	427	3.7E-11	509616e57b155853f4df47c72244527d	1399	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+S_cili_XP_065182939.1	456	526	1.3E-5	509616e57b155853f4df47c72244527d	1399	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+S_cili_XP_065182939.1	461	533	1.89759E-13	509616e57b155853f4df47c72244527d	1399	CDD	cd00096	Ig	T	-	-	nan
+S_cili_XP_065182939.1	444	538	5.92E-17	509616e57b155853f4df47c72244527d	1399	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+S_cili_XP_065182939.1	363	433	1.91448E-15	509616e57b155853f4df47c72244527d	1399	CDD	cd00096	Ig	T	-	-	nan
+S_cili_XP_065182939.1	151	277	1.33E-29	509616e57b155853f4df47c72244527d	1399	SUPERFAMILY	SSF52058	L domain-like	T	-	-	nan
+S_cili_XP_065182939.1	62	88	-	509616e57b155853f4df47c72244527d	1399	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+S_cili_XP_065182939.1	450	537	1.3E-10	509616e57b155853f4df47c72244527d	1399	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+S_cili_XP_065182939.1	352	438	4.0E-10	509616e57b155853f4df47c72244527d	1399	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+S_cili_XP_065182939.1	352	441	3.93E-19	509616e57b155853f4df47c72244527d	1399	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+S_cili_XP_065182939.1	180	240	2.1E-14	509616e57b155853f4df47c72244527d	1399	Pfam	PF13855	Leucine rich repeat	T	IPR001611	Leucine-rich repeat	GO:0005515
+S_cili_XP_065182939.1	358	437	9.7E-13	509616e57b155853f4df47c72244527d	1399	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+S_cili_XP_065182939.1	446	536	3.1E-10	509616e57b155853f4df47c72244527d	1399	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+S_cili_XP_065182939.1	347	442	2.8E-18	509616e57b155853f4df47c72244527d	1399	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+S_cili_XP_065182939.1	106	346	8.3E-36	509616e57b155853f4df47c72244527d	1399	Gene3D	G3DSA:3.80.10.10	Ribonuclease Inhibitor	T	IPR032675	Leucine-rich repeat domain superfamily	-
+S_cili_XP_065182939.1	227	250	13.0	509616e57b155853f4df47c72244527d	1399	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+S_cili_XP_065182939.1	179	202	0.0028	509616e57b155853f4df47c72244527d	1399	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+S_cili_XP_065182939.1	203	226	0.0015	509616e57b155853f4df47c72244527d	1399	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+S_cili_XP_065182939.1	205	226	7.681152	509616e57b155853f4df47c72244527d	1399	ProSiteProfiles	PS51450	Leucine-rich repeat profile.	T	IPR001611	Leucine-rich repeat	GO:0005515
+S_cili_XP_065182939.1	352	442	2.2E-13	509616e57b155853f4df47c72244527d	1399	FunFam	G3DSA:2.60.40.10:FF:000032	palladin isoform X1	T	-	-	nan
+S_cili_XP_065182939.1	443	538	1.2E-16	509616e57b155853f4df47c72244527d	1399	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+S_cili_XP_065182939.1	345	436	12.168415	509616e57b155853f4df47c72244527d	1399	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+S_cili_XP_065183730.1	827	1029	3.8E-26	3bab889ca0c77f4149073c5c0de7e184	1640	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+S_cili_XP_065183730.1	1470	1622	3.7E-26	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+S_cili_XP_065183730.1	938	950	-	3bab889ca0c77f4149073c5c0de7e184	1640	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+S_cili_XP_065183730.1	1462	1640	1.7E-86	3bab889ca0c77f4149073c5c0de7e184	1640	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+S_cili_XP_065183730.1	1361	1461	1.8E-14	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+S_cili_XP_065183730.1	1187	1319	1.8E-13	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+S_cili_XP_065183730.1	1472	1640	1.02E-13	3bab889ca0c77f4149073c5c0de7e184	1640	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065183730.1	1356	1461	1.3E-34	3bab889ca0c77f4149073c5c0de7e184	1640	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+S_cili_XP_065183730.1	1127	1640	0.0	3bab889ca0c77f4149073c5c0de7e184	1640	SFLD	SFLDS00052	Ferric Reductase Domain	T	-	-	nan
+S_cili_XP_065183730.1	889	924	13.369694	3bab889ca0c77f4149073c5c0de7e184	1640	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183730.1	893	921	5.9E-4	3bab889ca0c77f4149073c5c0de7e184	1640	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183730.1	929	957	9.1E-5	3bab889ca0c77f4149073c5c0de7e184	1640	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183730.1	925	960	12.979158	3bab889ca0c77f4149073c5c0de7e184	1640	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183730.1	902	914	-	3bab889ca0c77f4149073c5c0de7e184	1640	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+S_cili_XP_065183730.1	892	1640	2.4E-136	3bab889ca0c77f4149073c5c0de7e184	1640	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+S_cili_XP_065183730.1	933	953	3.7E-5	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF13202	EF hand	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183730.1	895	918	0.0037	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF13202	EF hand	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183730.1	1353	1465	12.680928	3bab889ca0c77f4149073c5c0de7e184	1640	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+S_cili_XP_065183730.1	1129	1640	0.0	3bab889ca0c77f4149073c5c0de7e184	1640	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	T	-	-	nan
+S_cili_XP_065183730.1	894	955	1.85488E-15	3bab889ca0c77f4149073c5c0de7e184	1640	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183730.1	1362	1640	2.51287E-50	3bab889ca0c77f4149073c5c0de7e184	1640	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+S_cili_XP_065183730.1	1356	1462	1.12E-12	3bab889ca0c77f4149073c5c0de7e184	1640	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+S_cili_XP_065183730.1	857	1004	9.81E-26	3bab889ca0c77f4149073c5c0de7e184	1640	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+S_cili_XP_065183730.1	1356	1460	5.6E-8	3bab889ca0c77f4149073c5c0de7e184	1640	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+S_cili_XP_065183730.1	1461	1640	2.1E-50	3bab889ca0c77f4149073c5c0de7e184	1640	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065183731.1	827	1029	3.8E-26	3bab889ca0c77f4149073c5c0de7e184	1640	Gene3D	G3DSA:1.10.238.10	-	T	-	-	nan
+S_cili_XP_065183731.1	1470	1622	3.7E-26	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF08030	Ferric reductase NAD binding domain	T	IPR013121	Ferric reductase, NAD binding domain	GO:0016491
+S_cili_XP_065183731.1	938	950	-	3bab889ca0c77f4149073c5c0de7e184	1640	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+S_cili_XP_065183731.1	1462	1640	1.7E-86	3bab889ca0c77f4149073c5c0de7e184	1640	FunFam	G3DSA:3.40.50.80:FF:000020	Dual oxidase 1	T	-	-	nan
+S_cili_XP_065183731.1	1361	1461	1.8E-14	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF08022	FAD-binding domain	T	IPR013112	FAD-binding 8	GO:0016491
+S_cili_XP_065183731.1	1187	1319	1.8E-13	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF01794	Ferric reductase like transmembrane component	T	IPR013130	Ferric reductase transmembrane component-like domain	-
+S_cili_XP_065183731.1	1472	1640	1.02E-13	3bab889ca0c77f4149073c5c0de7e184	1640	SUPERFAMILY	SSF52343	Ferredoxin reductase-like, C-terminal NADP-linked domain	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065183731.1	1356	1461	1.3E-34	3bab889ca0c77f4149073c5c0de7e184	1640	FunFam	G3DSA:2.40.30.10:FF:000059	dual oxidase isoform X1	T	-	-	nan
+S_cili_XP_065183731.1	1127	1640	0.0	3bab889ca0c77f4149073c5c0de7e184	1640	SFLD	SFLDS00052	Ferric Reductase Domain	T	-	-	nan
+S_cili_XP_065183731.1	889	924	13.369694	3bab889ca0c77f4149073c5c0de7e184	1640	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183731.1	893	921	5.9E-4	3bab889ca0c77f4149073c5c0de7e184	1640	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183731.1	929	957	9.1E-5	3bab889ca0c77f4149073c5c0de7e184	1640	SMART	SM00054	efh 1	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183731.1	925	960	12.979158	3bab889ca0c77f4149073c5c0de7e184	1640	ProSiteProfiles	PS50222	EF-hand calcium-binding domain profile.	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183731.1	902	914	-	3bab889ca0c77f4149073c5c0de7e184	1640	ProSitePatterns	PS00018	EF-hand calcium-binding domain.	T	IPR018247	EF-Hand 1, calcium-binding site	-
+S_cili_XP_065183731.1	892	1640	2.4E-136	3bab889ca0c77f4149073c5c0de7e184	1640	PANTHER	PTHR11972	NADPH OXIDASE	T	-	-	nan
+S_cili_XP_065183731.1	933	953	3.7E-5	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF13202	EF hand	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183731.1	895	918	0.0037	3bab889ca0c77f4149073c5c0de7e184	1640	Pfam	PF13202	EF hand	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183731.1	1353	1465	12.680928	3bab889ca0c77f4149073c5c0de7e184	1640	ProSiteProfiles	PS51384	Ferredoxin reductase-type FAD binding domain profile.	T	IPR017927	FAD-binding domain, ferredoxin reductase-type	GO:0016491
+S_cili_XP_065183731.1	1129	1640	0.0	3bab889ca0c77f4149073c5c0de7e184	1640	SFLD	SFLDG01168	Ferric reductase subgroup (FRE)	T	-	-	nan
+S_cili_XP_065183731.1	894	955	1.85488E-15	3bab889ca0c77f4149073c5c0de7e184	1640	CDD	cd00051	EFh	T	IPR002048	EF-hand domain	GO:0005509
+S_cili_XP_065183731.1	1362	1640	2.51287E-50	3bab889ca0c77f4149073c5c0de7e184	1640	CDD	cd06186	NOX Duox like FAD NADP	T	-	-	nan
+S_cili_XP_065183731.1	1356	1462	1.12E-12	3bab889ca0c77f4149073c5c0de7e184	1640	SUPERFAMILY	SSF63380	Riboflavin synthase domain-like	T	IPR017938	Riboflavin synthase-like beta-barrel	-
+S_cili_XP_065183731.1	857	1004	9.81E-26	3bab889ca0c77f4149073c5c0de7e184	1640	SUPERFAMILY	SSF47473	EF-hand	T	IPR011992	EF-hand domain pair	-
+S_cili_XP_065183731.1	1356	1460	5.6E-8	3bab889ca0c77f4149073c5c0de7e184	1640	Gene3D	G3DSA:2.40.30.10	Translation factors	T	-	-	nan
+S_cili_XP_065183731.1	1461	1640	2.1E-50	3bab889ca0c77f4149073c5c0de7e184	1640	Gene3D	G3DSA:3.40.50.80	-	T	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	-
+S_cili_XP_065199427.1	293	419	7.1E-6	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	Gene3D	G3DSA:2.130.10.130	-	T	IPR028994	Integrin alpha, N-terminal	-
+S_cili_XP_065199427.1	131	292	9.7E-10	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	Gene3D	G3DSA:2.130.10.130	-	T	IPR028994	Integrin alpha, N-terminal	-
+S_cili_XP_065199427.1	162	224	6.0E-14	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+S_cili_XP_065199427.1	341	401	9.1E-12	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+S_cili_XP_065199427.1	155	549	2.49E-47	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	SUPERFAMILY	SSF69318	Integrin alpha N-terminal domain	T	IPR028994	Integrin alpha, N-terminal	-
+S_cili_XP_065199427.1	576	643	5.7E-13	71ca8bfa78c82b0f71e3a2bf4ea08359	1490	Pfam	PF07593	ASPIC and UnbV	T	IPR011519	ASPIC/UnbV	-

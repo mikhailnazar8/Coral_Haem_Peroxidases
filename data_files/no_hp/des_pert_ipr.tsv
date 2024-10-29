@@ -1,0 +1,121 @@
+id	start	end	score	md5	length	analysis	sig_acc	sig_desc	status	ipr_acc	ipr_desc	goterm
+D_pert_KAJ7333671.1	31	50	-	f979f76e03cde6edb2472ab0be15fa30	250	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+D_pert_KAJ7333671.1	34	50	-	f979f76e03cde6edb2472ab0be15fa30	250	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+D_pert_KAJ7333691.1	228	323	5.0E-27	d9fd790b6fafb2c84e4d8ec9a2270f18	660	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+D_pert_KAJ7333691.1	228	360	1.0E-82	d9fd790b6fafb2c84e4d8ec9a2270f18	660	PANTHER	PTHR10075	BASIGIN RELATED	T	IPR043204	Basigin-like	GO:0005515|GO:0005886|GO:0007155|GO:0007411
+D_pert_KAJ7333691.1	137	227	3.9E-23	d9fd790b6fafb2c84e4d8ec9a2270f18	660	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+D_pert_KAJ7333691.1	151	215	3.7E-14	d9fd790b6fafb2c84e4d8ec9a2270f18	660	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+D_pert_KAJ7333691.1	243	307	6.0E-16	d9fd790b6fafb2c84e4d8ec9a2270f18	660	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+D_pert_KAJ7333691.1	61	125	3.7E-14	d9fd790b6fafb2c84e4d8ec9a2270f18	660	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+D_pert_KAJ7333691.1	43	137	1.5E-15	d9fd790b6fafb2c84e4d8ec9a2270f18	660	FunFam	G3DSA:2.60.40.10:FF:000032	palladin isoform X1	T	-	-	nan
+D_pert_KAJ7333691.1	229	323	9.0E-32	d9fd790b6fafb2c84e4d8ec9a2270f18	660	FunFam	G3DSA:2.60.40.10:FF:000248	peroxidasin homolog	T	-	-	nan
+D_pert_KAJ7333691.1	54	135	2.0E-15	d9fd790b6fafb2c84e4d8ec9a2270f18	660	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+D_pert_KAJ7333691.1	231	317	1.0E-21	d9fd790b6fafb2c84e4d8ec9a2270f18	660	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+D_pert_KAJ7333691.1	139	225	1.2E-17	d9fd790b6fafb2c84e4d8ec9a2270f18	660	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+D_pert_KAJ7333691.1	138	228	6.9E-29	d9fd790b6fafb2c84e4d8ec9a2270f18	660	FunFam	G3DSA:2.60.40.10:FF:000282	peroxidasin homolog	T	-	-	nan
+D_pert_KAJ7333691.1	48	134	13.275547	d9fd790b6fafb2c84e4d8ec9a2270f18	660	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+D_pert_KAJ7333691.1	44	136	3.2E-21	d9fd790b6fafb2c84e4d8ec9a2270f18	660	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+D_pert_KAJ7333691.1	54	145	1.68E-24	d9fd790b6fafb2c84e4d8ec9a2270f18	660	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+D_pert_KAJ7333691.1	66	132	5.96675E-17	d9fd790b6fafb2c84e4d8ec9a2270f18	660	CDD	cd00096	Ig	T	-	-	nan
+D_pert_KAJ7333691.1	55	136	1.4E-9	d9fd790b6fafb2c84e4d8ec9a2270f18	660	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+D_pert_KAJ7333691.1	145	226	6.0E-9	d9fd790b6fafb2c84e4d8ec9a2270f18	660	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+D_pert_KAJ7333691.1	237	318	4.2E-14	d9fd790b6fafb2c84e4d8ec9a2270f18	660	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+D_pert_KAJ7333691.1	139	224	14.600475	d9fd790b6fafb2c84e4d8ec9a2270f18	660	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+D_pert_KAJ7333691.1	7	47	1.42E-5	d9fd790b6fafb2c84e4d8ec9a2270f18	660	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+D_pert_KAJ7333691.1	135	226	2.79E-24	d9fd790b6fafb2c84e4d8ec9a2270f18	660	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+D_pert_KAJ7333691.1	231	316	15.181265	d9fd790b6fafb2c84e4d8ec9a2270f18	660	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+D_pert_KAJ7333691.1	229	318	5.3E-26	d9fd790b6fafb2c84e4d8ec9a2270f18	660	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+D_pert_KAJ7333714.1	6	187	5.44E-42	d50be9e20eb03bc72dba8a3998d30ef1	948	SUPERFAMILY	SSF52058	L domain-like	T	-	-	nan
+D_pert_KAJ7333714.1	378	442	3.7E-14	d50be9e20eb03bc72dba8a3998d30ef1	948	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+D_pert_KAJ7333714.1	288	352	3.7E-14	d50be9e20eb03bc72dba8a3998d30ef1	948	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+D_pert_KAJ7333714.1	470	534	6.0E-16	d50be9e20eb03bc72dba8a3998d30ef1	948	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+D_pert_KAJ7333714.1	194	258	1.3E-14	d50be9e20eb03bc72dba8a3998d30ef1	948	SMART	SM00408	igc2 5	T	IPR003598	Immunoglobulin subtype 2	-
+D_pert_KAJ7333714.1	281	362	3.3E-15	d50be9e20eb03bc72dba8a3998d30ef1	948	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+D_pert_KAJ7333714.1	181	266	1.7E-16	d50be9e20eb03bc72dba8a3998d30ef1	948	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+D_pert_KAJ7333714.1	458	544	1.7E-21	d50be9e20eb03bc72dba8a3998d30ef1	948	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+D_pert_KAJ7333714.1	366	452	2.0E-17	d50be9e20eb03bc72dba8a3998d30ef1	948	Pfam	PF07679	Immunoglobulin I-set domain	T	IPR013098	Immunoglobulin I-set	-
+D_pert_KAJ7333714.1	199	264	2.29666E-17	d50be9e20eb03bc72dba8a3998d30ef1	948	CDD	cd00096	Ig	T	-	-	nan
+D_pert_KAJ7333714.1	25	46	8.035384	d50be9e20eb03bc72dba8a3998d30ef1	948	ProSiteProfiles	PS51450	Leucine-rich repeat profile.	T	IPR001611	Leucine-rich repeat	GO:0005515
+D_pert_KAJ7333714.1	366	451	14.600475	d50be9e20eb03bc72dba8a3998d30ef1	948	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+D_pert_KAJ7333714.1	5	178	1.6E-52	d50be9e20eb03bc72dba8a3998d30ef1	948	Gene3D	G3DSA:3.80.10.10	Ribonuclease Inhibitor	T	IPR032675	Leucine-rich repeat domain superfamily	-
+D_pert_KAJ7333714.1	271	363	5.3E-21	d50be9e20eb03bc72dba8a3998d30ef1	948	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+D_pert_KAJ7333714.1	456	550	1.5E-31	d50be9e20eb03bc72dba8a3998d30ef1	948	FunFam	G3DSA:2.60.40.10:FF:000248	peroxidasin homolog	T	-	-	nan
+D_pert_KAJ7333714.1	24	82	1.5E-16	d50be9e20eb03bc72dba8a3998d30ef1	948	Pfam	PF13855	Leucine rich repeat	T	IPR001611	Leucine-rich repeat	GO:0005515
+D_pert_KAJ7333714.1	130	179	3.3E-9	d50be9e20eb03bc72dba8a3998d30ef1	948	SMART	SM00082	lrrct1	T	IPR000483	Cysteine-rich flanking region, C-terminal	-
+D_pert_KAJ7333714.1	271	364	2.5E-15	d50be9e20eb03bc72dba8a3998d30ef1	948	FunFam	G3DSA:2.60.40.10:FF:000032	palladin isoform X1	T	-	-	nan
+D_pert_KAJ7333714.1	411	545	5.3E-106	d50be9e20eb03bc72dba8a3998d30ef1	948	PANTHER	PTHR45842	SYNAPTIC ADHESION-LIKE MOLECULE SALM	T	-	-	nan
+D_pert_KAJ7333714.1	275	361	13.275547	d50be9e20eb03bc72dba8a3998d30ef1	948	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+D_pert_KAJ7333714.1	281	372	2.66E-24	d50be9e20eb03bc72dba8a3998d30ef1	948	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+D_pert_KAJ7333714.1	456	549	9.1E-27	d50be9e20eb03bc72dba8a3998d30ef1	948	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+D_pert_KAJ7333714.1	364	455	6.5E-23	d50be9e20eb03bc72dba8a3998d30ef1	948	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+D_pert_KAJ7333714.1	293	359	5.416E-17	d50be9e20eb03bc72dba8a3998d30ef1	948	CDD	cd00096	Ig	T	-	-	nan
+D_pert_KAJ7333714.1	282	363	1.4E-9	d50be9e20eb03bc72dba8a3998d30ef1	948	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+D_pert_KAJ7333714.1	187	269	9.1E-6	d50be9e20eb03bc72dba8a3998d30ef1	948	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+D_pert_KAJ7333714.1	464	545	4.2E-14	d50be9e20eb03bc72dba8a3998d30ef1	948	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+D_pert_KAJ7333714.1	372	453	6.0E-9	d50be9e20eb03bc72dba8a3998d30ef1	948	SMART	SM00409	IG 3c	T	IPR003599	Immunoglobulin subtype	-
+D_pert_KAJ7333714.1	23	46	3.2E-4	d50be9e20eb03bc72dba8a3998d30ef1	948	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+D_pert_KAJ7333714.1	95	118	1.0E-5	d50be9e20eb03bc72dba8a3998d30ef1	948	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+D_pert_KAJ7333714.1	71	94	3.1	d50be9e20eb03bc72dba8a3998d30ef1	948	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+D_pert_KAJ7333714.1	47	70	2.8E-4	d50be9e20eb03bc72dba8a3998d30ef1	948	SMART	SM00369	LRR typ 2	T	IPR003591	Leucine-rich repeat, typical subtype	-
+D_pert_KAJ7333714.1	49	70	7.165205	d50be9e20eb03bc72dba8a3998d30ef1	948	ProSiteProfiles	PS51450	Leucine-rich repeat profile.	T	IPR001611	Leucine-rich repeat	GO:0005515
+D_pert_KAJ7333714.1	362	453	4.6E-24	d50be9e20eb03bc72dba8a3998d30ef1	948	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+D_pert_KAJ7333714.1	181	267	13.221098	d50be9e20eb03bc72dba8a3998d30ef1	948	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+D_pert_KAJ7333714.1	365	455	1.1E-28	d50be9e20eb03bc72dba8a3998d30ef1	948	FunFam	G3DSA:2.60.40.10:FF:000282	peroxidasin homolog	T	-	-	nan
+D_pert_KAJ7333714.1	180	270	8.58E-21	d50be9e20eb03bc72dba8a3998d30ef1	948	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+D_pert_KAJ7333714.1	458	543	15.181265	d50be9e20eb03bc72dba8a3998d30ef1	948	ProSiteProfiles	PS50835	Ig-like domain profile.	T	IPR007110	Immunoglobulin-like domain	-
+D_pert_KAJ7333714.1	179	270	5.7E-21	d50be9e20eb03bc72dba8a3998d30ef1	948	FunFam	G3DSA:2.60.40.10:FF:000273	contactin-3 isoform X1	T	-	-	nan
+D_pert_KAJ7333714.1	179	268	1.5E-20	d50be9e20eb03bc72dba8a3998d30ef1	948	Gene3D	G3DSA:2.60.40.10	Immunoglobulins	T	IPR013783	Immunoglobulin-like fold	-
+D_pert_KAJ7333714.1	925	948	-	d50be9e20eb03bc72dba8a3998d30ef1	948	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+D_pert_KAJ7333714.1	456	545	8.78E-26	d50be9e20eb03bc72dba8a3998d30ef1	948	SUPERFAMILY	SSF48726	Immunoglobulin	T	IPR036179	Immunoglobulin-like domain superfamily	-
+D_pert_KAJ7373906.1	406	426	-	70ac0f16e5693ac5b0caadecf3cd1099	473	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+D_pert_KAJ7373906.1	406	430	-	70ac0f16e5693ac5b0caadecf3cd1099	473	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+D_pert_KAJ7374156.1	39	59	-	c957642a4c1ba82875ce2fae6efa527a	577	Coils	Coil	Coil	T	-	-	nan
+D_pert_KAJ7374156.1	89	109	-	c957642a4c1ba82875ce2fae6efa527a	577	Coils	Coil	Coil	T	-	-	nan
+D_pert_KAJ7374300.1	196	216	-	5b334acc13808fbd44d77190beb2a9e4	222	Coils	Coil	Coil	T	-	-	nan
+D_pert_KAJ7374301.1	178	243	1.7E-13	e15b087b65ae27b6afea33eee72f2bde	544	Pfam	PF07593	ASPIC and UnbV	T	IPR011519	ASPIC/UnbV	-
+D_pert_KAJ7374301.1	81	154	8.89E-10	e15b087b65ae27b6afea33eee72f2bde	544	SUPERFAMILY	SSF69318	Integrin alpha N-terminal domain	T	IPR028994	Integrin alpha, N-terminal	-
+D_pert_KAJ7374308.1	146	526	2.49E-50	2d076af2639aa2053e5224e5df74cd16	840	SUPERFAMILY	SSF69318	Integrin alpha N-terminal domain	T	IPR028994	Integrin alpha, N-terminal	-
+D_pert_KAJ7374308.1	14	317	9.2E-11	2d076af2639aa2053e5224e5df74cd16	840	Gene3D	G3DSA:2.130.10.130	-	T	IPR028994	Integrin alpha, N-terminal	-
+D_pert_KAJ7374308.1	446	634	5.7E-55	2d076af2639aa2053e5224e5df74cd16	840	PANTHER	PTHR16026	CARTILAGE ACIDIC PROTEIN 1	T	-	-	nan
+D_pert_KAJ7374308.1	454	521	2.9E-6	2d076af2639aa2053e5224e5df74cd16	840	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+D_pert_KAJ7374308.1	337	398	3.2E-12	2d076af2639aa2053e5224e5df74cd16	840	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+D_pert_KAJ7374308.1	157	219	5.5E-13	2d076af2639aa2053e5224e5df74cd16	840	Pfam	PF13517	FG-GAP-like repeat	T	IPR013517	FG-GAP repeat	-
+D_pert_KAJ7374308.1	318	481	5.7E-8	2d076af2639aa2053e5224e5df74cd16	840	Gene3D	G3DSA:2.130.10.130	-	T	IPR028994	Integrin alpha, N-terminal	-
+D_pert_KAJ7374308.1	561	627	2.3E-14	2d076af2639aa2053e5224e5df74cd16	840	Pfam	PF07593	ASPIC and UnbV	T	IPR011519	ASPIC/UnbV	-
+D_pert_KAJ7385166.1	33	53	-	730798656dc3800a9bbc407de9ade168	325	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
+D_pert_KAJ7392002.1	170	226	2.4E-8	bdc3d2ac35b1bcddde993e424616c649	495	Pfam	PF17892	Cadherin-like domain	T	IPR041690	Cadherin-like domain	-
+D_pert_KAJ7392002.1	126	226	2.5E-13	bdc3d2ac35b1bcddde993e424616c649	495	Gene3D	G3DSA:2.60.40.3440	-	T	-	-	nan
+D_pert_KAJ7392002.1	74	139	2.2E-10	bdc3d2ac35b1bcddde993e424616c649	495	Pfam	PF07593	ASPIC and UnbV	T	IPR011519	ASPIC/UnbV	-
+D_pert_KAJ7394159.1	67	160	7.660127	77a0c7d411c302fd17e0e24f19e69ad2	694	ProSiteProfiles	PS51212	WSC domain profile.	T	IPR002889	Carbohydrate-binding WSC	-
+D_pert_KAJ7394162.1	70	148	1.1E-13	825756b0656c9b3d27066d99aab3cea0	353	Pfam	PF01822	WSC domain	T	IPR002889	Carbohydrate-binding WSC	-
+D_pert_KAJ7394162.1	67	161	3.8E-4	825756b0656c9b3d27066d99aab3cea0	353	SMART	SM00321	SLG 2	T	IPR002889	Carbohydrate-binding WSC	-
+D_pert_KAJ7394162.1	67	158	9.340414	825756b0656c9b3d27066d99aab3cea0	353	ProSiteProfiles	PS51212	WSC domain profile.	T	IPR002889	Carbohydrate-binding WSC	-
+D_pert_KAJ7394694.1	1	119	2.0E-23	b24c4063edc1052c337dabd9a4de7a8f	1392	SMART	SM00042	CUB 2	T	IPR000859	CUB domain	-
+D_pert_KAJ7394694.1	121	161	4.2E-15	b24c4063edc1052c337dabd9a4de7a8f	1392	Gene3D	G3DSA:2.10.25.10	Laminin	T	-	-	nan
+D_pert_KAJ7394694.1	165	268	3.7E-9	b24c4063edc1052c337dabd9a4de7a8f	1392	Gene3D	G3DSA:2.60.40.60	Cadherins	T	-	-	nan
+D_pert_KAJ7394694.1	275	387	1.3E-7	b24c4063edc1052c337dabd9a4de7a8f	1392	Gene3D	G3DSA:2.60.40.60	Cadherins	T	-	-	nan
+D_pert_KAJ7394694.1	1	116	6.0E-26	b24c4063edc1052c337dabd9a4de7a8f	1392	Gene3D	G3DSA:2.60.120.290	Spermadhesin, CUB domain	T	IPR035914	Spermadhesin, CUB domain superfamily	-
+D_pert_KAJ7394694.1	123	161	1.6E-5	b24c4063edc1052c337dabd9a4de7a8f	1392	SMART	SM00181	egf 5	T	IPR000742	EGF-like domain	-
+D_pert_KAJ7394694.1	2	116	4.8E-21	b24c4063edc1052c337dabd9a4de7a8f	1392	Pfam	PF00431	CUB domain	T	IPR000859	CUB domain	-
+D_pert_KAJ7394694.1	145	160	-	b24c4063edc1052c337dabd9a4de7a8f	1392	ProSitePatterns	PS01186	EGF-like domain signature 2.	T	IPR000742	EGF-like domain	-
+D_pert_KAJ7394694.1	169	274	9.015265	b24c4063edc1052c337dabd9a4de7a8f	1392	ProSiteProfiles	PS50268	Cadherins domain profile.	T	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020
+D_pert_KAJ7394694.1	119	162	4.34E-11	b24c4063edc1052c337dabd9a4de7a8f	1392	SUPERFAMILY	SSF57196	EGF/Laminin	T	-	-	nan
+D_pert_KAJ7394694.1	124	164	1.2E-10	b24c4063edc1052c337dabd9a4de7a8f	1392	FunFam	G3DSA:2.10.25.10:FF:000240	Vitamin K-dependent protein S	T	-	-	nan
+D_pert_KAJ7394694.1	120	160	9.3E-7	b24c4063edc1052c337dabd9a4de7a8f	1392	Pfam	PF07645	Calcium-binding EGF domain	T	IPR001881	EGF-like calcium-binding domain	GO:0005509
+D_pert_KAJ7394694.1	1	117	8.6E-20	b24c4063edc1052c337dabd9a4de7a8f	1392	FunFam	G3DSA:2.60.120.290:FF:000005	Procollagen C-endopeptidase enhancer 1	T	-	-	nan
+D_pert_KAJ7394694.1	168	264	2.43E-7	b24c4063edc1052c337dabd9a4de7a8f	1392	SUPERFAMILY	SSF49313	Cadherin-like	T	IPR015919	Cadherin-like superfamily	GO:0005509|GO:0016020
+D_pert_KAJ7394694.1	2	116	5.29394E-28	b24c4063edc1052c337dabd9a4de7a8f	1392	CDD	cd00041	CUB	T	IPR000859	CUB domain	-
+D_pert_KAJ7394694.1	280	382	7.14E-7	b24c4063edc1052c337dabd9a4de7a8f	1392	SUPERFAMILY	SSF49313	Cadherin-like	T	IPR015919	Cadherin-like superfamily	GO:0005509|GO:0016020
+D_pert_KAJ7394694.1	120	161	10.048997	b24c4063edc1052c337dabd9a4de7a8f	1392	ProSiteProfiles	PS50026	EGF-like domain profile.	T	IPR000742	EGF-like domain	-
+D_pert_KAJ7394694.1	1	119	21.994503	b24c4063edc1052c337dabd9a4de7a8f	1392	ProSiteProfiles	PS01180	CUB domain profile.	T	IPR000859	CUB domain	-
+D_pert_KAJ7394694.1	1105	1162	1.8E-10	b24c4063edc1052c337dabd9a4de7a8f	1392	Pfam	PF13330	Mucin-2 protein WxxW repeating region	T	IPR025155	WxxW domain	-
+D_pert_KAJ7394694.1	1229	1364	7.1E-8	b24c4063edc1052c337dabd9a4de7a8f	1392	Pfam	PF00688	TGF-beta propeptide	T	IPR001111	TGF-beta, propeptide	-
+D_pert_KAJ7394694.1	120	161	6.31496E-12	b24c4063edc1052c337dabd9a4de7a8f	1392	CDD	cd00054	EGF CA	T	-	-	nan
+D_pert_KAJ7394694.1	120	145	-	b24c4063edc1052c337dabd9a4de7a8f	1392	ProSitePatterns	PS01187	Calcium-binding EGF-like domain signature.	T	IPR018097	EGF-like calcium-binding, conserved site	GO:0005509
+D_pert_KAJ7394694.1	284	377	8.20239E-6	b24c4063edc1052c337dabd9a4de7a8f	1392	CDD	cd11304	Cadherin repeat	T	-	-	nan
+D_pert_KAJ7394694.1	1182	1391	6.8E-13	b24c4063edc1052c337dabd9a4de7a8f	1392	Gene3D	G3DSA:2.60.120.970	-	T	-	-	nan
+D_pert_KAJ7394694.1	173	264	9.6859E-10	b24c4063edc1052c337dabd9a4de7a8f	1392	CDD	cd11304	Cadherin repeat	T	-	-	nan
+D_pert_KAJ7394694.1	1	118	1.1E-24	b24c4063edc1052c337dabd9a4de7a8f	1392	SUPERFAMILY	SSF49854	Spermadhesin, CUB domain	T	IPR035914	Spermadhesin, CUB domain superfamily	-
+D_pert_KAJ7394694.1	136	147	-	b24c4063edc1052c337dabd9a4de7a8f	1392	ProSitePatterns	PS00010	Aspartic acid and asparagine hydroxylation site.	T	IPR000152	EGF-type aspartate/asparagine hydroxylation site	-
+D_pert_KAJ7394694.1	120	161	3.6E-12	b24c4063edc1052c337dabd9a4de7a8f	1392	SMART	SM00179	egfca 6	T	IPR001881	EGF-like calcium-binding domain	GO:0005509
+D_pert_KAJ7394694.1	404	427	-	b24c4063edc1052c337dabd9a4de7a8f	1392	MobiDBLite	mobidb-lite	consensus disorder prediction	T	-	-	nan
