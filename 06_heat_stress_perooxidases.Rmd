@@ -1,0 +1,117 @@
+---
+title: "Proteins Involved in Heat-stress Responses"
+output: github_document
+---
+
+```{r, echo=FALSE,message=FALSE,warning=FALSE}
+library(tidyverse)
+library(ggtree) 
+library(treeio)
+library(ape)
+library(ggnewscale)
+library(ggplot2)
+library(viridis)
+library(phytools)
+
+prot_linked <- c("DR987689.1_ORF1" ,"evm.model.Chr11.917" ,  "evm.model.Chr11.924"  , "evm.model.Chr2.1139" , "evm.model.Chr3.1092"  , "evm.model.Chr4.151"  ,  "Novel02572"      ,      "Novel02575"   ,        
+ "Novel03871"        ,    "paus_s0281.g3.t1_ORF2" ,"paus_s0281.g5.t1_ORF2" ,"paus_s0281.g6.t1_ORF1",
+ "XP_022794431.1" )
+
+drop_all <- c("S_cili_XP_065197397.1", "S_cili_XP_065197398.1", "S_cili_XP_065197396.1", "S_cili_XP_065197398.1", "S_cili_XP_065197396.1", "D_pert_KAJ7394159.1"  , "O_fave_XP_020616189.1", "O_fave_XP_020616187.1",
+ "P_ever_CAH3196444.1"  , "P_ever_CAH3195852.1"  , "P_dami_XP_027039809.1", "S_pist_XP_022784016.1",
+ "A_mill_XP_029203804.2" ,"A_cerv_KAK2563915.1_2", "adig_s0028.g73.t1"   ,  "A_cerv_KAK2563915.1_2",
+ "adig_s0028.g73.t1"  ,   "N_vect_XP_048577051.1" ,"A_cerv_KAK2563915.1" )
+
+ftipnode <- function(tree, node) {
+  descendants <- getDescendants(tree, node)
+  tips <- descendants[descendants <= length(tree$tip.label)]
+  return(tree$tip.label[tips])
+}
+
+```
+
+
+The first step is to create a BLAST database of the haem peroxidase proteins that were used in the gene tree. This was done using the FASTA file of compiled sequences in step 01. Its is important to note that these sequencews are only the domain and not the whole sequence ID
+
+```{bash, eval=FALSE}
+makeblastdb -in all_proteins.fasta -dbtype 'prot' -out 'ref'
+```
+
+Now each sequence involved in heat stress responses from external studies (Table 1 in paper) was compared to the sequences in our tree using the BLAST algorithm
+```{bash, eval=FALSE}
+blastx -query ${external_sequence}.fasta -db ref -evalue 0.0001 -outfmt 6
+```
+
+To accompany these results all these sequences were translated from nucleic acid sequences to amino acid sequences and the longest Open Reading Frames (ORFs) were extracted using a custom python script
+
+```{bash, eval = FALSE}
+python3 na2aa.py < fasta_file >
+```
+
+These ORFS, went rhough the same steps as in 01 and 02 to add the haem peropxidase domains (if they were able to be extracted) into the gene tree, giving us a gene tree which highlighted the external ORFs
+```{r, echo=FALSE}
+tree3 <- read.tree("data_files/run2.contree")
+
+# Convert the tree to a tibble for manipulation
+tree3_tibble <- as_tibble(tree3)
+
+# Create a ggtree object to access the isTip data
+ggtree_data <- ggtree(tree3)$data
+
+# Add node numbers to all internal nodes
+tree3_tibble <- tree3_tibble %>%
+  left_join(ggtree_data %>% select(node, isTip), by = c("node")) %>%
+  mutate(node_number = ifelse(!isTip, node, NA)) %>%
+  mutate(prot_linked = ifelse(label %in% prot_linked, TRUE, FALSE))
+
+# Reconvert the tibble back to a phylo object for plotting
+phylo_tree3 <- as.phylo(tree3_tibble)
+
+
+
+peroxinectin_phylo <- tree3 %>% 
+  #keep.tip(peroxinectins) 
+  drop.tip("XP_022794431.1") %>% 
+  drop.tip(drop_all)
+
+
+peroxinectin_tibble <- as_tibble(peroxinectin_phylo)
+
+peroxinectin_data <- ggtree(peroxinectin_phylo)$data
+
+peroxinectin_tibble <- peroxinectin_tibble %>% 
+  mutate(prot_linked = ifelse(label %in% prot_linked, TRUE, FALSE))
+
+ggtree(peroxinectin_phylo) %<+% peroxinectin_tibble +
+  geom_tiplab( aes(color = prot_linked), size= 0.2) +  # Add tip labels without color
+  geom_tippoint(aes(color = prot_linked), size =0.2) +  # Add big red dots
+  scale_color_manual(values = c("black", "red")) +  # Black for non-linked, red for linked
+  theme(legend.position = "none")  # Remove legend
+```
+
+As is evident all the heat linked proteins are clustered at the top clad e and further inspection rveals that they all exist in clade 1 as per the paper. Below is a tree of only clade 1 with the heat-stress linked proteins 
+
+```{r, echo=FALSE,message=FALSE, warning=FALSE}
+peroxinectins <- ftipnode(phylo_tree3,492)
+
+peroxinectin_phylo_2 <- tree3 %>% 
+  keep.tip(peroxinectins) 
+
+
+peroxinectin_tibble_2 <- as_tibble(peroxinectin_phylo_2)
+
+peroxinectin_data_2 <- ggtree(peroxinectin_phylo_2)$data
+
+peroxinectin_tibble_2 <- peroxinectin_tibble_2 %>% 
+  mutate(prot_linked = ifelse(label %in% prot_linked, TRUE, FALSE))
+
+ggtree(peroxinectin_phylo_2) %<+% peroxinectin_tibble_2 +
+  geom_tiplab( aes(color = prot_linked), size= 0.2) +  # Add tip labels without color
+  geom_tippoint(aes(color = prot_linked), size =0.2) +  # Add big red dots
+  scale_color_manual(values = c("black", "red")) +  # Black for non-linked, red for linked
+  theme(legend.position = "none")  # Remove legend
+
+```
+
+
+

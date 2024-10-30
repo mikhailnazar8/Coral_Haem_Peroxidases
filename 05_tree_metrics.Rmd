@@ -1,0 +1,179 @@
+---
+title: "Tree Data Frames and Metrics"
+output: github_document
+---
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(ggtree) 
+library(treeio)
+library(ape)
+library(ggnewscale)
+library(ggplot2)
+library(viridis)
+library(phytools)
+
+t1 <- read_tsv("data_files/acrop_cerv_ipr.tsv") %>% mutate(species = "A.cervicornis")
+t2 <- read_tsv("data_files/acrop_digi2_ipr.tsv") %>% mutate(species = "A.digitifera")
+t3 <- read_tsv("data_files/acrop_mill_ipr.tsv") %>% mutate(species = "A.millepora")
+t4 <- read_tsv("data_files/des_pert_ipr.tsv") %>% mutate(species = "D.pertusum")
+t5 <- read_tsv("data_files/orbi_fave_ipr.tsv") %>% mutate(species = "O.faveolata")
+t6 <- read_tsv("data_files/poci_dami_ipr.tsv") %>% mutate(species = "P.damicornis")
+t7 <- read_tsv("data_files/pori_ever_ipr.tsv") %>% mutate(species = "P.evermanni")
+t8 <- read_tsv("data_files/stylo_pist_ipr.tsv") %>% mutate(species = "S.pistillata")
+t9 <- read_tsv("data_files/aethi_tumi_ipr.tsv") %>% mutate(species = "A.tumida")
+t10 <- read_tsv("data_files/cras_virg_ipr.tsv") %>% mutate(species = "C.virginica")
+t11 <- read_tsv("data_files/nema_vect_ipr.tsv") %>% mutate(species = "N.vectensis")
+t12 <- read_tsv("data_files/syco_cili_ipr.tsv") %>% mutate(species = "S.ciliatum")
+t13 <- read_tsv("data_files/xenia_sp_ipr.tsv") %>% mutate(species = "Xenia spp")
+
+prot_table <- rbind(t1, t2, t3 , t4 , t5 , t6 , t7 , t8, t9,t10,t11,t12,t13)%>% select(id, analysis, sig_acc, sig_desc, length, ipr_acc, ipr_desc, goterm, species)
+
+distinct_prot <- prot_table %>%   distinct(id,sig_acc, .keep_all = TRUE)
+
+prot_list <- prot_table %>% select(sig_acc,sig_desc, ipr_acc, ipr_desc) %>% distinct(sig_acc, .keep_all = T)
+
+t1_nohp <- read_tsv("data_files/no_hp/acrop_cerv_ipr.tsv") %>% mutate(species = "A.cervicornis")
+t2_nohp <- read_tsv("data_files/no_hp/acrop_digi2_ipr.tsv") %>% mutate(species = "A.digitifera")
+t3_nohp <- read_tsv("data_files/no_hp/acrop_mill_ipr.tsv") %>% mutate(species = "A.millepora")
+t4_nohp <- read_tsv("data_files/no_hp/des_pert_ipr.tsv") %>% mutate(species = "D.pertusum")
+t5_nohp <- read_tsv("data_files/no_hp/orbi_fave_ipr.tsv") %>% mutate(species = "O.faveolata")
+t6_nohp <- read_tsv("data_files/no_hp/poci_dami_ipr.tsv") %>% mutate(species = "P.damicornis")
+t7_nohp <- read_tsv("data_files/no_hp/pori_ever_ipr.tsv") %>% mutate(species = "P.evermanni")
+t8_nohp <- read_tsv("data_files/no_hp/stylo_pist_ipr.tsv") %>% mutate(species = "S.pistillata")
+t9_nohp <- read_tsv("data_files/no_hp/aethi_tumi_ipr.tsv") %>% mutate(species = "A.tumida")
+t10_nohp <- read_tsv("data_files/no_hp/cras_virg_ipr.tsv") %>% mutate(species = "C.virginica")
+t11_nohp <- read_tsv("data_files/no_hp/nema_vect_ipr.tsv") %>% mutate(species = "N.vectensis")
+t12_nohp <- read_tsv("data_files/no_hp/syco_cili_ipr.tsv") %>% mutate(species = "S.ciliatum")
+t13_nohp <- read_tsv("data_files/no_hp/xenia_sp_ipr.tsv") %>% mutate(species = "Xenia spp")
+
+prot_table_nohp <- rbind(t1_nohp, t2_nohp, t3_nohp , t4_nohp , t5_nohp , t6_nohp , t7_nohp , t8_nohp, t9_nohp,t10_nohp,t11_nohp,t12_nohp,t13_nohp)%>% select(id, analysis, sig_acc, sig_desc, length, ipr_acc, ipr_desc, goterm, species)
+
+prot_linked <- c("DR987689.1_ORF1" ,"evm.model.Chr11.917" ,  "evm.model.Chr11.924"  , "evm.model.Chr2.1139" , "evm.model.Chr3.1092"  , "evm.model.Chr4.151"  ,  "Novel02572"      ,      "Novel02575"   ,        
+ "Novel03871"        ,    "paus_s0281.g3.t1_ORF2" ,"paus_s0281.g5.t1_ORF2" ,"paus_s0281.g6.t1_ORF1",
+ "XP_022794431.1" )
+
+drop_all <- c("S_cili_XP_065197397.1", "S_cili_XP_065197398.1", "S_cili_XP_065197396.1", "S_cili_XP_065197398.1", "S_cili_XP_065197396.1", "D_pert_KAJ7394159.1"  , "O_fave_XP_020616189.1", "O_fave_XP_020616187.1",
+ "P_ever_CAH3196444.1"  , "P_ever_CAH3195852.1"  , "P_dami_XP_027039809.1", "S_pist_XP_022784016.1",
+ "A_mill_XP_029203804.2" ,"A_cerv_KAK2563915.1_2", "adig_s0028.g73.t1"   ,  "A_cerv_KAK2563915.1_2",
+ "adig_s0028.g73.t1"  ,   "N_vect_XP_048577051.1" ,"A_cerv_KAK2563915.1" )
+
+
+
+distinct_prot_nohp <- prot_table_nohp %>% distinct(id,sig_acc, .keep_all = TRUE)
+
+prot_list_no_hp <- distinct_prot_nohp%>% select(sig_acc,sig_desc, ipr_acc, ipr_desc) %>% distinct(sig_acc, .keep_all = T)
+
+prot_list_nohp <- prot_table_nohp %>% select(sig_acc,sig_desc, ipr_acc, ipr_desc) %>% distinct(sig_acc, .keep_all = T)
+```
+ To understand the clades in the tree a suite of functions was created to help wrangle the data. First there was simply the function of creating a tree data frame as was needed for the heatmap (seen in 04)
+
+ 
+```{r}
+
+# Define the function
+process_tree <- function(tree_file) {
+  
+  # Read the phylogenetic tree
+  tree <- read.tree(tree_file)
+  
+  # Extract tree data for ggtree compatibility
+  ggtree_data <- ggtree(tree)$data
+  
+  # Step to account for multiple domains in sequence IDs and add node information
+  tree_tibble <- tree %>%
+    as_tibble() %>%
+    mutate(prot_accession = ifelse(grepl("_[1-3]$", label) & grepl("[A-Za-z]", label),
+                                   sub("_[1-3]$", "", label),
+                                   label)) %>%
+    left_join(ggtree_data %>% select(node, isTip), by = "node") %>%
+    mutate(node_number = ifelse(!isTip, node, NA))
+  
+  # Initialize play_tree
+  play_tree <- tree_tibble
+  
+  # Get unique signal accessions
+  signal_accessions <- unique(prot_table$sig_acc)
+  
+  # Add columns for each signal accession
+ for (sig in signal_accessions) {
+ 
+  temp_group <- prot_table %>% filter(sig_acc == sig)
+  
+
+  play_tree <- play_tree %>%
+    mutate(!!sig := ifelse(prot_accession %in% temp_group$id, "yes", "no"))
+  }
+  
+
+  play_tree <- as.data.frame(play_tree)
+  
+  tree_heatmap <- play_tree%>%
+  mutate(label = make.unique(as.character(label))) %>%
+  column_to_rownames(var = "label") %>% 
+  select(!parent:node_number)
+  
+  return(tree_heatmap)
+}
+
+domain_df <- process_tree("data_files/run1.contree")
+```
+
+The next function needed is the function to find all the Sequence IDs in a certain clade, for which you will need to know the node number of the clade of interest
+
+```{r}
+ftipnode <- function(tree, node) {
+  descendants <- getDescendants(tree, node)
+  tips <- descendants[descendants <= length(tree$tip.label)]
+  return(tree$tip.label[tips])
+}
+
+tree <- read.tree("data_files/run1.contree") %>% 
+  drop.tip(drop_all)
+peroxinectin_clade <- ftipnode(tree, 426)
+```
+
+ 
+Using the list of Sequence IDs in a clade, you can then get various metrics, such as domains within the clade and the Ratio of Presence (as seen in Sec 2 of the paper)
+```{r}
+find_domains <- function(clade, tree_df, filter_ratio) {
+  # Total number of tips in the clade
+  tot_num <- length(clade)
+  
+  # Subset the data frame to include only the rows (tips) in the clade
+  clade_df <- tree_df[rownames(tree_df) %in% clade, ]
+  
+  # Convert "yes"/"no" to logical TRUE/FALSE
+  clade_df_logical <- clade_df == "yes"
+  
+  # For each domain (column), count the number of tips with the domain
+  domain_counts <- colSums(clade_df_logical)
+  
+  # Compute the ratio of tips with the domain to the total number of tips
+  domain_ratios <- domain_counts / tot_num
+  
+  # Create a data frame to store the results
+  result_df <- data.frame(
+    sig_acc = names(domain_counts),
+    ratio = domain_ratios
+  )
+  rownames(result_df) <- NULL
+    result_df <- merge(result_df, prot_list, by.x = "sig_acc", by.y = "sig_acc", all.x = TRUE) %>% filter(ratio>filter_ratio) %>% 
+      mutate(domain_overlap= ifelse(sig_acc %in% c(prot_list$sig_acc),F,T))
+    
+    tree_df_logical <- tree_df == "yes"
+  total_domain_counts <- colSums(tree_df_logical) 
+  result_df <- result_df %>%
+    rowwise() %>%
+    mutate(is_unique = domain_counts[sig_acc] == total_domain_counts[sig_acc]) %>%
+    ungroup()
+}
+
+peroxinectin_clade_domain_information <- find_domains(peroxinectin_clade,domain_df,0)
+
+```
+
+This gives you a data frame as such
+```{r}
+head(peroxinectin_clade_domain_information %>% arrange(ratio))
+```
+
