@@ -111,7 +111,7 @@ prot_list <- prot_table %>% select(sig_acc,sig_desc, ipr_acc, ipr_desc) %>% dist
 
 ```
 
-We visualized the tree using a heat map to see, which domains were present in which protein sequences (look at supplementary data from the paper for a more detailed version of the heat map)
+We visualized the tree using a heat map to see, which domains were present in which protein sequences (look at supplementary data from the paper for a more detailed version of the heat map). The heatmap has the ROP values (as calculated in 05)
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 tree2 <- read.tree("data_files/run1.contree") %>% 
@@ -310,5 +310,20 @@ p_heatmap
 
 ```
 
+This heatmap was then divided into clades based on different domain architecture and taxonomic exclusivity into 9 clades
+
+```{r,echo=FALSE, message=FALSE, warning=FALSE}
+p3 <-  ggtree(mid_tree)
+
+p3 %>% 
+  collapse(426,'max',fill="black") %>% 
+  collapse(558,'max',fill="black") %>% 
+  collapse(386,'max',fill="black") %>% 
+  collapse(371,'max',fill="black") %>% 
+  collapse(406,'max',fill="black") %>% 
+  collapse(618,'max',fill="black") %>% 
+  collapse(655,'max',fill="black") %>%   
+  collapse(347,'max',fill="black") %>% 
+  collapse(680,'max',fill="black")
 ```
 

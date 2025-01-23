@@ -2,7 +2,7 @@ Visualising Gene Tree
 ================
 
 The interproscan .tsv files results were annotated to match the
-annotation of the sequence IDs in step 01
+annotation of the sequence IDs in step 01. T
 
 ``` bash
 sed -i '' '/KAK/ s/^/A_cerv_/' acrop_cerv_ipr.tsv
@@ -12,9 +12,12 @@ sed -i '' '/XP_/ s/^/O_fave_/' orbi_fave_ipr.tsv
 ...
 ```
 
+Then each of the signal accessions(columns in the heatmap) were filtered
+
 We visualized the tree using a heat map to see, which domains were
 present in which protein sequences (look at supplementary data from the
-paper for a more detailed version of the heat map)
+paper for a more detailed version of the heat map). The heatmap has the
+ROP values (as calculated in 05)
 
 ![](04_visualising_gene_tree_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
