@@ -11,10 +11,10 @@ library(ggnewscale)
 library(ggplot2)
 library(viridis)
 library(phytools)
+library(wesanderson)
 ```
 
-The interproscan .tsv files results were annotated to match the annotation of the sequence IDs in step 01
-
+The interproscan .tsv files results were annotated to match the annotation of the sequence IDs in step 01. T
 ```{bash, eval =FALSE}
 sed -i '' '/KAK/ s/^/A_cerv_/' acrop_cerv_ipr.tsv
 sed -i '' '/XP_/ s/^/A_mill_/' acrop_mill_ipr.tsv
@@ -23,6 +23,8 @@ sed -i '' '/XP_/ s/^/O_fave_/' orbi_fave_ipr.tsv
 ...
 ```
 
+
+Then each of the signal accessions(columns in the heatmap) were filtered
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 t1 <- read_tsv("data_files/acrop_cerv_ipr.tsv") %>% mutate(species = "A.cervicornis")
 t2 <- read_tsv("data_files/acrop_digi2_ipr.tsv") %>% mutate(species = "A.digitifera")
@@ -40,48 +42,141 @@ t13 <- read_tsv("data_files/xenia_sp_ipr.tsv") %>% mutate(species = "Xenia spp")
 
 prot_table <- rbind(t1, t2, t3 , t4 , t5 , t6 , t7 , t8, t9,t10,t11,t12,t13)%>% select(id, analysis, sig_acc, sig_desc, length, ipr_acc, ipr_desc, goterm, species)
 
-distinct_prot <- prot_table %>%   distinct(id,sig_acc, .keep_all = TRUE)
+prot_table_mod <- prot_table %>% mutate(ipr_acc = if_else(ipr_acc=="-", sig_acc,ipr_acc) )
 
-prot_list <- prot_table %>% select(sig_acc,sig_desc, ipr_acc, ipr_desc) %>% distinct(sig_acc, .keep_all = T)
+#these are redundantaccesion numbers/ synonymous accession numbers that are removed for more concise and accurate representation on the heatmap
+discard_acc <-prot_table_mod %>%
+  filter(str_detect(ipr_acc, "^G3DSA")) %>%
+  distinct(ipr_acc) %>%
+  pull(ipr_acc) %>% 
+  append(c("Coil","mobidb-lite")) %>% 
+  append(c("IPR037120","IPR010255","PTHR11475", "SSF57196", "cd00054", "IPR01881", "IPR018097", "cd11304", "IPR002126", "IPR000859", "cd00096", "IPR003599", "IPR007110", "IPR013783", "IPR036179", "PF13927", "IPR000372","IPR000483", "IPR003591", "IPR032675", "SSF52058","IPR011992","IPR018247","IPR017938","IPR017927", "SFLDS00052", "IPR013121", "SFLDG01168","SFLDG01169", "cd06186","cd09816"))
 
-t1_nohp <- read_tsv("data_files/no_hp/acrop_cerv_ipr.tsv") %>% mutate(species = "A.cervicornis")
-t2_nohp <- read_tsv("data_files/no_hp/acrop_digi2_ipr.tsv") %>% mutate(species = "A.digitifera")
-t3_nohp <- read_tsv("data_files/no_hp/acrop_mill_ipr.tsv") %>% mutate(species = "A.millepora")
-t4_nohp <- read_tsv("data_files/no_hp/des_pert_ipr.tsv") %>% mutate(species = "D.pertusum")
-t5_nohp <- read_tsv("data_files/no_hp/orbi_fave_ipr.tsv") %>% mutate(species = "O.faveolata")
-t6_nohp <- read_tsv("data_files/no_hp/poci_dami_ipr.tsv") %>% mutate(species = "P.damicornis")
-t7_nohp <- read_tsv("data_files/no_hp/pori_ever_ipr.tsv") %>% mutate(species = "P.evermanni")
-t8_nohp <- read_tsv("data_files/no_hp/stylo_pist_ipr.tsv") %>% mutate(species = "S.pistillata")
-t9_nohp <- read_tsv("data_files/no_hp/aethi_tumi_ipr.tsv") %>% mutate(species = "A.tumida")
-t10_nohp <- read_tsv("data_files/no_hp/cras_virg_ipr.tsv") %>% mutate(species = "C.virginica")
-t11_nohp <- read_tsv("data_files/no_hp/nema_vect_ipr.tsv") %>% mutate(species = "N.vectensis")
-t12_nohp <- read_tsv("data_files/no_hp/syco_cili_ipr.tsv") %>% mutate(species = "S.ciliatum")
-t13_nohp <- read_tsv("data_files/no_hp/xenia_sp_ipr.tsv") %>% mutate(species = "Xenia spp")
-
-prot_table_nohp <- rbind(t1_nohp, t2_nohp, t3_nohp , t4_nohp , t5_nohp , t6_nohp , t7_nohp , t8_nohp, t9_nohp,t10_nohp,t11_nohp,t12_nohp,t13_nohp)%>% select(id, analysis, sig_acc, sig_desc, length, ipr_acc, ipr_desc, goterm, species)
-
-prot_linked <- c("DR987689.1_ORF1" ,"evm.model.Chr11.917" ,  "evm.model.Chr11.924"  , "evm.model.Chr2.1139" , "evm.model.Chr3.1092"  , "evm.model.Chr4.151"  ,  "Novel02572"      ,      "Novel02575"   ,        
- "Novel03871"        ,    "paus_s0281.g3.t1_ORF2" ,"paus_s0281.g5.t1_ORF2" ,"paus_s0281.g6.t1_ORF1",
- "XP_022794431.1" )
+prot_table_mod <- prot_table %>% mutate(ipr_acc = if_else(ipr_acc=="-", sig_acc,ipr_acc) ) %>% filter(!ipr_acc %in% discard_acc)
 
 drop_all <- c("S_cili_XP_065197397.1", "S_cili_XP_065197398.1", "S_cili_XP_065197396.1", "S_cili_XP_065197398.1", "S_cili_XP_065197396.1", "D_pert_KAJ7394159.1"  , "O_fave_XP_020616189.1", "O_fave_XP_020616187.1",
  "P_ever_CAH3196444.1"  , "P_ever_CAH3195852.1"  , "P_dami_XP_027039809.1", "S_pist_XP_022784016.1",
  "A_mill_XP_029203804.2" ,"A_cerv_KAK2563915.1_2", "adig_s0028.g73.t1"   ,  "A_cerv_KAK2563915.1_2",
  "adig_s0028.g73.t1"  ,   "N_vect_XP_048577051.1" ,"A_cerv_KAK2563915.1" )
 
+prot_list_mod <- prot_table_mod%>% 
+  select(sig_acc,sig_desc, ipr_acc, ipr_desc) %>% 
+  distinct(ipr_acc, .keep_all = T) %>% 
+  filter(!ipr_acc %in% discard_acc )
+
+process_tree <- function(tree_file) {  
+  # Read the phylogenetic tree
+  tree <- read.tree(tree_file)
+  
+  # Extract tree data for ggtree compatibility
+  ggtree_data <- ggtree(tree)$data
+  
+  # Step to account for multiple domains in sequence IDs and add node information
+  tree_tibble <- tree %>%
+    as_tibble() %>%
+    mutate(prot_accession = ifelse(grepl("_[1-3]$", label) & grepl("[A-Za-z]", label),
+                                   sub("_[1-3]$", "", label),
+                                   label)) %>%
+    left_join(ggtree_data %>% select(node, isTip), by = "node") %>%
+    mutate(node_number = ifelse(!isTip, node, NA))
+  
+  # Initialize play_tree
+  play_tree <- tree_tibble
+  
+  # Get unique domain accessions
+  domain_accessions <- unique(prot_table_mod$ipr_acc)
+  
+  # Add columns for each domain accession
+  for (ipr in domain_accessions) {
+    temp_group <- prot_table_mod %>% filter(ipr_acc == ipr)
+    
+    play_tree <- play_tree %>%
+      mutate(!!ipr := ifelse(prot_accession %in% temp_group$id, T, F))
+  }
+  
+  play_tree <- as.data.frame(play_tree)
+  
+  tree_heatmap <- play_tree %>%
+    mutate(label = make.unique(as.character(label))) %>%
+    column_to_rownames(var = "label") %>%
+    select(!parent:node_number)
+  
+  return(tree_heatmap)
+}
+
+distinct_prot <- prot_table %>%   distinct(id,sig_acc, .keep_all = TRUE)
+
+prot_list <- prot_table %>% select(sig_acc,sig_desc, ipr_acc, ipr_desc) %>% distinct(sig_acc, .keep_all = T)
 
 
-distinct_prot_nohp <- prot_table_nohp %>% distinct(id,sig_acc, .keep_all = TRUE)
-
-prot_list_no_hp <- distinct_prot_nohp%>% select(sig_acc,sig_desc, ipr_acc, ipr_desc) %>% distinct(sig_acc, .keep_all = T)
-
-prot_list_nohp <- prot_table_nohp %>% select(sig_acc,sig_desc, ipr_acc, ipr_desc) %>% distinct(sig_acc, .keep_all = T)
 ```
 
 We visualized the tree using a heat map to see, which domains were present in which protein sequences (look at supplementary data from the paper for a more detailed version of the heat map)
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
-tree2 <- read.tree("data_files/run1.contree")
+tree2 <- read.tree("data_files/run1.contree") %>% 
+  drop.tip(drop_all)
+
+mid_tree <- midpoint.root(tree2)
+
+mid_tree_tibble <- as_tibble(mid_tree)
+
+# Create a ggtree object to access the isTip data
+mid_tree_data <- ggtree(mid_tree)$data
+
+# Add node numbers to all internal nodes
+mid_tree_tibble <- mid_tree_tibble %>%
+  left_join(mid_tree_data %>% select(node, isTip), by = c("node")) %>%
+  mutate(node_number = ifelse(!isTip, node, NA))
+
+mid_tree <- as.phylo(mid_tree_tibble)
+
+tree_df <- process_tree("data_files/run1.contree") 
+
+tree_df <- tree_df[1:360,]
+
+# Calculate ROP values for clades
+ftipnode <- function(tree, node) {
+  descendants <- getDescendants(tree, node)
+  tips <- descendants[descendants <= length(tree$tip.label)]
+  return(tree$tip.label[tips])
+}
+
+find_domains <- function(clade, tree_df, filter_ratio) {
+  # Total number of tips in the clade
+  tot_num <- length(clade)
+  
+  # Subset the data frame to include only the rows (tips) in the clade
+  clade_df <- tree_df[rownames(tree_df) %in% clade, ]
+  
+  clade_df <- clade_df[, colnames(clade_df) != "-"]
+  
+  # Convert TRUE/FALSE to logical
+  clade_df_logical <- clade_df == TRUE
+  
+  # For each domain (column), count the number of tips with the domain
+  domain_counts <- colSums(clade_df_logical)
+  
+  # Compute the ratio of tips with the domain to the total number of tips
+  domain_ratios <- domain_counts / tot_num
+  
+  # Create a data frame to store the results
+  result_df <- data.frame(
+    ipr_acc = names(domain_counts),
+    ratio = domain_ratios
+  )
+  rownames(result_df) <- NULL
+  result_df <- merge(result_df, prot_list_mod, by.x = "ipr_acc", by.y = "ipr_acc", all.x = TRUE) %>% 
+    filter(ratio > filter_ratio) %>%
+    mutate(domain_overlap = ifelse(ipr_acc %in% c(prot_list_mod$ipr_acc), F, T))
+    
+  tree_df_logical <- tree_df == "yes"
+  total_domain_counts <- colSums(tree_df_logical) 
+  result_df <- result_df %>%
+    rowwise() %>%
+    mutate(is_unique = domain_counts[ipr_acc] == total_domain_counts[ipr_acc]) %>%
+    ungroup()
+}
 
 ggtree_data <- ggtree(tree2)$data
   
@@ -98,58 +193,122 @@ signal_accessions <- unique(prot_table$sig_acc)
 # Initialize play_tree2
 play_tree2 <- tree2_tibble
 
-# Iterate over each unique signal accession
-for (sig in signal_accessions) {
-  # Filter prot_table for the current signal accession
-  temp_group <- prot_table %>% filter(sig_acc == sig)
+p_nect_coral <- ftipnode(tree2, 426)
+p_nect_arth <- ftipnode(tree2, 559)
+xenia_clade <- ftipnode(tree2, 386)
+cub_domain <- ftipnode(tree2, 371)
+p_dasin <- ftipnode(tree2, 406)
+intergrin <- ftipnode(tree2, 619)
+clad_7 <- ftipnode(tree2, 656)
+prostaglandin_synthase <- ftipnode(tree2, 347)
+mollusc_laminin <- ftipnode(tree2, 681)
+
+p_nect_coral_doms <- find_domains(p_nect_coral, tree_df , 0) %>% mutate(clade_number = 1)
+p_nect_arth_doms <- find_domains(p_nect_arth, tree_df, 0) %>% mutate(clade_number = 2)
+xenia_clade_doms <- find_domains(xenia_clade, tree_df, 0) %>% mutate(clade_number = 3)
+cub_domain_doms <- find_domains(cub_domain, tree_df, 0) %>% mutate(clade_number = 4)
+p_dasin_doms <- find_domains(p_dasin, tree_df, 0) %>% mutate(clade_number = 5)
+intergrin_doms <- find_domains(intergrin, tree_df, 0) %>% mutate(clade_number = 6)
+ferodoxin_doms <- find_domains(clad_7, tree_df, 0) %>% mutate(clade_number = 7)
+prostaglandin_synthase_doms <- find_domains(prostaglandin_synthase, tree_df, 0) %>% mutate(clade_number = 9)
+mollusc_laminin_doms <- find_domains(mollusc_laminin, tree_df, 0) %>% mutate(clade_number = 8)
+
+# Final data frame construction
+clades <- list(
+  p_nect_coral = p_nect_coral,
+  p_nect_arth = p_nect_arth,
+  xenia_clade = xenia_clade,
+  cub_domain = cub_domain,
+  p_dasin = p_dasin,
+  intergrin = intergrin,
+  clad_7 = clad_7,
+  prostaglandin_synthase = prostaglandin_synthase,
+  mollusc_laminin = mollusc_laminin
+)
+
+clade_map <- data.frame(
+  tip = unlist(clades, use.names = FALSE),
+  clade_number = rep(seq_along(clades), times = lengths(clades))
+)
+
+all_domains_df <- bind_rows(
+  p_nect_coral_doms,
+  p_nect_arth_doms,
+  xenia_clade_doms,
+  cub_domain_doms,
+  p_dasin_doms,
+  intergrin_doms,
+  ferodoxin_doms,
+  prostaglandin_synthase_doms,
+  mollusc_laminin_doms
+) %>% distinct(ipr_acc, clade_number, .keep_all = T)
+
+tree_df_with_clade <- tree_df %>%
+  rownames_to_column(var = "tip") %>%    # Add rownames (tip labels) as a column
+  left_join(clade_map, by = "tip") %>%  # Join with clade_map to assign clade numbers
+  filter(!is.na(clade_number))      
+
+tree_df_ratio <- tree_df_with_clade
+
+for (domain in unique(all_domains_df$ipr_acc)) {
+  # Filter domain ratios for the current domain
+  domain_ratios <- all_domains_df %>%
+    filter(ipr_acc == domain) %>%
+    select(clade_number, ratio) %>%
+    deframe()
   
-  # Create a new column in play_tree2 for the current signal accession
-  play_tree2 <- play_tree2 %>%
-    mutate(!!sig := ifelse(prot_accession %in% temp_group$id, "yes", "no"))
+  # Dynamically create the column if it doesn't exist
+  if (!domain %in% colnames(tree_df_ratio)) {
+    tree_df_ratio <- tree_df_ratio %>%
+      mutate(!!sym(domain) := NA_real_)
+  }
+  
+  # Dynamically update the column based on the domain ratios
+  tree_df_ratio <- tree_df_ratio %>%
+    mutate(!!sym(domain) := if_else(
+      !!sym(domain) == TRUE & clade_number %in% names(domain_ratios),
+      domain_ratios[as.character(clade_number)],
+      !!sym(domain)
+    ))
 }
 
-# Select only necessary columns
-play_tree2 <- as.data.frame(play_tree2)
+tree_df_ratio <- tree_df_ratio %>%
+  select(-clade_number) %>%
+  column_to_rownames(var = "tip")
 
-# Ensure unique row names
-tree2_heatmap <- play_tree2%>%
-  mutate(label = make.unique(as.character(label))) %>%
-  column_to_rownames(var = "label") %>% 
-  select(!parent:node_number)
+p2 <- ggtree(mid_tree) %<+% mid_tree_tibble +
+  theme(legend.title = element_text(face = "bold")) +
+  labs(color = "Cluster")+
+  geom_tiplab(align = TRUE,size = 0.3) +
+  #geom_text2(aes(label = node_number), hjust = -0.3, size = 2, na.rm = TRUE)
+  geom_hilight(node = 426, fill = "lightgreen", to.bottom = TRUE, extend = 1.8) +
+  geom_hilight(node = 558, fill = "darkgreen", to.bottom = TRUE, extend = 2) +
+  geom_hilight(node = 386, fill = "blue", to.bottom = TRUE,extend = 2.5) +
+  geom_hilight(node = 371, fill = "red", to.bottom = TRUE, extend = 2.5) +
+  geom_hilight(node = 406, fill = "yellow", to.bottom = TRUE, extend = 2.8) +
+  geom_hilight(node = 618, fill = "purple", to.bottom = TRUE,extend = 2.8) +
+  geom_hilight(node = 655, fill = "orange", to.bottom = TRUE,extend = 2) +
+  geom_hilight(node = 680, fill = "goldenrod", to.bottom = TRUE, extend = 2) +
+  geom_hilight(node = 347, fill = "brown", to.bottom = TRUE, extend = 1.8)
+  
 
+p_heatmap <- gheatmap(
+  p2, data = tree_df_ratio,
+  offset = 0.70, width = 0.5, font.size = 1 ,
+  colnames = TRUE, colnames_position = "bottom",
+  colnames_angle = 90, colnames_offset_y = 3,
+  legend_title = element_text("Ratio of Presence")
+) +
+  scale_fill_gradientn(colors = c("lightgrey", wes_palette("Zissou1")), name = "Ratio of Presence") +
+  theme(
+    legend.position = "right"
+  ) +
+  coord_cartesian(clip = "off")
 
-
-# Ensure no duplicated row names
-rownames(tree2_heatmap) <- make.unique(rownames(tree2_heatmap))
-
-phylo_tree <- as.phylo(tree2_tibble) %>% 
-  drop.tip(drop_all)
-
-p2 <- ggtree(phylo_tree) %<+% play_tree2 +
-  geom_tiplab(align = TRUE, linetype = 'dashed', linesize = 0.05, size =0.3) +
-  geom_nodelab(hjust = 1,nudge_x = 0.2, size =1)+
-  #geom_text2(aes(label = node_number), hjust = -0.3, size = 2, na.rm = TRUE) +
-  geom_tippoint(size = 0.5)
-
-# Add heatmap
-gheatmap(p2, data = tree2_heatmap, colnames = TRUE, offset = 0.1 , width = 1, font.size = 1, colnames_angle = 90, legend_title = "present", hjust = 0)
+p_heatmap
 
 
 ```
-
-This heatmap was then divided into clades based on different domain architecture and taxonomic exclusivity into 9 clades
-
-```{r,echo=FALSE, message=FALSE, warning=FALSE}
-p2 %>% 
-  collapse(426,'max',fill="black") %>% 
-  collapse(559,'max',fill="black") %>% 
-  collapse(386,'max',fill="black") %>% 
-  collapse(371,'max',fill="black") %>% 
-  collapse(406,'max',fill="black") %>% 
-  collapse(619,'max',fill="black") %>% 
-  collapse(656,'max',fill="black") %>%   
-  collapse(347,'max',fill="black") %>% 
-  collapse(681,'max',fill="black")
 
 ```
 
