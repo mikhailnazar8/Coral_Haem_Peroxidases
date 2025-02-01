@@ -13,6 +13,9 @@ sed -i '' '/XP_/ s/^/O_fave_/' orbi_fave_ipr.tsv
 ```
 
 Then each of the signal accessions(columns in the heatmap) were filtered
+to ensure there were no redundencies/ synonymous domains. This ensured
+accurate representation of domains present in the proteins on the
+heatmap
 
 We visualized the tree using a heat map to see, which domains were
 present in which protein sequences (look at supplementary data from the

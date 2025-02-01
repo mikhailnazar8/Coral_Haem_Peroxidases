@@ -24,7 +24,7 @@ sed -i '' '/XP_/ s/^/O_fave_/' orbi_fave_ipr.tsv
 ```
 
 
-Then each of the signal accessions(columns in the heatmap) were filtered
+Then each of the signal accessions(columns in the heatmap) were filtered to ensure there were no redundencies/ synonymous domains. This ensured accurate representation of domains present in the proteins on the heatmap
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 t1 <- read_tsv("data_files/acrop_cerv_ipr.tsv") %>% mutate(species = "A.cervicornis")
 t2 <- read_tsv("data_files/acrop_digi2_ipr.tsv") %>% mutate(species = "A.digitifera")
