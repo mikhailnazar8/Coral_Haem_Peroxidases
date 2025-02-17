@@ -49,7 +49,7 @@ python3 na2aa.py < fasta_file >
 ```
 
 These ORFS, went rhough the same steps as in 01 and 02 to add the haem peropxidase domains (if they were able to be extracted) into the gene tree, giving us a gene tree which highlighted the external ORFs
-```{r, echo=FALSE}
+```{r, echo=FALSE, message=FALSE}
 tree3 <- read.tree("data_files/run2.contree")
 
 mid_tree_2 <- midpoint_root(tree3)

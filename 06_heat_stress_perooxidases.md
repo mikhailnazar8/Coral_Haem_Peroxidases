@@ -29,9 +29,6 @@ python3 na2aa.py < fasta_file >
 These ORFS, went rhough the same steps as in 01 and 02 to add the haem
 peropxidase domains (if they were able to be extracted) into the gene
 tree, giving us a gene tree which highlighted the external ORFs
-
-    ## Joining with `by = join_by(parent, node, branch.length, label)`
-
 ![](06_heat_stress_perooxidases_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
 As is evident all the heat linked proteins are clustered at the top clad
