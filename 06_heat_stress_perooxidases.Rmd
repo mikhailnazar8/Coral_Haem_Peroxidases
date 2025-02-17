@@ -83,15 +83,13 @@ peroxinectin_data <- ggtree(peroxinectin_phylo)$data
 
 peroxinectin_tibble <- peroxinectin_tibble %>% 
   mutate(prot_linked = ifelse(label %in% prot_linked, TRUE, FALSE)) %>% 
-  left_join(ggtree_data_2 %>% select(node, isTip), by = c("node")) %>%
-  mutate(node_number = ifelse(!isTip, node, NA)) %>%
-  mutate(prot_linked = ifelse(label %in% prot_linked, TRUE, FALSE))
+  left_join(ggtree_data_2 )
   
 
 per_tree_img <- ggtree(peroxinectin_phylo) %<+% peroxinectin_tibble +
   geom_tiplab( aes(color = prot_linked), size= 0.2) +
   #geom_text2(aes(label = node_number), hjust = -0.3, size = 2, na.rm = TRUE)+
-  geom_tippoint(aes(color = prot_linked), size =0.2) +  
+  geom_tippoint(aes(color = prot_linked), size =0.5) +  
   scale_color_manual(values = c("black", "red")) +  # Black for non-linked, red for linked
   theme(legend.position = "none") 
 
